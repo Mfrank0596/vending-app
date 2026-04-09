@@ -1,0 +1,2178 @@
+﻿
+  martins_body.html:1:<body class="body" style="padding-top: 185px;">
+  martins_body.html:2:    
+  martins_body.html:3:    
+  martins_body.html:4:
+  martins_body.html:5:
+  martins_body.html:6:    
+  martins_body.html:7:    <!-- BEGIN Google Tag Manager noscript -->
+  martins_body.html:8:    <noscript>
+  martins_body.html:9:        <iframe
+  martins_body.html:10:            title=""
+  martins_body.html:11:            
+src="https://www.googletagmanager.com/ns.html?id=GTM-PTR8VBJ"
+  martins_body.html:12:            height="0"
+  martins_body.html:13:            width="0"
+  martins_body.html:14:            style="display:none;visibility:hidden">
+  martins_body.html:15:        </iframe>
+  martins_body.html:16:    </noscript>
+  martins_body.html:17:    <!-- END Google Tag Manager noscript -->
+  martins_body.html:18:
+  martins_body.html:19:
+  martins_body.html:20:    <div id="app"></div>
+> martins_body.html:21:    <div id="shared" data-v-app=""><div id="app" 
+tabindex="-1" class="outline-0"><div class="alert" 
+aria-hidden="false"><!----><!----></div><!----><a id="skip-nav" class="skip-nav" 
+href="#" aria-hidden="false"> Skip to Main Content </a><!----><div 
+is-mobile="false" is-tablet="false" aria-hidden="false"><div 
+class="global-header-base !w-full"><header><!----><div class="global-header 
+!border-none" is-new-nav-design-enabled="true"><nav class="global-header_nav 
+global-header_nav--main spyglass-nav-group_wrapper mx-auto max-w-[192rem]" 
+aria-label="Main Menu"><!----><!----><button id="menu-button" aria-label="Menu" 
+aria-expanded="false" aria-haspopup="true" class="menu-button 
+hidden-above-1200"><div class="menu-button_icon"><svg 
+xmlns="http://www.w3.org/2000/svg" class="" aria-label="menu" viewBox="0 0 38 32" 
+role="presentation" aria-hidden="true" focusable="false"><title 
+lang="en">menu</title><desc></desc><g fill="" stroke=""><path d="M37.38 
+30.82H0v-4h37.38zm0-13.42H0v-4h37.38zm0-13.42H0V0h37.38z" 
+fill="#001919"></path></g></svg></div></button><div 
+class="global-header_logo-container flex"><!----><a id="brand-logo_link" href="#" 
+aria-label="Home" class=""><div class="vector-icon-mrtn-logo"><svg 
+xmlns="http://www.w3.org/2000/svg" class="" aria-label="Martins Logo" viewBox="0 0 
+233 32" role="presentation" aria-hidden="true" focusable="false"><title 
+lang="en">Martins Logo</title><desc></desc><g fill="" 
+stroke=""><g><!----><!----><!----><g fill="#d72331"><path d="M97.591 
+8.893c-.699-.626-1.747-.939-3.145-.939h-4.237v7.164h4.237c1.398 0 2.446-.313 
+3.145-.939s1.049-1.507 1.049-2.643-.35-2.016-1.049-2.643zm-4.106 
+14h-3.276v8.369H79.9V.003h15.202c2.825 0 5.286.466 7.383 1.398s3.713 2.271 4.849 
+4.019c1.136 1.747 1.704 3.786 1.704 6.115 0 2.184-.496 4.092-1.485 5.722-.99 
+1.631-2.418 2.927-4.281 3.888l6.422 10.116H98.686l-5.198-8.369zM59.568 20.893a10.8 
+10.8 0 0 1-3.911-2.017l3.161-6.993 4.893 
+10.823c-1.255-.857-2.699-1.41-4.143-1.812zm18.525 10.37L64.075.003H53.562l-14.018 
+31.26h10.514l4.317-9.55c.556 3.999 2.902 9.477 11.422 
+9.55-.091-.302-1.401-4.341-7.686-8.142 0 0 6.406 1.512 9.439 8.085h.001v-.008l.029.
+064h10.513zM141.661.025h-30.066v9.371l10.049-.042v21.908h10.044V9.396h9.973V.025zM1
+45.372 31.262h10.049V.025h-10.049zM191.28.025h-10.049v15.138L169.507.025h-10.049v31
+.237h10.049V16.124l11.724 
+15.138h10.049V.025zM199.96.014h-5.8v8.264h4.243l1.558-8.264zM205.954 
+31.148c-2.404-.568-4.377-1.332-5.921-2.294l3.321-7.516c1.456.845 3.088 1.523 4.894 
+2.032s3.54.764 5.2.764c1.427 0 2.447-.138 3.059-.415s.918-.692.918-1.245c0-.64-.401
+-1.121-1.202-1.442-.802-.32-2.119-.67-3.954-1.049-2.36-.495-4.326-1.027-5.899-1.595
+s-2.943-1.5-4.107-2.797c-1.166-1.296-1.748-3.051-1.748-5.265 0-1.923.538-3.671 
+1.617-5.244 1.077-1.573 2.688-2.811 4.828-3.714s4.741-1.355 7.8-1.355c2.097 0 
+4.158.226 6.183.677 2.024.452 3.808 1.114 5.353 1.988l-3.102 
+7.472c-3-1.514-5.841-2.272-8.521-2.272-2.651 0-3.976.641-3.976 1.922 0 .612.393 
+1.071 1.18 1.377s2.083.633 3.889.983c2.33.437 4.297.94 5.899 1.508s2.993 1.493 
+4.173 2.775 1.77 3.03 1.77 5.244c0 1.923-.54 3.664-1.617 5.222-1.078 1.559-2.687 
+2.797-4.828 3.714S216.422 32 213.363 32c-2.534 0-5.003-.284-7.406-.852zM27.91 
+31.263l-.089-14.245-6.788 11.432h-4.644L9.601 17.509v13.754H0V.003h8.664L18.846 
+16.66 28.76.003h8.663l.089 31.26h-9.601zM230.399 29.213h-.467v-.559h.467c.178 0 .31
+3.11.313.28s-.135.28-.313.28zm.767-.277c0-.377-.266-.654-.701-.654h-.977v2.029h.445
+v-.727h.326l.41.727h.51l-.47-.773a.586.586 0 0 0 .457-.602z"></path><path 
+d="M230.27 30.889c-.904 0-1.638-.714-1.638-1.591s.735-1.591 1.638-1.591 1.638.714 
+1.638 1.591-.735 1.591-1.638 1.591zm0-3.558c-1.116 0-2.024.882-2.024 1.966s.908 
+1.966 2.024 1.966 2.024-.882 2.024-1.966-.908-1.966-2.024-1.966z"></path></g><!----
+><!----><!----></g></g></svg></div></a></div><!----><!----><div 
+class="global-header_resizable-section"><div class="global-header_search"><form 
+action="#" class="typeahead-container" tabindex="-1"><div 
+id="typeahead-container_input" class="typeahead-container_input 
+spyglass-nav-group_wrapper"><div class="typeahead-container_input-field 
+typeahead-container_input-field--desktop"><div 
+class="global-search-bar-wrapper"><div class="input-wrapper !bg-gray-50 
+!h-16"><!----><input id="typeahead-search-input" class="search-input 
+!rounded-[inherit] !bg-gray-50 p-0 !pl-2 !ml-6 !h-16 w-full" type="search" 
+autocomplete="off" aria-label="Search by snickers" spellcheck="false" 
+autocorrect="off" autocapitalize="off" aria-autocomplete="false" 
+aria-expanded="false" aria-describedby="searchDescription" 
+value="snickers"><!----><!----><button class="search-field_clear-icon 
+clear-search-icon"><span class="element-invisible"> Clear search </span><span 
+class="loading-spinner"><div class="loading-spinner_container"><span 
+class="spinner"></span><span class="circle"></span><!----></div></span><div 
+class="vector-icon-size--xsmall"><svg xmlns="http://www.w3.org/2000/svg" 
+class="search-field_clear-icon--color" aria-label="Close" viewBox="0 0 32 32" 
+role="presentation" aria-hidden="true" focusable="false"><title 
+lang="en">Close</title><desc></desc><g fill="" stroke=""><path d="M0.646 
+31.354c0.861 0.861 2.262 0.861 3.123 0l12.23-12.23 12.23 12.23c0.861 0.861 2.262 
+0.861 3.123 0s0.861-2.262 0-3.123l-12.23-12.23 12.23-12.23c0.861-0.861 0.861-2.262 
+0-3.123s-2.262-0.861-3.123 0l-12.23 
+12.23-12.23-12.23c-0.861-0.861-2.262-0.861-3.123 0s-0.861 2.262 0 3.123l12.23 
+12.23-12.23 12.23c-0.862 0.861-0.862 2.262 0 
+3.123z"></path></g></svg></div></button><!----><!----><!----><div 
+id="searchDescription" class="sr-only"> When results are available, use the up and 
+down keys to review and the enter key to select. 
+</div></div><!----><!----></div><aside class="typeahead-container_search-container 
+typeahead-container_search-container--desktop top-24 !z-30 !border 
+!border-gray-100 border-none" role="none"><!----><!----><div class="relative-el 
+spyglass-nav-group_wrapper" style="display: none;"><div class="flex 
+flex-column"><div id="display-ad-search-dropdown" class="" style="width: 0px; 
+height: 0px;"></div><!----></div><!----></div></aside></div><!----><!----></div></f
+orm></div><!----></div><div class="global-header_account-container 
+spyglass-nav-group_wrapper flex items-center space-evenly"><button 
+id="header-account-button" aria-expanded="false" aria-haspopup="true" 
+class="items-center hidden lg:flex flex-row text-sm font-normal p-4 flex-row" 
+opco="MRTN"><!----> Sign In <div class="nav-item_caret ml-1"><div 
+class="vector-icon-size--xsmall stroke-black"><svg 
+xmlns="http://www.w3.org/2000/svg" class="" aria-label="down arrow" viewBox="0 0 
+32 32" role="presentation" aria-hidden="true" focusable="false"><title 
+lang="en">down arrow</title><desc></desc><g fill="" stroke=""><polyline 
+fill="none" stroke-width="3" stroke-linecap="square" 
+transform="translate(16.485250, 16.242750) rotate(-270.000000) 
+translate(-16.485250, -16.242750) " points="12.2425 7.7575 20.728 16.2425 12.2425 
+24.728"></polyline></g></svg></div></div><div class="nav-item_caret ml-1" 
+style="display: none;"><div class="vector-icon-size--xsmall stroke-black 
+stroke-4"><svg xmlns="http://www.w3.org/2000/svg" class="" aria-label="down up" 
+viewBox="0 0 32 32" role="presentation" aria-hidden="true" 
+focusable="false"><title lang="en">down up</title><desc></desc><g fill="" 
+stroke=""><polyline fill="none" stroke-width="3" stroke-linecap="square" 
+transform="translate(16.485250, 16.242750) rotate(-90.000000) 
+translate(-16.485250, -16.242750) " points="12.2425 7.7575 20.728 16.2425 12.2425 
+24.728"></polyline></g></svg></div></div></button><!----><div class="hidden 
+lg:block border-l border-solid border-gray-100 h-10"></div><li class="nav-item 
+global-header_nav-item hidden lg:block pl-4 font-normal text-sm"><a 
+id="nav-shopping-list" class="!font-normal my-0 text-black" href="#" 
+target="false" rel="" aria-haspopup="" aria-expanded="false">Shopping List 
+<!----><!----><!----></a><!----></li><!----></div><button class="btn btn--primary 
+cart-btn btn--small global-header_cart-button-container !h-16" aria-label="Cart 
+Subtotal $0.00" cart-amount="0"><div class="cart-button-content"><!----><div 
+class="cart-button-content_text">$0.00</div><div class="shrink-0 h-7 w-8 
+self-baseline"><svg xmlns="http://www.w3.org/2000/svg" class="" aria-label="cart" 
+viewBox="0 0 32 32" role="presentation" aria-hidden="true" 
+focusable="false"><title lang="en">cart</title><desc></desc><g fill="white" 
+stroke=""><path d="M6.05852374 28.06075a2.0049179 2.00375 0 1 0 2.0049179-2.00375 
+2.0049179 2.00375 0 0 0-2.0049179 2.00375zm18.0092407 0a2.0049179 2.00375 0 1 0 
+2.0049179-2.00375 2.0049179 2.00375 0 0 0-1.9961628 2.00375zM-.00000546 
+3.062a.9980814.9975 0 0 0 .9980814 1.00625h2.0837138l1.2432242 5.31125 1.75102 
+8.68875a1.8473261 1.84625 0 0 0 .0437755.21l-1.0331018 4.5675a.963061.9625 0 0 0 0 
+.21875.9980814.9975 0 0 0 .9980814.9975h22.675709a1.00245895 1.001875 0 1 0 
+0-2.00375h-21.449995l.4552652-2.05625.2889183.06125h18.5170365a2.0749587 2.07375 0 
+0 0 1.9961628-1.505l3.2568972-9.975a1.75102 1.75 0 0 0 .175102-.77 1.75102 1.75 0 
+0 0-1.75102-1.75H6.05852374a1.9086118 1.9075 0 0 
+0-.4552652.09625l-.7616937-3.325a1.0068365 1.00625 0 0 
+0-.9718161-.77H.99807594a.9980814.9975 0 0 0-.9980814.9975zm6.12857 
+5.005h23.7963618l-3.1956115 9.8a1.75102 1.75 0 0 1-.0963061.20125H8.06344164v-.3937
+5z"></path></g></svg></div></div></button></nav></div><!----><!----><div 
+class="header-nav_wrapper sticky top-0 z-10"><nav class="global-header_nav 
+global-header_nav--sub spyglass-nav-group_wrapper bg-white mx-auto max-w-[192rem] 
+border-b-[0.05rem] border-solid border-gray-100" aria-label="Secondary"><ul 
+class="global-header_list justify-items-center"><li class="nav-item mb-2 
+ml-[0.8rem]"><button id="nav-categories" class="font-semibold text-grey-900 
+hover:!text-gray-900 text-sm relative top-[0.1rem] flex py-6 !px-[1rem] 
+decoration-current" aria-haspopup="" aria-expanded="false">Categories <!----><div 
+class="nav-item_caret ml-1 mt-0 pt-1"><div class="vector-icon-size--xsmall 
+vector-icon-stroke--prime"><svg xmlns="http://www.w3.org/2000/svg" class="" 
+aria-label="down arrow" viewBox="0 0 32 32" role="presentation" aria-hidden="true" 
+focusable="false"><title lang="en">down arrow</title><desc></desc><g fill="" 
+stroke=""><polyline fill="none" stroke-width="3" stroke-linecap="square" 
+transform="translate(16.485250, 16.242750) rotate(-270.000000) 
+translate(-16.485250, -16.242750) " points="12.2425 7.7575 20.728 16.2425 12.2425 
+24.728"></polyline></g></svg></div></div><div class="nav-item_caret ml-1 mt-0 pt-1 
+stroke-4" style="display: none;"><div class="vector-icon-size--xsmall 
+vector-icon-stroke--prime"><svg xmlns="http://www.w3.org/2000/svg" class="" 
+aria-label="down up" viewBox="0 0 32 32" role="presentation" aria-hidden="true" 
+focusable="false"><title lang="en">down up</title><desc></desc><g fill="" 
+stroke=""><polyline fill="none" stroke-width="3" stroke-linecap="square" 
+transform="translate(16.485250, 16.242750) rotate(-90.000000) 
+translate(-16.485250, -16.242750) " points="12.2425 7.7575 20.728 16.2425 12.2425 
+24.728"></polyline></g></svg></div></div><!----><!----></button><!----><div 
+class="menu menu--small absolute top-[4.4rem] left-4 bg-white border 
+border-gray-50 rounded-t-none rounded-b-md shadow-lg z-[9999]" style="display: 
+none;"><!----><div class="menu_main-content"><ul></ul></div><!----></div></li><div 
+class="hidden lg:block border-l border-solid border-gray-100 h-10 mt-6 
+mx-[0.8rem]"></div><li class="nav-item mb-2"><a id="nav-past-purchases" 
+class="nav-item_link !text-gray-900 flex py-6 !px-[1rem] decoration-current 
+hover:!text-gray-900 !text-sm" href="#" target="false" rel="" aria-haspopup="" 
+aria-expanded="false">Past Purchases 
+<!----><!----><!----><!----><!----></a><!----><div class="menu menu--small 
+absolute top-[4.4rem] left-4 bg-white border border-gray-50 rounded-t-none 
+rounded-b-md shadow-lg z-[9999]" style="display: none;"><!----><div 
+class="menu_main-content"><ul></ul></div><!----></div></li><li class="nav-item 
+mb-2"><a id="nav-weekly-ad" class="nav-item_link !text-gray-900 flex py-6 
+!px-[1rem] decoration-current hover:!text-gray-900 !text-sm" href="#" 
+target="false" rel="" aria-haspopup="" aria-expanded="false">Weekly Ad 
+<!----><!----><!----><!----><!----></a><!----><div class="menu menu--small 
+absolute top-[4.4rem] left-4 bg-white border border-gray-50 rounded-t-none 
+rounded-b-md shadow-lg z-[9999]" style="display: none;"><!----><div 
+class="menu_main-content"><ul></ul></div><!----></div></li><li class="nav-item 
+mb-2"><a id="nav-coupons" class="nav-item_link !text-gray-900 flex py-6 !px-[1rem] 
+decoration-current hover:!text-gray-900 !text-sm" href="#" target="false" rel="" 
+aria-haspopup="" aria-expanded="false">Coupons 
+<!----><!----><!----><!----><!----></a><!----><div class="menu menu--small 
+absolute top-[4.4rem] left-4 bg-white border border-gray-50 rounded-t-none 
+rounded-b-md shadow-lg z-[9999]" style="display: none;"><!----><div 
+class="menu_main-content"><ul></ul></div><!----></div></li><li class="nav-item 
+mb-2"><a id="nav-sales" class="nav-item_link !text-gray-900 flex py-6 !px-[1rem] 
+decoration-current hover:!text-gray-900 !text-sm" href="#" target="false" rel="" 
+aria-haspopup="" aria-expanded="false">Sales 
+<!----><!----><!----><!----><!----></a><!----><div class="menu menu--small 
+absolute top-[4.4rem] left-4 bg-white border border-gray-50 rounded-t-none 
+rounded-b-md shadow-lg z-[9999]" style="display: none;"><!----><div 
+class="menu_main-content"><ul></ul></div><!----></div></li><li class="nav-item 
+mb-2"><a id="nav-martin-s-choice-rewards-" class="nav-item_link !text-gray-900 
+flex py-6 !px-[1rem] decoration-current hover:!text-gray-900 !text-sm" href="#" 
+target="false" rel="" aria-haspopup="" aria-expanded="false">MARTIN'S Choice 
+Rewards® <!----><!----><!----><!----><!----></a><!----><div class="menu 
+menu--small absolute top-[4.4rem] left-4 bg-white border border-gray-50 
+rounded-t-none rounded-b-md shadow-lg z-[9999]" style="display: none;"><!----><div 
+class="menu_main-content"><ul></ul></div><!----></div></li><li class="nav-item 
+mb-2"><a id="nav-recipes" class="nav-item_link !text-gray-900 flex py-6 !px-[1rem] 
+decoration-current hover:!text-gray-900 !text-sm" 
+href="https://recipecenter.martinsfoods.com/savory/recipes" target="_blank" 
+rel="noopener noreferrer" aria-haspopup="" aria-expanded="false">Recipes 
+<!----><!----><!----><!----><!----></a><!----><div class="menu menu--small 
+absolute top-[4.4rem] left-4 bg-white border border-gray-50 rounded-t-none 
+rounded-b-md shadow-lg z-[9999]" style="display: none;"><!----><div 
+class="menu_main-content"><ul></ul></div><!----></div></li><li class="nav-item 
+mb-2"><button id="nav-pharmacy-wellbeing" class="font-semibold text-grey-900 
+hover:!text-gray-900 text-sm relative top-[0.1rem] flex py-6 !px-[1rem] 
+decoration-current" aria-haspopup="" aria-expanded="false">Pharmacy &amp; 
+Wellbeing <!----><!----><!----><div class="nav-item_caret ml-1 mt-0 pt-1"><div 
+class="vector-icon-size--xsmall stroke-black"><svg 
+xmlns="http://www.w3.org/2000/svg" class="" aria-label="down arrow" viewBox="0 0 
+32 32" role="presentation" aria-hidden="true" focusable="false"><title 
+lang="en">down arrow</title><desc></desc><g fill="" stroke=""><polyline 
+fill="none" stroke-width="3" stroke-linecap="square" 
+transform="translate(16.485250, 16.242750) rotate(-270.000000) 
+translate(-16.485250, -16.242750) " points="12.2425 7.7575 20.728 16.2425 12.2425 
+24.728"></polyline></g></svg></div></div><div class="nav-item_caret ml-1 mt-0 pt-1 
+stroke-3" style="display: none;"><div class="vector-icon-size--xsmall 
+stroke-black"><svg xmlns="http://www.w3.org/2000/svg" class="" aria-label="down 
+up" viewBox="0 0 32 32" role="presentation" aria-hidden="true" 
+focusable="false"><title lang="en">down up</title><desc></desc><g fill="" 
+stroke=""><polyline fill="none" stroke-width="3" stroke-linecap="square" 
+transform="translate(16.485250, 16.242750) rotate(-90.000000) 
+translate(-16.485250, -16.242750) " points="12.2425 7.7575 20.728 16.2425 12.2425 
+24.728"></polyline></g></svg></div></div></button><!----><div class="menu 
+menu--small absolute top-[4.4rem] left-4 bg-white border border-gray-50 
+rounded-t-none rounded-b-md shadow-lg z-[9999]" style="display: none;"><!----><div 
+class="menu_main-content"><ul><li class="nav-item nav-item--dropdown-item 
+font-normal !hover:text-gray-900 hover:bg-gray-50"><a id="nav-Pharmacy" 
+class="nav-item_link !text-gray-900 hover:!text-gray-900 !text-sm 
+decoration-current flex py-6 !px-[1rem]" href="#" target="false" rel="" 
+aria-haspopup="" aria-expanded="false"><!----><!----> Pharmacy</a><!----></li><li 
+class="nav-item nav-item--dropdown-item font-normal !hover:text-gray-900 
+hover:bg-gray-50"><a id="nav-Wellbeing" class="nav-item_link !text-gray-900 
+hover:!text-gray-900 !text-sm decoration-current flex py-6 !px-[1rem]" href="#" 
+target="false" rel="" aria-haspopup="" aria-expanded="false"><!----><!----> 
+Wellbeing</a><!----></li><!----></ul></div><!----></div></li></ul><div 
+class="ml-auto flex text-sm pr-8 pb-1" is-new-nav-design-enabled="true"><div 
+class="flex w-full"><div class="flex"><div class="flex items-center mt-2"><div 
+class="shopping-mode-icon"><svg xmlns="http://www.w3.org/2000/svg" class="w-10 
+h-10 vector-icon-color--darkest-grey" aria-label="shopping-mode-icon" viewBox="0 0 
+32 32" role="presentation" aria-hidden="true" focusable="false"><title 
+lang="en">shopping-mode-icon</title><desc></desc><g fill="" stroke=""><!----><!----
+><!----><!----><!----><!----><!----><!----><!----><!----><path d="M24.8975 
+4L26.3164 6.36096L26.3269 6.37759L28 9.14868V9.36145C28 10.873 27.2513 12.2014 
+26.1046 12.9728V27H4.92716V12.9728L4.91026 12.9624C3.76253 12.2048 3 10.8659 3 
+9.34055V9.13205L4.6783 6.36096L6.0972 4H24.8975ZM21.1121 12.5128L20.9648 
+12.6491C20.25 13.2795 19.327 13.6592 18.3193 13.6592C17.2397 13.6592 16.2572 
+13.2233 15.5266 12.5128L15.3794 12.6494C14.6659 13.2803 13.7436 13.6607 12.7364 
+13.6607C11.6573 13.6607 10.6757 13.2241 9.94629 12.5128L9.7977 12.6484C9.07486 
+13.2775 8.14579 13.6557 7.13235 13.6557C6.81621 13.6557 6.50831 13.6189 6.24021 
+13.5547V25.6145H24.7705L24.8179 13.5538L24.6219 13.5952C24.471 13.6218 24.3174 
+13.6398 24.1615 13.6489L23.926 13.6557C22.8402 13.6557 21.8512 13.2214 21.1121 
+12.5128ZM13.8233 15.8699C14.1543 15.8699 14.4485 16.0346 14.6371 16.2926L15.5371 
+18.4596C15.7118 18.0107 16.1195 16.9965 16.3154 16.4755L16.3471 16.4034C16.4309 
+16.1082 16.6846 15.8953 16.9877 15.888H17.1307C17.4634 15.888 17.7675 16.016 
+17.999 16.2261C18.2008 16.4304 18.3289 16.7135 18.3378 17.0296H18.3272L18.327 
+22.117C18.3291 22.1593 18.3302 22.2019 18.3302 22.2448C18.3302 22.2877 18.3291 
+22.3303 18.3272 22.3667V22.4388H16.9666C16.9428 22.4139 16.9368 22.4076 16.9353 
+22.0764L16.9348 18.3376L16.1142 20.887C16.0403 21.0685 15.8714 21.1933 15.6746 
+21.1933C15.6616 21.1933 15.6488 21.1928 15.6377 21.1919C15.5915 21.2021 15.5385 
+21.208 15.4842 21.208C15.4298 21.208 15.3768 21.2021 15.3306 21.1919C15.1629 
+21.1449 15.0262 21.0307 14.9442 20.876L14.8992 20.746C14.7021 20.1745 14.3052 
+19.0108 14.0706 18.3099V22.5109H12.6623V16.8024C12.6676 16.154 13.3982 15.8714 
+13.7688 15.8714C13.7851 15.8704 13.8041 15.8699 13.8233 15.8699ZM23.6402 
+12.2517L23.7622 12.2606L23.8943 12.2636C24.1185 12.2636 24.3368 12.2373 24.5269 
+12.1913L24.549 12.1863C24.7697 12.127 24.9811 12.0435 25.1623 11.9475L25.1775 
+11.9398C26.0117 11.4797 26.5957 10.5894 26.6606 9.54217L24.5164 5.97304L24.167 
+5.40773H6.81734L6.46262 5.9952L4.34486 9.5588L4.34527 9.56712C4.40689 10.5983 
+4.98253 11.4836 5.822 11.953L5.86964 11.9527L6.021 12.0279C6.30445 12.156 6.61214 
+12.2365 6.93485 12.2598L7.13021 12.2668C8.05494 12.2668 8.87501 11.7976 9.39044 
+11.0663L9.91987 10.3015L10.4493 11.0663L10.4549 11.0747C10.963 11.8064 11.7872 
+12.2821 12.7174 12.2821C13.5843 12.2821 14.3589 11.8691 14.8754 11.2159L14.9866 
+11.0663L15.516 10.3015L16.0454 11.0663L16.0508 11.0743C16.557 11.7922 17.3709 
+12.2579 18.2887 12.2579H18.5444L18.5563 12.2569C19.3065 12.1778 19.9703 11.7917 
+20.4345 11.2159L20.5457 11.0663L21.0857 10.3015L21.6151 11.0663L21.7369 
+11.1882C22.1998 11.7783 22.8711 12.1739 23.6428 12.2523L23.6375 12.2517H23.6402Z" 
+fill="#63666A"></path><!----><!----><!----><!----><!----></g></svg></div><div 
+class="flex items-baseline"><button class="robot-shopping-mode-type font-bold 
+pl-2" aria-haspopup="dialog" 
+data-opens-modal="true"><strong>In-Store</strong></button><span 
+class="pl-2">at</span><button class="robot-shopping-mode-location pl-2 flex 
+no-wrap items-baseline" aria-haspopup="dialog" data-opens-modal="true"><strong 
+class="leading-1">1650 C Wesel Blvd</strong><span class="leading-1"> , 21740</span>
+<!----></button></div></div><!----></div></div></div><!----></nav></div></header><d
+iv class="global-header-base_scroll-section" style="transform: 
+translateY(0px);"><!----><div tabindex="-1"><div class="title-bar"><div 
+class="title-bar_left"><!----><div><div class="title-bar_view-options"><button 
+class="title-bar_view-button" aria-label="list view"><div 
+class="vector-icon-size--small flex-center"><svg 
+xmlns="http://www.w3.org/2000/svg" class="svg-icon icon-fill--reverse" 
+aria-label="List View Icon" viewBox="0 0 32 32" role="presentation" 
+aria-hidden="true" focusable="false"><title lang="en">List View 
+Icon</title><desc></desc><g fill="" stroke=""><path d="M12.444 17.778h28.444c1.067 
+0 1.778-.711 1.778-1.778s-.711-1.778-1.778-1.778H12.444c-1.067 0-1.778.711-1.778 
+1.778s.711 1.778 1.778 1.778zm0-14.222h28.444c1.067 0 1.778-.711 
+1.778-1.778S41.955 0 40.888 0H12.444c-1.067 0-1.778.711-1.778 1.778s.711 1.778 
+1.778 1.778zm0 28.444h28.444c1.067 0 1.778-.711 
+1.778-1.778s-.711-1.778-1.778-1.778H12.444c-1.067 0-1.778.711-1.778 1.778S11.377 
+32 12.444 32zM0 1.778c0 1.067.711 1.778 1.778 1.778s1.778-.711 1.778-1.778S2.845 0 
+1.778 0 0 .711 0 1.778zM0 16c0 1.067.711 1.778 1.778 1.778S3.556 17.067 3.556 
+16s-.711-1.778-1.778-1.778S0 14.933 0 16zm0 14.222C0 31.289.711 32 1.778 
+32s1.778-.711 1.778-1.778-.711-1.778-1.778-1.778S0 29.155 0 
+30.222z"></path></g></svg></div></button><button class="title-bar_view-button" 
+aria-label="grid view"><div class="vector-icon-size--small flex-center"><svg 
+xmlns="http://www.w3.org/2000/svg" class="svg-icon icon-fill--reverse" 
+aria-label="Grid View Icon" viewBox="0 0 32 32" role="presentation" 
+aria-hidden="true" focusable="false"><title lang="en">Grid View 
+Icon</title><desc></desc><g fill="" stroke=""><path d="M2.667 13.333h8a2.667 2.667 
+0 0 0 2.667-2.667v-8a2.667 2.667 0 0 0-2.667-2.667h-8A2.667 2.667 0 0 0 0 
+2.666v8a2.667 2.667 0 0 0 2.667 2.667zm18.666 0h8A2.667 2.667 0 0 0 32 
+10.666v-8a2.667 2.667 0 0 0-2.667-2.667h-8a2.667 2.667 0 0 0-2.667 2.667v8a2.667 
+2.667 0 0 0 2.667 2.667zM0 29.333A2.667 2.667 0 0 0 2.667 32h8a2.667 2.667 0 0 0 
+2.667-2.667v-8a2.667 2.667 0 0 0-2.667-2.667h-8A2.667 2.667 0 0 0 0 
+21.333v8zm18.667 0A2.667 2.667 0 0 0 21.334 32h8a2.667 2.667 0 0 0 
+2.667-2.667v-8a2.667 2.667 0 0 0-2.667-2.667h-8a2.667 2.667 0 0 0-2.667 
+2.667v8z"></path></g></svg></div></button></div></div></div><h1 
+class="title-bar_text">Search Results</h1><div class="title-bar_right"><!----><!---
+-></div></div></div><!----><!----><!----></div><!----></div><!----><!----></div><di
+v aria-live="assertive"><div aria-live="assertive" class="fixed flex flex-col 
+items-start z-10 gap-10 max-w-[45.5rem] top-84 
+right-8"></div></div><div><!----><!----></div><div id="rokt-ad"></div><div 
+tabindex="-1" class="pdl-page clearfix" aria-hidden="false"><div><div 
+class="product-view product-view-search"><div><div class="" 
+is-mobile="false"><!----></div><div class="tabs-details"><div 
+id="product-search-panel" aria-hidden="false" aria-labelledby="product-search-tab" 
+role="tabpanel"><div class="relative-el spyglass-nav-group_wrapper flex 
+justify-center w-full my-12 banner-x-ad-container"><div class="flex flex-column 
+px-8"><div id="display-ad-1" class="outline outline-1 outline-offset-0 
+outline-gray-100 rounded-brand" style="width: 97rem; height: 25rem;"><iframe 
+srcdoc="&lt;!DOCTYPE html&gt;&lt;html lang='en'&gt;&lt;head&gt; 
+&lt;title&gt;Standard USA banner&lt;/title&gt; &lt;meta charset='UTF-8' /&gt; 
+&lt;meta name='viewport' content='width=device-width, initial-scale=1.0, 
+maximum-scale=1.0, user-scalable=no' /&gt; &lt;script&gt; const handleImgError = 
+(error) =&gt; { if (window.parent) { window.parent.postMessage({ ...error }); } }; 
+const platform = ''.split('_')[0]; const onApp = ['ios', 
+'android'].includes(platform); const source = 
+'martinsfoods.com_website_search_1-flex'; const glb_domain = source.split('.')[0]; 
+let platformClass; if (source.includes('category')) { platformClass = 'web'; } 
+else { platformClass = onApp ? platform : 'web'; } 
+document.querySelector('html').classList.add(glb_domain); 
+document.querySelector('html').classList.add(platformClass); &lt;/script&gt; 
+&lt;script&gt; const effraFont = ` @font-face { font-family:'effra'; src:url('https
+://use.typekit.net/af/2dce9d/00000000000000003b9b489b/27/l?primer=7cdcb44be4a7db887
+7ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3') format('woff2'
+),url('https://use.typekit.net/af/2dce9d/00000000000000003b9b489b/27/d?primer=7cdcb
+44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3') fo
+rmat('woff'),url('https://use.typekit.net/af/2dce9d/00000000000000003b9b489b/27/a?p
+rimer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&a
+mp;v=3') format('opentype'); font-display:swap; font-style:normal; 
+font-weight:400; font-stretch:normal; } @font-face { font-family:'effra'; src:url('
+https://use.typekit.net/af/23ddd7/00000000000000003b9b489e/27/l?primer=7cdcb44be4a7
+db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3') format('w
+off2'),url('https://use.typekit.net/af/23ddd7/00000000000000003b9b489e/27/d?primer=
+7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3
+') format('woff'),url('https://use.typekit.net/af/23ddd7/00000000000000003b9b489e/2
+7/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd
+=n7&amp;v=3') format('opentype'); font-display:swap; font-style:normal; 
+font-weight:700; font-stretch:normal; }`; const proximaNova = ` @font-face { 
+font-family:'proxima-nova'; src:url('https://use.typekit.net/af/5be242/000000000000
+00007735e603/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f6225
+7a9191&amp;fvd=n7&amp;v=3') format('woff2'),url('https://use.typekit.net/af/5be242/
+00000000000000007735e603/31/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831f
+e2ea177f62257a9191&amp;fvd=n7&amp;v=3') format('woff'),url('https://use.typekit.net
+/af/5be242/00000000000000007735e603/31/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b
+3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3') format('opentype'); 
+font-display:swap; font-style:normal; font-weight:700; font-stretch:normal; } 
+@font-face { font-family:'proxima-nova'; src:url('https://use.typekit.net/af/e37e5a
+/00000000000000007735e60d/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831
+fe2ea177f62257a9191&amp;fvd=n6&amp;v=3') format('woff2'),url('https://use.typekit.n
+et/af/e37e5a/00000000000000007735e60d/31/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd86
+5b3bbc383831fe2ea177f62257a9191&amp;fvd=n6&amp;v=3') format('woff'),url('https://us
+e.typekit.net/af/e37e5a/00000000000000007735e60d/31/a?primer=7cdcb44be4a7db8877ffa5
+c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n6&amp;v=3') 
+format('opentype'); font-display:swap; font-style:normal; font-weight:600; 
+font-stretch:normal; } @font-face { font-family:'proxima-nova'; src:url('https://us
+e.typekit.net/af/d7ff92/00000000000000007735e609/31/l?primer=7cdcb44be4a7db8877ffa5
+c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3') format('woff2'),url
+('https://use.typekit.net/af/d7ff92/00000000000000007735e609/31/d?primer=7cdcb44be4
+a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3') format(
+'woff'),url('https://use.typekit.net/af/d7ff92/00000000000000007735e609/31/a?primer
+=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=
+3') format('opentype'); font-display:swap; font-style:normal; font-weight:400; 
+font-stretch:normal; }`; const interstateFont = ` @font-face { font-family: 
+'interstate'; src: url('https://use.typekit.net/af/2750a6/00000000000000007735d120/
+31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fv
+d=n4&amp;v=3') format('woff2'),url('https://use.typekit.net/af/2750a6/0000000000000
+0007735d120/31/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257
+a9191&amp;fvd=n4&amp;v=3') format('woff'),url('https://use.typekit.net/af/2750a6/00
+000000000000007735d120/31/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2
+ea177f62257a9191&amp;fvd=n4&amp;v=3') format('opentype'); font-display: auto; 
+font-style: normal; font-weight: 400; font-stretch: normal; } @font-face { 
+font-family: 'interstate'; src: url('https://use.typekit.net/af/ee9f68/000000000000
+00007735d12e/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f6225
+7a9191&amp;fvd=n7&amp;v=3') format('woff2'),url('https://use.typekit.net/af/ee9f68/
+00000000000000007735d12e/31/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831f
+e2ea177f62257a9191&amp;fvd=n7&amp;v=3') format('woff'),url('https://use.typekit.net
+/af/ee9f68/00000000000000007735d12e/31/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b
+3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3') format('opentype'); 
+font-display: auto; font-style: normal; font-weight: 700; font-stretch: normal; } 
+@font-face { font-family: 'interstate'; src: url('https://use.typekit.net/af/b0aa91
+/00000000000000007735d134/31/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831
+fe2ea177f62257a9191&amp;fvd=n8&amp;v=3') format('woff2'),url('https://use.typekit.n
+et/af/b0aa91/00000000000000007735d134/31/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd86
+5b3bbc383831fe2ea177f62257a9191&amp;fvd=n8&amp;v=3') format('woff'),url('https://us
+e.typekit.net/af/b0aa91/00000000000000007735d134/31/a?primer=7cdcb44be4a7db8877ffa5
+c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n8&amp;v=3') 
+format('opentype'); font-display: auto; font-style: normal; font-weight: 800; 
+font-stretch: normal; }`; const whitneyFont = ` @font-face { font-family:Whitney; 
+src:url('/shop/dist/394b89a3b65725a7e207.woff') 
+format('woff'),url('/shop/dist/a739f132b40f99262bdb.woff2') format('woff2'); 
+font-display:swap; font-weight:400; } @font-face{ font-family:Whitney; 
+font-display:swap; src:url('/shop/dist/a7f46f17cc5716fa308e.woff') 
+format('woff'),url('/shop/dist/845b5828f07cb3cf0002.woff2') format('woff2'); 
+font-weight:600; } @font-face{ font-family:Whitney; font-display:swap; 
+src:url('/shop/dist/4ed6749e3ff087c37d66.woff') 
+format('woff'),url('/shop/dist/b6690d2ed09da2681523.woff2') format('woff2'); 
+font-weight:700; }`; const setFontFace = (fontface) =&gt; { const styleTag = 
+document.createElement('style'); styleTag.type = 'text/css'; 
+styleTag.appendChild(document.createTextNode(fontface)); 
+document.head.appendChild(styleTag); }; if (platformClass == 'web') { switch 
+(glb_domain) { case 'stopandshop': setFontFace(effraFont); break; case 
+'giantfood': case 'giantfoodstores': case 'martinsfoods': 
+setFontFace(proximaNova); break; case 'hannaford': setFontFace(interstateFont); 
+break; case 'foodlion': setFontFace(whitneyFont); break; } } &lt;/script&gt; 
+&lt;style id='styles'&gt; @layer default { :root { --color-action: #e0004d; 
+--color-hover: #ed3e75; --color-primary-black: #001919; --bg-color: #FFFFFF; 
+--row-direction: row; /* row | row-reverse */ --border-radius: 0.625rem; 
+--border-cta-mobile-radius: 1.5rem; } } .stopandshop { --color-action: #e0004d; 
+--color-hover: #ed3e75; --color-primary-black: #001919; --border-radius: 0.625rem; 
+--border-cta-mobile-radius: 1.5rem; } .giantfood { --color-action: #702076; 
+--color-hover: #5f1b64; --color-primary-black: #001919; --border-radius: 0px; 
+--border-cta-mobile-radius: 0; } .foodlion { --color-action: #005695; 
+--color-hover: #004170; --color-primary-black: #000000; --border-radius: 0px; 
+--border-cta-mobile-radius: 0; } .martinsfoods { --color-action: #dd1e0d; 
+--color-hover: #bc1a0b; --color-primary-black: #001919; --border-radius: 0rem; 
+--border-cta-mobile-radius: 0.125rem; } .giantfoodstores { --color-action: 
+#dd1e0d; --color-hover: #bc1a0b; --color-primary-black: #001919; --border-radius: 
+0.125rem; --border-cta-mobile-radius: 0.125rem; } .hannaford { --color-action: 
+#ca2416; --color-hover: #ac1f13; --color-primary-black: #333333; --border-radius: 
+0.25rem; --border-cta-mobile-radius: .25rem; } html { &amp;.web { 
+&amp;.stopandshop { font-family: effra, sans-serif; } &amp;.giantfood, 
+&amp;.giantfoodstores, &amp;.martinsfoods{ font-family: proxima-nova, sans-serif; 
+} &amp;.hannaford { font-family: interstate,Helvetica,sans-serif; } &amp;.foodlion 
+{ font-family: Whitney, Helvetica, sans-serif; } } &amp;.android { font-family: 
+Roboto, sans-serif; } &amp;.ios { font-family: SF Pro Text, sans-serif; } } html, 
+body { height: 100%; width: 100%; } html, body, body * { margin: 0; padding: 0; 
+box-sizing: border-box; text-decoration: none; } .wrapper { display: flex; 
+flex-direction: column; height: 100%; width: 100%; } .banner { display: flex; 
+width: 100%; height: 100%; flex-direction: column-reverse; border-radius: 
+var(--border-radius); background-color: var(--bg-color); color: 
+var(--color-primary-black); position: relative; overflow: hidden; user-select: 
+none; -moz-user-select: none; -khtml-user-select: none; -webkit-user-select: none; 
+-webkit-tap-highlight-color: transparent; -o-user-select: none; } .banner__left { 
+min-height: fit-content; height: 50%; display: flex; gap: 0.9375rem; 
+flex-direction: column; justify-content: center; padding: 1.5rem 1.25rem 1.5rem 
+1.25rem; } .banner__cta { display: flex; flex-direction: row; justify-content: 
+flex-start; align-items: baseline; gap: 0.25rem; } .banner__right { height: 50%; 
+overflow: hidden; } .banner__title { line-height: 1.625rem; font-size: 1.25rem; 
+letter-spacing: 0.2px; font-weight: bold; } .banner__brand-copy { display: none; } 
+.banner__brand-copy-skinny { margin-top: 0.3125rem; line-height: 1.375rem; 
+font-size: 0.875rem; display: -webkit-box; -webkit-line-clamp: 2; 
+-webkit-box-orient: vertical; overflow: hidden; } html.web { .banner__cta-copy { 
+font-size: 1rem; letter-spacing: 0.5%; line-height: 1rem; font-weight: bold; 
+color: var(--color-action); } .banner:hover { .banner__cta-copy { color: 
+var(--color-hover); } .banner__icon { margin-left: 0.5rem; fill: 
+var(--color-hover); } } } html.android, html.ios { .banner__cta-copy { font-size: 
+0.9375rem; letter-spacing: -0.24px; line-height: 1.25rem; font-weight: 600; color: 
+#ffffff; background-color: var(--color-action); padding-block: 0.5625rem; 
+padding-inline: 1rem; border-radius: var(--border-cta-mobile-radius); } 
+.banner__icon { display: none; } } .banner__product-image { width: 100%; height: 
+100%; object-position: center; object-fit: cover; min-height: 9.375rem; } 
+.banner__icon { width: 1rem; transition-duration: 150ms; 
+transition-timing-function: cubic-bezier(0, 0, 0.2, 1); margin: 0rem; 
+&amp;&gt;path { fill: var(--color-action); } } .banner__copy { display: flex; 
+flex-direction: column; } /* &gt; 640px */ @media (min-width: 40rem) and 
+(max-width: 60rem) { .banner { flex-direction: var(--row-direction); } 
+.banner__left { width: 50%; height: 100%; gap: 0.625rem; padding-top: 0; 
+justify-content: center; align-items: flex-start; padding-inline: 1.875rem; } 
+.banner__cta { gap: 0.25rem; } .banner__right { height: 100%; width: 50%; } 
+.banner__title { line-height: 2rem; font-size: 1.5625rem; word-wrap: normal; 
+white-space: pre-wrap; text-overflow: unset; display: -webkit-box; 
+-webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; } 
+.banner__brand-copy { display:none; } .banner__brand-copy-skinny{ line-height: 
+1.375rem; font-size: 1rem; display:flex; } .banner__cta-copy { font-size: 1rem; 
+letter-spacing: 0.5%; line-height: 1rem; } } /* &gt; 969px*/ @media (min-width: 
+60rem) { .banner { flex-direction: var(--row-direction); } .banner__right { 
+height: 100%; width: 50%; min-width: 50%; } .banner__left { gap: 1.5625rem; 
+padding: 0 2.5rem; height: 100%; width: 50%; justify-content: center; align-items: 
+flex-start; } .banner__title { line-height: 2.375rem; font-size: 1.875rem; 
+word-wrap: normal; white-space: pre-wrap; overflow: visible; text-overflow: unset; 
+} .banner__brand-copy { line-height: 1.5625rem; font-size: 1.125rem; display:flex; 
+} .banner__brand-copy-skinny { display:none; } .banner__cta-copy { font-size: 
+1.125rem; letter-spacing: 0.5%; line-height: 1rem; } } 
+&lt;/style&gt;&lt;/head&gt;&lt;body&gt; &lt;div class='wrapper'&gt; &lt;a href='#' 
+target='_top' id='banner-182' class='banner'&gt; &lt;div class='banner__left'&gt; 
+&lt;div class='banner__copy'&gt; &lt;span 
+class='banner__title'&gt;Sargento&amp;reg; Balanced Breaks&amp;reg;&lt;/span&gt; 
+&lt;span class='banner__brand-copy'&gt;Family-backed quality since 
+1953.&lt;/span&gt; &lt;span class='banner__brand-copy-skinny'&gt;Family-backed 
+quality since 1953.&lt;/span&gt; &lt;/div&gt; &lt;div class='banner__cta'&gt; 
+&lt;span class='banner__cta-copy'&gt; Shop Now &lt;/span&gt; &lt;svg 
+class='banner__icon' width='18' height='10' viewBox='0 0 18 10' fill='none' 
+xmlns='http://www.w3.org/2000/svg'&gt; &lt;path fill-rule='evenodd' 
+clip-rule='evenodd' d='M13.2071 0.292893C12.8166 -0.0976311 12.1834 -0.0976311 
+11.7929 0.292893C11.4024 0.683417 11.4024 1.31658 11.7929 1.70711L14.0858 4L1 
+4C0.447715 4 0 4.44772 0 5C0 5.55228 0.447715 6 1 6L14.0858 6L11.7929 
+8.29289C11.4024 8.68342 11.4024 9.31658 11.7929 9.70711C12.1834 10.0976 12.8166 
+10.0976 13.2071 9.70711L16.5 6.41421C17.281 5.63317 17.281 4.36684 16.5 
+3.58579L13.2071 0.292893Z' fill='#001919' /&gt; &lt;/svg&gt; &lt;/div&gt; 
+&lt;/div&gt; &lt;div class='banner__right'&gt; &lt;img 
+class='banner__product-image' 
+src='https://pool-adusa.adhese.com/pool/lib/693_4th_1.jpg' srcset=' 
+https://pool-adusa.adhese.com/pool/lib/693_2nd_1.jpg 167w, 
+https://pool-adusa.adhese.com/pool/lib/693_3rd_1.jpg 182w, 
+https://pool-adusa.adhese.com/pool/lib/693_4th_1.jpg 242w ' sizes='(max-width: 
+335px) 167px, (min-width: 336px) and (max-width: 728px) 182px, (min-width: 729px) 
+242px' alt='A Sargento Balanced Breaks package surrounded by almonds and cubes of 
+cheese. The background is dark yellow.' onerror='handleImgError(event)' /&gt; 
+&lt;/div&gt; &lt;/a&gt; &lt;/div&gt; &lt;script&gt; const bannerElement = 
+document.getElementById('banner-182'); bannerElement.href = 
+'/pages/adrm-sargento-balanced-breaks-jan-2026' || '#'; const data = { deeplink: 
+'/pages/adrm-sargento-balanced-breaks-jan-2026', clickTracker: 'https://ads-adusa.a
+dhese.com/raylene//sl182/dtdesktop/ogcontrol/IIcf8bd63a-fdf1-4dcd-9bc6-87f225ee99ca
+/tlall/ptsearch/kwsnickers/pz817/mdinstore/A20.0.0.0/ad225345-693/UR', type: 
+'click', adID: '693', slotID: '182'}; bannerElement.addEventListener('click', () 
+=&gt; { if (onApp &amp;&amp; 
+!'martinsfoods.com_website_search_1-flex'.includes('category')) { 
+Android.postMessage(JSON.stringify(data)); }else{ event.preventDefault(); const 
+origin = window.location.origin; parent.window.postMessage(data,origin === 'null' 
+? '*' : origin); } }); if ('' !== '') { let dvUrl = ''; const slotID = '182'; 
+const creativeID = '693'; if (creativeID !== '' &amp;&amp; slotID !== '') { dvUrl 
+= dvUrl.replace(/(^|[?#&amp;])crt=(?=&amp;|$)/g, 
+`$1crt=${creativeID}__${slotID}`); } const s = document.createElement('script'); 
+s.type = 'text/javascript'; s.src = dvUrl; document.body.appendChild(s); } 
+&lt;/script&gt;&lt;/body&gt;" data-gambit="" style="border: none; width: 100%; 
+height: 100%;"></iframe></div><div class="mt-3.5 text-gray-600 text-xs text-right 
+leading-[1.2rem]"> Sponsored </div></div><!----></div><div 
+class="search-shelf-header_container"><!----><div class="overflow-hidden 
+mr-2"></div><!----><div class="product-view product-view-search" 
+id="show-more"><div 
+class="product-search-result"><!----><!----><div><!----><div><div 
+class="sort-filter_container"><div class="sort-filter_summary"><div><!----><div 
+class="sort-filter_summary-result max-w-[18.3rem]"><span class="flex 
+flex-col"><span class="sort-filter_summary-text">15 <span 
+class="font-normal">results 
+for</span></span><span>"snickers"</span></span></div><!----></div></div><div 
+class="sort-filter_container--block"><!----><div class="grow grow 
+sort-filter_facets-container"><div class="sort-filter_checkbox-container"><div 
+id="quickFilterPills" class="sort-filter_checkbox"><!----><div><div 
+class="checkbox pl-0"><input id="specials" name="simpleFacets" 
+class="checkbox_input opacity-0" type="checkbox" aria-checked="false" 
+value="specials"><label for="specials" class="checkbox_label"><div 
+class="checkbox_text--direction-column checkbox_text"><div class="checkbox_text--di
+rection-row"><span>Specials</span><!----></div></div><!----><div 
+class="checkbox_box"><span class="checkbox_icon vector-icon-size--medium"><svg 
+xmlns="http://www.w3.org/2000/svg" class="vector-icon-stroke--prime" 
+aria-label="Checked" viewBox="0 0 32 32" role="presentation" aria-hidden="true" 
+focusable="false"><title lang="en">Checked</title><desc></desc><g fill="" 
+stroke=""><path fill="none" stroke-width="3" d="M28.279 7.467l-16.993 
+16.993-7.553-7.553"></path></g></svg></span></div></label></div></div><div><div 
+class="checkbox pl-0"><input id="pastPurchases" name="simpleFacets" 
+class="checkbox_input opacity-0" type="checkbox" aria-checked="false" 
+value="pastPurchases"><label for="pastPurchases" class="checkbox_label"><div 
+class="checkbox_text--direction-column checkbox_text"><div 
+class="checkbox_text--direction-row"><span>Past 
+Purchases</span><!----></div></div><!----><div class="checkbox_box"><span 
+class="checkbox_icon vector-icon-size--medium"><svg 
+xmlns="http://www.w3.org/2000/svg" class="vector-icon-stroke--prime" 
+aria-label="Checked" viewBox="0 0 32 32" role="presentation" aria-hidden="true" 
+focusable="false"><title lang="en">Checked</title><desc></desc><g fill="" 
+stroke=""><path fill="none" stroke-width="3" d="M28.279 7.467l-16.993 
+16.993-7.553-7.553"></path></g></svg></span></div></label></div></div><div><div 
+class="checkbox pl-0"><input id="privateLabel" name="simpleFacets" 
+class="checkbox_input opacity-0" type="checkbox" aria-checked="false" 
+value="privateLabel"><label for="privateLabel" class="checkbox_label"><div 
+class="checkbox_text--direction-column checkbox_text"><div 
+class="checkbox_text--direction-row"><span>Store 
+Brand</span><!----></div></div><!----><div class="checkbox_box"><span 
+class="checkbox_icon vector-icon-size--medium"><svg 
+xmlns="http://www.w3.org/2000/svg" class="vector-icon-stroke--prime" 
+aria-label="Checked" viewBox="0 0 32 32" role="presentation" aria-hidden="true" 
+focusable="false"><title lang="en">Checked</title><desc></desc><g fill="" 
+stroke=""><path fill="none" stroke-width="3" d="M28.279 7.467l-16.993 
+16.993-7.553-7.553"></path></g></svg></span></div></label></div></div><div><div 
+class="checkbox pl-0"><input id="newArrivals" name="simpleFacets" 
+class="checkbox_input opacity-0" type="checkbox" aria-checked="false" 
+value="newArrivals"><label for="newArrivals" class="checkbox_label"><div 
+class="checkbox_text--direction-column checkbox_text"><div class="checkbox_text--di
+rection-row"><span>New</span><!----></div></div><!----><div 
+class="checkbox_box"><span class="checkbox_icon vector-icon-size--medium"><svg 
+xmlns="http://www.w3.org/2000/svg" class="vector-icon-stroke--prime" 
+aria-label="Checked" viewBox="0 0 32 32" role="presentation" aria-hidden="true" 
+focusable="false"><title lang="en">Checked</title><desc></desc><g fill="" 
+stroke=""><path fill="none" stroke-width="3" d="M28.279 7.467l-16.993 
+16.993-7.553-7.553"></path></g></svg></span></div></label></div></div><div><div 
+class="checkbox pl-0"><input id="ebtEligible" name="simpleFacets" 
+class="checkbox_input opacity-0" type="checkbox" aria-checked="false" 
+value="ebtEligible"><label for="ebtEligible" class="checkbox_label"><div 
+class="checkbox_text--direction-column checkbox_text"><div 
+class="checkbox_text--direction-row"><span>SNAP 
+Eligible</span><!----></div></div><!----><div class="checkbox_box"><span 
+class="checkbox_icon vector-icon-size--medium"><svg 
+xmlns="http://www.w3.org/2000/svg" class="vector-icon-stroke--prime" 
+aria-label="Checked" viewBox="0 0 32 32" role="presentation" aria-hidden="true" 
+focusable="false"><title lang="en">Checked</title><desc></desc><g fill="" 
+stroke=""><path fill="none" stroke-width="3" d="M28.279 7.467l-16.993 16.993-7.553-
+7.553"></path></g></svg></span></div></label></div></div></div></div><div 
+class=""><!----></div><div class=""><!----></div><div 
+class=""><!----></div></div><div class="sort-filter_flex-center items-center 
+pb-[0.7rem]"><div class="sort-filter_flex-center--margin"><button class="button 
+button--darkest-grey button-width--med" aria-label="Filter Options" 
+aria-haspopup="dialog"><div class="sort-filter_modal-button"> All Filters 
+<!----></div></button></div><div class="flex justify-end text-[1.6rem] 
+leading-[1.92rem] h-[1.9rem]"><!----><!----></div><div class="sort-filter_sort 
+max-w-[20rem]"><label for="product-search-sort-by-select" class="sr-only"> Sort by 
+</label><div class="z-0"><!----><div class="select select--full-width"><div 
+class="relative flex items-center"><select id="product-search-sort-by-select" 
+class="select_select z-0 select_select--light" value="bestMatch 
+asc"><!----><option class="select_option" value="bestMatch asc">Best 
+Match</option><option class="select_option" value="itemsPurchased desc, name 
+asc">Most Popular</option><option class="select_option" value="price asc, name 
+asc">Price: Low to High</option><option class="select_option" value="price desc, 
+name asc">Price: High to Low</option><option class="select_option" 
+value="unitPrice asc, name asc">Unit Price</option><option class="select_option" 
+value="category asc, name asc">Aisle</option></select><span class="select_caret 
+vector-icon-size--medium"><svg xmlns="http://www.w3.org/2000/svg" 
+class="vector-icon-stroke--prime" aria-label="Show select" viewBox="0 0 32 32" 
+role="presentation" aria-hidden="true" focusable="false"><title lang="en">Show 
+select</title><desc></desc><g fill="" stroke=""><polyline fill="none" 
+stroke-width="3" stroke-linecap="square" transform="translate(16.485250, 
+16.242750) rotate(-270.000000) translate(-16.485250, -16.242750) " points="12.2425 
+7.7575 20.728 16.2425 12.2425 24.728"></polyline></g></svg></span></div></div><!---
+-></div></div><!----></div></div></div><!----><!----></div><!----><!----></div><!--
+--><!----><!----><!----><div><h2 class="sr-only"> Product List </h2><ul 
+class="content-behind product-list 
+product-list-quint"><!----><!----><!----><!----><!----><li tabindex="-1" 
+data-product-id="4072" class="tile product-cell product-grid-cell" 
+prod-index="0"><!----><!----><!----><div class="product-tile_content"><!----><a hre
+f="/product/snickers-peanuts-caramel-milk-chocolate-candy-bars-fun-size-10.5-oz-bag
+/4072" aria-hidden="true" tabindex="-1"><div><!----><img 
+src="https://i5.peapod.com/c/S9/S9JQV.png" alt="SNICKERS Peanuts Caramel &amp; 
+Milk Chocolate Candy Bars Fun Size 10.5 OZ BAG" class="product-grid-image 
+object-contain product-grid-cell_main-image" 
+skeleton-box-size="14rem"></div></a><div class="product-grid-cell_price-tag 
+product-grid-cell_price-tag--full-tile"><div class="product-tile_detail"><div 
+class="skeleton-loader_wrapper cursor-pointer"><div 
+class="product-grid-cell_price-container"><span class="sr-only">SNICKERS Peanuts 
+Caramel &amp; Milk Chocolate Candy Bars Fun Size</span><span 
+class="product-grid-cell_main-price"><!----> 
+$7.19</span><!----></div><!----></div><!----></div><button 
+class="product-tile_detail-title"><div class="skeleton-loader_wrapper"><div 
+class="product-grid-cell_name"><a id="product-name-4072-17750992615899355" 
+class="product-grid-cell_name-text product-grid-cell_name-text--small 
+product-grid-cell_name-text--clamp-2" href="/product/snickers-peanuts-caramel-milk-
+chocolate-candy-bars-fun-size-10.5-oz-bag/4072" data-opens-modal="true" 
+aria-haspopup="dialog"><!----> SNICKERS Peanuts Caramel &amp; Milk Chocolate Candy 
+Bars Fun Size</a></div><!----><!----></div><div 
+class="skeleton-loader_wrapper"><div class="product-grid-cell_sizes"><span 
+class="product-grid-cell_size">10.5 OZ BAG</span><span aria-hidden="true"> | 
+</span><!----><span class="product-grid-cell_unit">$0.68 
+/OZ</span><!----></div><!----></div><!----></button><div class="product-grid-cell_p
+romo-name"><!----><!----><!----><!----><!----><!----></div><!----><!----><!----><!-
+---><div class="margin-top--one"><!----><!----><div><!----><div 
+class="pdl-add-to-cart" product-index="1"><div 
+class="pdl-add-to-cart_button"><button class="button button--add-to-cart">Add to 
+cart <!----></button></div><!----></div></div><!----></div><!----></div></div><!---
+-><div class="mobile-product-list-cell_bottom m-4 hidden"><div class="mobile-produc
+t-list-cell_bottom_cart-ui-wrapper"><!----><!----><div><!----><div 
+class="pdl-add-to-cart" product-index="1"><div 
+class="pdl-add-to-cart_button"><button class="button button--add-to-cart">Add to 
+cart <!----></button></div><!----></div></div><!----></div><!----></div><div 
+class="product-tile_action-items" is-typeahead="false"><!----><!----><div 
+class="shopping-list-menu_container"><div class="relative-el"><button 
+class="button pdl-product-detail_top-icon button--fourth 
+pdl-product-detail_top-icon--borderless" aria-label="add to shopping list" 
+page-view="omniSearch" title=""><!----><div class="vector-icon-size--large"><svg 
+xmlns="http://www.w3.org/2000/svg" class="" aria-label="Shopping List Icon Add" 
+viewBox="0 0 40 40" role="presentation" aria-hidden="true" 
+focusable="false"><title lang="en">Shopping List Icon Add</title><desc></desc><g 
+fill="" stroke=""><svg width="40" height="40" viewBox="0 0 40 40" fill="none" 
+xmlns="http://www.w3.org/2000/svg"><path d="M25.5254 8.00391C26.8368 8.00412 
+27.9002 9.06751 27.9004 10.3789V29.6279C27.9004 30.9395 26.8369 32.0027 25.5254 
+32.0029H11.375C10.0633 32.0029 9.00002 30.9396 9 29.6279V10.3789C9.00017 9.06738 
+10.0634 8.00391 11.375 8.00391H25.5254ZM11.375 9.75391C11.0299 9.75391 10.7502 
+10.0339 10.75 10.3789V29.6279C10.75 29.9731 11.0298 30.2529 11.375 
+30.2529H25.5254C25.8704 30.2527 26.1504 29.973 26.1504 29.6279V10.3789C26.1502 
+10.034 25.8703 9.75412 25.5254 9.75391H11.375ZM18.4053 23.0439C18.8885 23.0439 
+19.2803 23.4357 19.2803 23.9189C19.2801 24.402 18.8884 24.7939 18.4053 
+24.7939H14.4053C13.9222 24.7939 13.5305 24.402 13.5303 23.9189C13.5303 23.4357 
+13.922 23.0439 14.4053 23.0439H18.4053ZM18.9053 18.5439C19.3885 18.5439 19.7803 
+18.9357 19.7803 19.4189C19.7801 19.902 19.3884 20.2939 18.9053 
+20.2939H14.4053C13.9222 20.2939 13.5305 19.902 13.5303 19.4189C13.5303 18.9357 
+13.922 18.5439 14.4053 18.5439H18.9053ZM22.7549 14.0439C23.2381 14.0439 23.6299 
+14.4357 23.6299 14.9189C23.6297 15.402 23.238 15.7939 22.7549 
+15.7939H14.4053C13.9222 15.7939 13.5305 15.402 13.5303 14.9189C13.5303 14.4357 
+13.922 14.0439 14.4053 14.0439H22.7549Z" fill="#63666A"></path><circle cx="27" 
+cy="22.5" r="6" fill="#DD1E0D"></circle><path d="M27.0039 19.1084C27.4181 19.1084 
+27.7539 19.4442 27.7539 19.8584V21.7539H29.6377C30.0519 21.7539 30.3877 22.0897 
+30.3877 22.5039C30.3877 22.9181 30.0519 23.2539 29.6377 
+23.2539H27.7539V25.1523C27.7539 25.5666 27.4181 25.9023 27.0039 25.9023C26.5898 
+25.9022 26.2539 25.5665 26.2539 25.1523V23.2539H24.3701C23.9559 23.2539 23.6201 
+22.9181 23.6201 22.5039C23.6201 22.0897 23.9559 21.7539 24.3701 
+21.7539H26.2539V19.8584L26.2578 19.7812C26.2962 19.4032 26.6157 19.1086 27.0039 
+19.1084Z" fill="white"></path></svg></g></svg></div><div 
+class="pdl-product-detail_list-tooltip"><p class="no-wrap">Sign in to add to 
+shopping list</p><em></em></div></button></div></div></div><!----></li><!----><!---
+-><!----><!----><!----><!----><li tabindex="-1" data-product-id="6702" class="tile 
+product-cell product-grid-cell" prod-index="1"><!----><!----><!----><div 
+class="product-tile_content"><!----><a 
+href="/product/snickers-peanut-butter-ice-cream-bars-6-ct-12-oz-box/6702" 
+aria-hidden="true" tabindex="-1"><div><!----><img src="data:image/svg+xml;base64,PD
+94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0ZWQgYnkgSWNvTW9vb
+i5pbyAtLT4KPCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDov
+L3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjE
+iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudz
+Mub3JnLzE5OTkveGxpbmsiIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgdmlld0JveD0iMCAwIDQ4IDQ4Ij4KP
+GcgaWQ9Imljb21vb24taWdub3JlIj4KCTxsaW5lIHN0cm9rZS13aWR0aD0iMSIgeDE9IiIgeTE9IiIgeDI9
+IiIgeTI9IiIgc3Ryb2tlPSIjNDQ5RkRCIiBvcGFjaXR5PSIiPjwvbGluZT4KPC9nPgoJPHBhdGggZD0iTTM
+4LjQ4IDkuMDcwYzAuMjQ4IDAgMC40NSAwLjIwMiAwLjQ1IDAuNDV2MjguOTU5YzAgMC4yNDgtMC4yMDIgMC
+40NS0wLjQ1IDAuNDVoLTI4Ljk1OWMtMC4yNDggMC0wLjQ1LTAuMjAyLTAuNDUtMC40NXYtMjguOTU5YzAtM
+C4yNDggMC4yMDItMC40NSAwLjQ1LTAuNDVoMjguOTU5ek0zOC40OCA4aC0yOC45NTljLTAuODQgMC0xLjUy
+IDAuNjgxLTEuNTIgMS41MjF2MjguOTU5YzAgMC44NCAwLjY4MSAxLjUyMSAxLjUyIDEuNTIxaDI4Ljk1OWM
+wLjg0IDAgMS41Mi0wLjY4MSAxLjUyLTEuNTIxdi0yOC45NTljMC0wLjg0LTAuNjgxLTEuNTIxLTEuNTItMS
+41MjF2MHoiIG9wYWNpdHk9IjEiIHZpc2liaWxpdHk9ImZhbHNlIiBmaWxsPSIjZDdkN2Q3Ij48L3BhdGg+C
+gk8cGF0aCBkPSJNMTIuMjI4IDM1LjIyNHYtMy4zMjljMC0wLjE0NSAwLjA1OC0wLjI4NSAwLjE2LTAuMzg4
+bDUuNTg3LTUuNTg3YzAuMjE0LTAuMjE0IDAuNTYxLTAuMjE0IDAuNzc1IDBsMi4xMTkgMi4xMTljMC4yMTQ
+gMC4yMTQgMC41NjEgMC4yMTQgMC43NzUgMGw4LjE5MS04LjE5MmMwLjIxNC0wLjIxNCAwLjU2MS0wLjIxNC
+AwLjc3NSAwbDUgNWMwLjEwMyAwLjEwMyAwLjE2IDAuMjQyIDAuMTYgMC4zODh2OS45ODhjMCAwLjMwMy0wL
+jI0NSAwLjU0OC0wLjU0OCAwLjU0OGgtMjIuNDQ3Yy0wLjMwMyAwLTAuNTQ4LTAuMjQ1LTAuNTQ4LTAuNTQ4
+eiIgb3BhY2l0eT0iMSIgdmlzaWJpbGl0eT0iZmFsc2UiIGZpbGw9IiNkN2Q3ZDciPjwvcGF0aD4KCTxwYXR
+oIGQ9Ik0yMS41NDQgMTcuOTY3YzAgMS45ODItMS42MDYgMy41ODgtMy41ODggMy41ODhzLTMuNTg4LTEuNj
+A2LTMuNTg4LTMuNTg4YzAtMS45ODEgMS42MDYtMy41ODggMy41ODgtMy41ODhzMy41ODggMS42MDYgMy41O
+DggMy41ODh6IiBvcGFjaXR5PSIxIiB2aXNpYmlsaXR5PSJmYWxzZSIgZmlsbD0iI2Q3ZDdkNyI+PC9wYXRo
+Pgo8L3N2Zz4K" alt="SNICKERS Peanut Butter Ice Cream Bars - 6 ct 12 OZ BOX" 
+class="product-grid-image object-contain product-grid-cell_main-image" 
+skeleton-box-size="14rem"></div></a><div class="product-grid-cell_price-tag 
+product-grid-cell_price-tag--full-tile"><div class="product-tile_detail"><div 
+class="skeleton-loader_wrapper cursor-pointer"><div 
+class="product-grid-cell_price-container"><span class="sr-only">SNICKERS Peanut 
+Butter Ice Cream Bars - 6 ct</span><span 
+class="product-grid-cell_main-price"><!----> 
+$5.29</span><!----></div><!----></div><!----></div><button 
+class="product-tile_detail-title"><div class="skeleton-loader_wrapper"><div 
+class="product-grid-cell_name"><a id="product-name-6702-17750992616637955" 
+class="product-grid-cell_name-text product-grid-cell_name-text--small 
+product-grid-cell_name-text--clamp-2" 
+href="/product/snickers-peanut-butter-ice-cream-bars-6-ct-12-oz-box/6702" 
+data-opens-modal="true" aria-haspopup="dialog"><!----> SNICKERS Peanut Butter Ice 
+Cream Bars - 6 ct</a></div><!----><!----></div><div 
+class="skeleton-loader_wrapper"><div class="product-grid-cell_sizes"><span 
+class="product-grid-cell_size">12 OZ BOX</span><span aria-hidden="true"> | 
+</span><!----><span class="product-grid-cell_unit">$0.88 
+/EA</span><!----></div><!----></div><!----></button><div class="product-grid-cell_p
+romo-name"><!----><!----><!----><!----><!----><!----></div><!----><!----><!----><!-
+---><div class="margin-top--one"><!----><!----><div><!----><div 
+class="pdl-add-to-cart" product-index="2"><div 
+class="pdl-add-to-cart_button"><button class="button button--add-to-cart">Add to 
+cart <!----></button></div><!----></div></div><!----></div><!----></div></div><!---
+-><div class="mobile-product-list-cell_bottom m-4 hidden"><div class="mobile-produc
+t-list-cell_bottom_cart-ui-wrapper"><!----><!----><div><!----><div 
+class="pdl-add-to-cart" product-index="2"><div 
+class="pdl-add-to-cart_button"><button class="button button--add-to-cart">Add to 
+cart <!----></button></div><!----></div></div><!----></div><!----></div><div 
+class="product-tile_action-items" is-typeahead="false"><!----><!----><div 
+class="shopping-list-menu_container"><div class="relative-el"><button 
+class="button pdl-product-detail_top-icon button--fourth 
+pdl-product-detail_top-icon--borderless" aria-label="add to shopping list" 
+page-view="omniSearch" title=""><!----><div class="vector-icon-size--large"><svg 
+xmlns="http://www.w3.org/2000/svg" class="" aria-label="Shopping List Icon Add" 
+viewBox="0 0 40 40" role="presentation" aria-hidden="true" 
+focusable="false"><title lang="en">Shopping List Icon Add</title><desc></desc><g 
+fill="" stroke=""><svg width="40" height="40" viewBox="0 0 40 40" fill="none" 
+xmlns="http://www.w3.org/2000/svg"><path d="M25.5254 8.00391C26.8368 8.00412 
+27.9002 9.06751 27.9004 10.3789V29.6279C27.9004 30.9395 26.8369 32.0027 25.5254 
+32.0029H11.375C10.0633 32.0029 9.00002 30.9396 9 29.6279V10.3789C9.00017 9.06738 
+10.0634 8.00391 11.375 8.00391H25.5254ZM11.375 9.75391C11.0299 9.75391 10.7502 
+10.0339 10.75 10.3789V29.6279C10.75 29.9731 11.0298 30.2529 11.375 
+30.2529H25.5254C25.8704 30.2527 26.1504 29.973 26.1504 29.6279V10.3789C26.1502 
+10.034 25.8703 9.75412 25.5254 9.75391H11.375ZM18.4053 23.0439C18.8885 23.0439 
+19.2803 23.4357 19.2803 23.9189C19.2801 24.402 18.8884 24.7939 18.4053 
+24.7939H14.4053C13.9222 24.7939 13.5305 24.402 13.5303 23.9189C13.5303 23.4357 
+13.922 23.0439 14.4053 23.0439H18.4053ZM18.9053 18.5439C19.3885 18.5439 19.7803 
+18.9357 19.7803 19.4189C19.7801 19.902 19.3884 20.2939 18.9053 
+20.2939H14.4053C13.9222 20.2939 13.5305 19.902 13.5303 19.4189C13.5303 18.9357 
+13.922 18.5439 14.4053 18.5439H18.9053ZM22.7549 14.0439C23.2381 14.0439 23.6299 
+14.4357 23.6299 14.9189C23.6297 15.402 23.238 15.7939 22.7549 
+15.7939H14.4053C13.9222 15.7939 13.5305 15.402 13.5303 14.9189C13.5303 14.4357 
+13.922 14.0439 14.4053 14.0439H22.7549Z" fill="#63666A"></path><circle cx="27" 
+cy="22.5" r="6" fill="#DD1E0D"></circle><path d="M27.0039 19.1084C27.4181 19.1084 
+27.7539 19.4442 27.7539 19.8584V21.7539H29.6377C30.0519 21.7539 30.3877 22.0897 
+30.3877 22.5039C30.3877 22.9181 30.0519 23.2539 29.6377 
+23.2539H27.7539V25.1523C27.7539 25.5666 27.4181 25.9023 27.0039 25.9023C26.5898 
+25.9022 26.2539 25.5665 26.2539 25.1523V23.2539H24.3701C23.9559 23.2539 23.6201 
+22.9181 23.6201 22.5039C23.6201 22.0897 23.9559 21.7539 24.3701 
+21.7539H26.2539V19.8584L26.2578 19.7812C26.2962 19.4032 26.6157 19.1086 27.0039 
+19.1084Z" fill="white"></path></svg></g></svg></div><div 
+class="pdl-product-detail_list-tooltip"><p class="no-wrap">Sign in to add to 
+shopping list</p><em></em></div></button></div></div></div><!----></li><!----><!---
+-><!----><!----><!----><!----><li tabindex="-1" data-product-id="158897" 
+class="tile product-cell product-grid-cell" 
+prod-index="2"><!----><!----><!----><div class="product-tile_content"><!----><a hre
+f="/product/snickers-peanuts-caramel-milk-chocolate-candy-bar-1.86-oz-bar/158897" 
+aria-hidden="true" tabindex="-1"><div><!----><img 
+src="https://i5.peapod.com/c/OA/OAN9C.png" alt="SNICKERS Peanuts Caramel &amp; 
+Milk Chocolate Candy Bar 1.86 OZ BAR" class="product-grid-image object-contain 
+product-grid-cell_main-image" skeleton-box-size="14rem"></div></a><div 
+class="product-grid-cell_price-tag product-grid-cell_price-tag--full-tile"><div 
+class="product-tile_detail"><div class="skeleton-loader_wrapper 
+cursor-pointer"><div class="product-grid-cell_price-container"><span 
+class="sr-only">SNICKERS Peanuts Caramel &amp; Milk Chocolate Candy 
+Bar</span><span class="product-grid-cell_main-price"><!----> 
+$1.99</span><!----></div><!----></div><!----></div><button 
+class="product-tile_detail-title"><div class="skeleton-loader_wrapper"><div 
+class="product-grid-cell_name"><a id="product-name-158897-17750992616808561" 
+class="product-grid-cell_name-text product-grid-cell_name-text--small 
+product-grid-cell_name-text--clamp-2" href="/product/snickers-peanuts-caramel-milk-
+chocolate-candy-bar-1.86-oz-bar/158897" data-opens-modal="true" 
+aria-haspopup="dialog"><!----> SNICKERS Peanuts Caramel &amp; Milk Chocolate Candy 
+Bar</a></div><!----><!----></div><div class="skeleton-loader_wrapper"><div 
+class="product-grid-cell_sizes"><span class="product-grid-cell_size">1.86 OZ 
+BAR</span><span aria-hidden="true"> | </span><!----><span 
+class="product-grid-cell_unit">$1.07 
+/OZ</span><!----></div><!----></div><!----></button><div class="product-grid-cell_p
+romo-name"><!----><!----><!----><!----><!----><!----></div><!----><!----><!----><!-
+---><div class="margin-top--one"><!----><!----><div><!----><div 
+class="pdl-add-to-cart" product-index="3"><div 
+class="pdl-add-to-cart_button"><button class="button button--add-to-cart">Add to 
+cart <!----></button></div><!----></div></div><!----></div><!----></div></div><!---
+-><div class="mobile-product-list-cell_bottom m-4 hidden"><div class="mobile-produc
+t-list-cell_bottom_cart-ui-wrapper"><!----><!----><div><!----><div 
+class="pdl-add-to-cart" product-index="3"><div 
+class="pdl-add-to-cart_button"><button class="button button--add-to-cart">Add to 
+cart <!----></button></div><!----></div></div><!----></div><!----></div><div 
+class="product-tile_action-items" is-typeahead="false"><!----><!----><div 
+class="shopping-list-menu_container"><div class="relative-el"><button 
+class="button pdl-product-detail_top-icon button--fourth 
+pdl-product-detail_top-icon--borderless" aria-label="add to shopping list" 
+page-view="omniSearch" title=""><!----><div class="vector-icon-size--large"><svg 
+xmlns="http://www.w3.org/2000/svg" class="" aria-label="Shopping List Icon Add" 
+viewBox="0 0 40 40" role="presentation" aria-hidden="true" 
+focusable="false"><title lang="en">Shopping List Icon Add</title><desc></desc><g 
+fill="" stroke=""><svg width="40" height="40" viewBox="0 0 40 40" fill="none" 
+xmlns="http://www.w3.org/2000/svg"><path d="M25.5254 8.00391C26.8368 8.00412 
+27.9002 9.06751 27.9004 10.3789V29.6279C27.9004 30.9395 26.8369 32.0027 25.5254 
+32.0029H11.375C10.0633 32.0029 9.00002 30.9396 9 29.6279V10.3789C9.00017 9.06738 
+10.0634 8.00391 11.375 8.00391H25.5254ZM11.375 9.75391C11.0299 9.75391 10.7502 
+10.0339 10.75 10.3789V29.6279C10.75 29.9731 11.0298 30.2529 11.375 
+30.2529H25.5254C25.8704 30.2527 26.1504 29.973 26.1504 29.6279V10.3789C26.1502 
+10.034 25.8703 9.75412 25.5254 9.75391H11.375ZM18.4053 23.0439C18.8885 23.0439 
+19.2803 23.4357 19.2803 23.9189C19.2801 24.402 18.8884 24.7939 18.4053 
+24.7939H14.4053C13.9222 24.7939 13.5305 24.402 13.5303 23.9189C13.5303 23.4357 
+13.922 23.0439 14.4053 23.0439H18.4053ZM18.9053 18.5439C19.3885 18.5439 19.7803 
+18.9357 19.7803 19.4189C19.7801 19.902 19.3884 20.2939 18.9053 
+20.2939H14.4053C13.9222 20.2939 13.5305 19.902 13.5303 19.4189C13.5303 18.9357 
+13.922 18.5439 14.4053 18.5439H18.9053ZM22.7549 14.0439C23.2381 14.0439 23.6299 
+14.4357 23.6299 14.9189C23.6297 15.402 23.238 15.7939 22.7549 
+15.7939H14.4053C13.9222 15.7939 13.5305 15.402 13.5303 14.9189C13.5303 14.4357 
+13.922 14.0439 14.4053 14.0439H22.7549Z" fill="#63666A"></path><circle cx="27" 
+cy="22.5" r="6" fill="#DD1E0D"></circle><path d="M27.0039 19.1084C27.4181 19.1084 
+27.7539 19.4442 27.7539 19.8584V21.7539H29.6377C30.0519 21.7539 30.3877 22.0897 
+30.3877 22.5039C30.3877 22.9181 30.0519 23.2539 29.6377 
+23.2539H27.7539V25.1523C27.7539 25.5666 27.4181 25.9023 27.0039 25.9023C26.5898 
+25.9022 26.2539 25.5665 26.2539 25.1523V23.2539H24.3701C23.9559 23.2539 23.6201 
+22.9181 23.6201 22.5039C23.6201 22.0897 23.9559 21.7539 24.3701 
+21.7539H26.2539V19.8584L26.2578 19.7812C26.2962 19.4032 26.6157 19.1086 27.0039 
+19.1084Z" fill="white"></path></svg></g></svg></div><div 
+class="pdl-product-detail_list-tooltip"><p class="no-wrap">Sign in to add to 
+shopping list</p><em></em></div></button></div></div></div><!----></li><!----><!---
+-><!----><!----><!----><!----><li tabindex="-1" data-product-id="340982" 
+class="tile product-cell product-grid-cell" 
+prod-index="3"><!----><!----><!----><div class="product-tile_content"><!----><a 
+href="/product/snickers-peanut-butter-ice-cream-bars-12-ct-24-oz-box/340982" 
+aria-hidden="true" tabindex="-1"><div><!----><img 
+src="https://i5.peapod.com/c/C0/C0KB3.png" alt="SNICKERS Peanut Butter Ice Cream 
+Bars - 12 ct 24 OZ BOX" class="product-grid-image object-contain 
+product-grid-cell_main-image" skeleton-box-size="14rem"></div></a><div 
+class="product-grid-cell_price-tag product-grid-cell_price-tag--full-tile"><div 
+class="product-tile_detail"><div class="skeleton-loader_wrapper 
+cursor-pointer"><div class="product-grid-cell_price-container"><span 
+class="sr-only">SNICKERS Peanut Butter Ice Cream Bars - 12 ct</span><span 
+class="product-grid-cell_main-price"><!----> 
+$9.99</span><!----></div><!----></div><!----></div><button 
+class="product-tile_detail-title"><div class="skeleton-loader_wrapper"><div 
+class="product-grid-cell_name"><a id="product-name-340982-17750992617014681" 
+class="product-grid-cell_name-text product-grid-cell_name-text--small 
+product-grid-cell_name-text--clamp-2" 
+href="/product/snickers-peanut-butter-ice-cream-bars-12-ct-24-oz-box/340982" 
+data-opens-modal="true" aria-haspopup="dialog"><!----> SNICKERS Peanut Butter Ice 
+Cream Bars - 12 ct</a></div><!----><!----></div><div 
+class="skeleton-loader_wrapper"><div class="product-grid-cell_sizes"><span 
+class="product-grid-cell_size">24 OZ BOX</span><span aria-hidden="true"> | 
+</span><!----><span class="product-grid-cell_unit">$0.83 
+/EA</span><!----></div><!----></div><!----></button><div class="product-grid-cell_p
+romo-name"><!----><!----><!----><!----><!----><!----></div><!----><!----><!----><!-
+---><div class="margin-top--one"><!----><!----><div><!----><div 
+class="pdl-add-to-cart" product-index="4"><div 
+class="pdl-add-to-cart_button"><button class="button button--add-to-cart">Add to 
+cart <!----></button></div><!----></div></div><!----></div><!----></div></div><!---
+-><div class="mobile-product-list-cell_bottom m-4 hidden"><div class="mobile-produc
+t-list-cell_bottom_cart-ui-wrapper"><!----><!----><div><!----><div 
+class="pdl-add-to-cart" product-index="4"><div 
+class="pdl-add-to-cart_button"><button class="button button--add-to-cart">Add to 
+cart <!----></button></div><!----></div></div><!----></div><!----></div><div 
+class="product-tile_action-items" is-typeahead="false"><!----><!----><div 
+class="shopping-list-menu_container"><div class="relative-el"><button 
+class="button pdl-product-detail_top-icon button--fourth 
+pdl-product-detail_top-icon--borderless" aria-label="add to shopping list" 
+page-view="omniSearch" title=""><!----><div class="vector-icon-size--large"><svg 
+xmlns="http://www.w3.org/2000/svg" class="" aria-label="Shopping List Icon Add" 
+viewBox="0 0 40 40" role="presentation" aria-hidden="true" 
+focusable="false"><title lang="en">Shopping List Icon Add</title><desc></desc><g 
+fill="" stroke=""><svg width="40" height="40" viewBox="0 0 40 40" fill="none" 
+xmlns="http://www.w3.org/2000/svg"><path d="M25.5254 8.00391C26.8368 8.00412 
+27.9002 9.06751 27.9004 10.3789V29.6279C27.9004 30.9395 26.8369 32.0027 25.5254 
+32.0029H11.375C10.0633 32.0029 9.00002 30.9396 9 29.6279V10.3789C9.00017 9.06738 
+10.0634 8.00391 11.375 8.00391H25.5254ZM11.375 9.75391C11.0299 9.75391 10.7502 
+10.0339 10.75 10.3789V29.6279C10.75 29.9731 11.0298 30.2529 11.375 
+30.2529H25.5254C25.8704 30.2527 26.1504 29.973 26.1504 29.6279V10.3789C26.1502 
+10.034 25.8703 9.75412 25.5254 9.75391H11.375ZM18.4053 23.0439C18.8885 23.0439 
+19.2803 23.4357 19.2803 23.9189C19.2801 24.402 18.8884 24.7939 18.4053 
+24.7939H14.4053C13.9222 24.7939 13.5305 24.402 13.5303 23.9189C13.5303 23.4357 
+13.922 23.0439 14.4053 23.0439H18.4053ZM18.9053 18.5439C19.3885 18.5439 19.7803 
+18.9357 19.7803 19.4189C19.7801 19.902 19.3884 20.2939 18.9053 
+20.2939H14.4053C13.9222 20.2939 13.5305 19.902 13.5303 19.4189C13.5303 18.9357 
+13.922 18.5439 14.4053 18.5439H18.9053ZM22.7549 14.0439C23.2381 14.0439 23.6299 
+14.4357 23.6299 14.9189C23.6297 15.402 23.238 15.7939 22.7549 
+15.7939H14.4053C13.9222 15.7939 13.5305 15.402 13.5303 14.9189C13.5303 14.4357 
+13.922 14.0439 14.4053 14.0439H22.7549Z" fill="#63666A"></path><circle cx="27" 
+cy="22.5" r="6" fill="#DD1E0D"></circle><path d="M27.0039 19.1084C27.4181 19.1084 
+27.7539 19.4442 27.7539 19.8584V21.7539H29.6377C30.0519 21.7539 30.3877 22.0897 
+30.3877 22.5039C30.3877 22.9181 30.0519 23.2539 29.6377 
+23.2539H27.7539V25.1523C27.7539 25.5666 27.4181 25.9023 27.0039 25.9023C26.5898 
+25.9022 26.2539 25.5665 26.2539 25.1523V23.2539H24.3701C23.9559 23.2539 23.6201 
+22.9181 23.6201 22.5039C23.6201 22.0897 23.9559 21.7539 24.3701 
+21.7539H26.2539V19.8584L26.2578 19.7812C26.2962 19.4032 26.6157 19.1086 27.0039 
+19.1084Z" fill="white"></path></svg></g></svg></div><div 
+class="pdl-product-detail_list-tooltip"><p class="no-wrap">Sign in to add to 
+shopping list</p><em></em></div></button></div></div></div><!----></li><!----><!---
+-><!----><!----><!----><!----><li tabindex="-1" data-product-id="363427" 
+class="tile product-cell product-grid-cell" 
+prod-index="4"><!----><!----><!----><div class="product-tile_content"><div 
+class="flag_outer-container"><!----><!----><span class="flag_label 
+flag_label--tomato">Sale</span><!----><!----></div><a href="/product/the-original-d
+onut-shop-snickers-flavored-k-cup-coffee-pods-10-ct-box/363427" aria-hidden="true" 
+tabindex="-1"><div><!----><img src="https://i5.peapod.com/c/QU/QU21B.png" alt="The 
+Original Donut Shop Snickers Flavored K-Cup Coffee Pods 10 CT BOX" 
+class="product-grid-image object-contain product-grid-cell_main-image" 
+skeleton-box-size="14rem"></div></a><div class="product-grid-cell_price-tag 
+product-grid-cell_price-tag--full-tile"><div class="product-tile_detail"><div 
+class="skeleton-loader_wrapper cursor-pointer"><div 
+class="product-grid-cell_price-container 
+product-grid-cell_price-container_column"><span class="sr-only">The Original Donut 
+Shop Snickers Flavored K-Cup Coffee Pods</span><span 
+class="product-grid-cell_main-price product-grid-cell_main-price--on-sale"><span 
+class="sr-only"> Sale Price </span> $6.99</span><div 
+class="product-grid-cell_was-container"><span 
+class="product-grid-cell_regular-price mb-1 
+product-grid-cell_regular-price--small"><span class="sr-only"> Original Price 
+</span> $10.99</span></div></div><!----></div><!----></div><button 
+class="product-tile_detail-title"><div class="skeleton-loader_wrapper"><div 
+class="product-grid-cell_name"><a id="product-name-363427-17750992617145432" 
+class="product-grid-cell_name-text product-grid-cell_name-text--small 
+product-grid-cell_name-text--clamp-2" href="/product/the-original-donut-shop-snicke
+rs-flavored-k-cup-coffee-pods-10-ct-box/363427" data-opens-modal="true" 
+aria-haspopup="dialog"><!----> The Original Donut Shop Snickers Flavored K-Cup 
+Coffee Pods</a></div><!----><!----></div><div class="skeleton-loader_wrapper"><div 
+class="product-grid-cell_sizes"><span class="product-grid-cell_size">10 CT 
+BOX</span><span aria-hidden="true"> | </span><!----><span 
+class="product-grid-cell_unit">$0.70 
+/EA</span><!----></div><!----></div><!----></button><div class="product-grid-cell_p
+romo-name"><!----><!----><!----><!----><!----><!----></div><!----><!----><!----><!-
+---><div class="margin-top--one"><!----><!----><div><!----><div 
+class="pdl-add-to-cart" product-index="5"><div 
+class="pdl-add-to-cart_button"><button class="button button--add-to-cart">Add to 
+cart <!----></button></div><!----></div></div><!----></div><!----></div></div><!---
+-><div class="mobile-product-list-cell_bottom m-4 hidden"><div class="mobile-produc
+t-list-cell_bottom_cart-ui-wrapper"><!----><!----><div><!----><div 
+class="pdl-add-to-cart" product-index="5"><div 
+class="pdl-add-to-cart_button"><button class="button button--add-to-cart">Add to 
+cart <!----></button></div><!----></div></div><!----></div><!----></div><div 
+class="product-tile_action-items" is-typeahead="false"><!----><!----><div 
+class="shopping-list-menu_container"><div class="relative-el"><button 
+class="button pdl-product-detail_top-icon button--fourth 
+pdl-product-detail_top-icon--borderless" aria-label="add to shopping list" 
+page-view="omniSearch" title=""><!----><div class="vector-icon-size--large"><svg 
+xmlns="http://www.w3.org/2000/svg" class="" aria-label="Shopping List Icon Add" 
+viewBox="0 0 40 40" role="presentation" aria-hidden="true" 
+focusable="false"><title lang="en">Shopping List Icon Add</title><desc></desc><g 
+fill="" stroke=""><svg width="40" height="40" viewBox="0 0 40 40" fill="none" 
+xmlns="http://www.w3.org/2000/svg"><path d="M25.5254 8.00391C26.8368 8.00412 
+27.9002 9.06751 27.9004 10.3789V29.6279C27.9004 30.9395 26.8369 32.0027 25.5254 
+32.0029H11.375C10.0633 32.0029 9.00002 30.9396 9 29.6279V10.3789C9.00017 9.06738 
+10.0634 8.00391 11.375 8.00391H25.5254ZM11.375 9.75391C11.0299 9.75391 10.7502 
+10.0339 10.75 10.3789V29.6279C10.75 29.9731 11.0298 30.2529 11.375 
+30.2529H25.5254C25.8704 30.2527 26.1504 29.973 26.1504 29.6279V10.3789C26.1502 
+10.034 25.8703 9.75412 25.5254 9.75391H11.375ZM18.4053 23.0439C18.8885 23.0439 
+19.2803 23.4357 19.2803 23.9189C19.2801 24.402 18.8884 24.7939 18.4053 
+24.7939H14.4053C13.9222 24.7939 13.5305 24.402 13.5303 23.9189C13.5303 23.4357 
+13.922 23.0439 14.4053 23.0439H18.4053ZM18.9053 18.5439C19.3885 18.5439 19.7803 
+18.9357 19.7803 19.4189C19.7801 19.902 19.3884 20.2939 18.9053 
+20.2939H14.4053C13.9222 20.2939 13.5305 19.902 13.5303 19.4189C13.5303 18.9357 
+13.922 18.5439 14.4053 18.5439H18.9053ZM22.7549 14.0439C23.2381 14.0439 23.6299 
+14.4357 23.6299 14.9189C23.6297 15.402 23.238 15.7939 22.7549 
+15.7939H14.4053C13.9222 15.7939 13.5305 15.402 13.5303 14.9189C13.5303 14.4357 
+13.922 14.0439 14.4053 14.0439H22.7549Z" fill="#63666A"></path><circle cx="27" 
+cy="22.5" r="6" fill="#DD1E0D"></circle><path d="M27.0039 19.1084C27.4181 19.1084 
+27.7539 19.4442 27.7539 19.8584V21.7539H29.6377C30.0519 21.7539 30.3877 22.0897 
+30.3877 22.5039C30.3877 22.9181 30.0519 23.2539 29.6377 
+23.2539H27.7539V25.1523C27.7539 25.5666 27.4181 25.9023 27.0039 25.9023C26.5898 
+25.9022 26.2539 25.5665 26.2539 25.1523V23.2539H24.3701C23.9559 23.2539 23.6201 
+22.9181 23.6201 22.5039C23.6201 22.0897 23.9559 21.7539 24.3701 
+21.7539H26.2539V19.8584L26.2578 19.7812C26.2962 19.4032 26.6157 19.1086 27.0039 
+19.1084Z" fill="white"></path></svg></g></svg></div><div 
+class="pdl-product-detail_list-tooltip"><p class="no-wrap">Sign in to add to 
+shopping list</p><em></em></div></button></div></div></div><!----></li><!----><!---
+-><!----><!----><!----><!----><li tabindex="-1" data-product-id="166680" 
+class="tile product-cell product-grid-cell" 
+prod-index="5"><!----><!----><!----><div class="product-tile_content"><!----><a hre
+f="/product/snickers-peanuts-caramel-milk-chocolate-candy-bar-share-size-2-ct-3.29-
+oz-bar/166680" aria-hidden="true" tabindex="-1"><div><!----><img src="data:image/sv
+g+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0ZW
+QgYnkgSWNvTW9vbi5pbyAtLT4KPCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL
+0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2
+ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh
+0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgdmlld0JveD0iMC
+AwIDQ4IDQ4Ij4KPGcgaWQ9Imljb21vb24taWdub3JlIj4KCTxsaW5lIHN0cm9rZS13aWR0aD0iMSIgeDE9I
+iIgeTE9IiIgeDI9IiIgeTI9IiIgc3Ryb2tlPSIjNDQ5RkRCIiBvcGFjaXR5PSIiPjwvbGluZT4KPC9nPgoJ
+PHBhdGggZD0iTTM4LjQ4IDkuMDcwYzAuMjQ4IDAgMC40NSAwLjIwMiAwLjQ1IDAuNDV2MjguOTU5YzAgMC4
+yNDgtMC4yMDIgMC40NS0wLjQ1IDAuNDVoLTI4Ljk1OWMtMC4yNDggMC0wLjQ1LTAuMjAyLTAuNDUtMC40NX
+YtMjguOTU5YzAtMC4yNDggMC4yMDItMC40NSAwLjQ1LTAuNDVoMjguOTU5ek0zOC40OCA4aC0yOC45NTljL
+TAuODQgMC0xLjUyIDAuNjgxLTEuNTIgMS41MjF2MjguOTU5YzAgMC44NCAwLjY4MSAxLjUyMSAxLjUyIDEu
+NTIxaDI4Ljk1OWMwLjg0IDAgMS41Mi0wLjY4MSAxLjUyLTEuNTIxdi0yOC45NTljMC0wLjg0LTAuNjgxLTE
+uNTIxLTEuNTItMS41MjF2MHoiIG9wYWNpdHk9IjEiIHZpc2liaWxpdHk9ImZhbHNlIiBmaWxsPSIjZDdkN2
+Q3Ij48L3BhdGg+Cgk8cGF0aCBkPSJNMTIuMjI4IDM1LjIyNHYtMy4zMjljMC0wLjE0NSAwLjA1OC0wLjI4N
+SAwLjE2LTAuMzg4bDUuNTg3LTUuNTg3YzAuMjE0LTAuMjE0IDAuNTYxLTAuMjE0IDAuNzc1IDBsMi4xMTkg
+Mi4xMTljMC4yMTQgMC4yMTQgMC41NjEgMC4yMTQgMC43NzUgMGw4LjE5MS04LjE5MmMwLjIxNC0wLjIxNCA
+wLjU2MS0wLjIxNCAwLjc3NSAwbDUgNWMwLjEwMyAwLjEwMyAwLjE2IDAuMjQyIDAuMTYgMC4zODh2OS45OD
+hjMCAwLjMwMy0wLjI0NSAwLjU0OC0wLjU0OCAwLjU0OGgtMjIuNDQ3Yy0wLjMwMyAwLTAuNTQ4LTAuMjQ1L
+TAuNTQ4LTAuNTQ4eiIgb3BhY2l0eT0iMSIgdmlzaWJpbGl0eT0iZmFsc2UiIGZpbGw9IiNkN2Q3ZDciPjwv
+cGF0aD4KCTxwYXRoIGQ9Ik0yMS41NDQgMTcuOTY3YzAgMS45ODItMS42MDYgMy41ODgtMy41ODggMy41ODh
+zLTMuNTg4LTEuNjA2LTMuNTg4LTMuNTg4YzAtMS45ODEgMS42MDYtMy41ODggMy41ODgtMy41ODhzMy41OD
+ggMS42MDYgMy41ODggMy41ODh6IiBvcGFjaXR5PSIxIiB2aXNpYmlsaXR5PSJmYWxzZSIgZmlsbD0iI2Q3Z
+DdkNyI+PC9wYXRoPgo8L3N2Zz4K" alt="SNICKERS Peanuts Caramel &amp; Milk Chocolate 
+Candy Bar Share Size - 2 ct 3.29 OZ BAR" class="product-grid-image object-contain 
+product-grid-cell_main-image" skeleton-box-size="14rem"></div></a><div 
+class="product-grid-cell_price-tag product-grid-cell_price-tag--full-tile"><div 
+class="product-tile_detail"><div class="skeleton-loader_wrapper 
+cursor-pointer"><div class="product-grid-cell_price-container"><span 
+class="sr-only">SNICKERS Peanuts Caramel &amp; Milk Chocolate Candy Bar Share Size 
+- 2 ct</span><span class="product-grid-cell_main-price"><!----> 
+$3.29</span><!----></div><!----></div><!----></div><button 
+class="product-tile_detail-title"><div class="skeleton-loader_wrapper"><div 
+class="product-grid-cell_name"><a id="product-name-166680-17750992617268362" 
+class="product-grid-cell_name-text product-grid-cell_name-text--small 
+product-grid-cell_name-text--clamp-2" href="/product/snickers-peanuts-caramel-milk-
+chocolate-candy-bar-share-size-2-ct-3.29-oz-bar/166680" data-opens-modal="true" 
+aria-haspopup="dialog"><!----> SNICKERS Peanuts Caramel &amp; Milk Chocolate Candy 
+Bar Share Size - 2 ct</a></div><!----><!----></div><div 
+class="skeleton-loader_wrapper"><div class="product-grid-cell_sizes"><span 
+class="product-grid-cell_size">3.29 OZ BAR</span><span aria-hidden="true"> | 
+</span><!----><span class="product-grid-cell_unit">$1.00 
+/OZ</span><!----></div><!----></div><!----></button><div 
+class="product-grid-cell_promo-name"><!----><div 
+id="coupon-link-166680-17750992617268362" class="product-tile_coupon-offer 
+product-tile_coupon-offer-eci" tabindex="0" role="link" aria-label="Open coupon 
+details" data-opens-modal="true"><div 
+class="product-tile_coupon-offer-display"><!----><!----><div 
+class="product-tile_coupon-offer-name flex-center 
+product-tile_coupon-offer-name--full-tile"><span><!----></span> Save $5 instantly 
+when you spend $20 on participating products</div></div><!----><div class="product-
+tile_coupon-offer-loading-coupon"><!----></div></div><!----><!----><!----><!----></
+div><!----><!----><!----><!----><div 
+class="margin-top--one"><!----><!----><div><!----><div class="pdl-add-to-cart" 
+product-index="6"><div class="pdl-add-to-cart_button"><button class="button 
+button--add-to-cart">Add to cart <!----></button></div><!----></div></div><!----></
+div><!----></div></div><!----><div class="mobile-product-list-cell_bottom m-4 
+hidden"><div class="mobile-product-list-cell_bottom_cart-ui-wrapper"><!----><!---->
+<div><!----><div class="pdl-add-to-cart" product-index="6"><div 
+class="pdl-add-to-cart_button"><button class="button button--add-to-cart">Add to 
+cart <!----></button></div><!----></div></div><!----></div><!----></div><div 
+class="product-tile_action-items" is-typeahead="false"><!----><!----><div 
+class="shopping-list-menu_container"><div class="relative-el"><button 
+class="button pdl-product-detail_top-icon button--fourth 
+pdl-product-detail_top-icon--borderless" aria-label="add to shopping list" 
+page-view="omniSearch" title=""><!----><div class="vector-icon-size--large"><svg 
+xmlns="http://www.w3.org/2000/svg" class="" aria-label="Shopping List Icon Add" 
+viewBox="0 0 40 40" role="presentation" aria-hidden="true" 
+focusable="false"><title lang="en">Shopping List Icon Add</title><desc></desc><g 
+fill="" stroke=""><svg width="40" height="40" viewBox="0 0 40 40" fill="none" 
+xmlns="http://www.w3.org/2000/svg"><path d="M25.5254 8.00391C26.8368 8.00412 
+27.9002 9.06751 27.9004 10.3789V29.6279C27.9004 30.9395 26.8369 32.0027 25.5254 
+32.0029H11.375C10.0633 32.0029 9.00002 30.9396 9 29.6279V10.3789C9.00017 9.06738 
+10.0634 8.00391 11.375 8.00391H25.5254ZM11.375 9.75391C11.0299 9.75391 10.7502 
+10.0339 10.75 10.3789V29.6279C10.75 29.9731 11.0298 30.2529 11.375 
+30.2529H25.5254C25.8704 30.2527 26.1504 29.973 26.1504 29.6279V10.3789C26.1502 
+10.034 25.8703 9.75412 25.5254 9.75391H11.375ZM18.4053 23.0439C18.8885 23.0439 
+19.2803 23.4357 19.2803 23.9189C19.2801 24.402 18.8884 24.7939 18.4053 
+24.7939H14.4053C13.9222 24.7939 13.5305 24.402 13.5303 23.9189C13.5303 23.4357 
+13.922 23.0439 14.4053 23.0439H18.4053ZM18.9053 18.5439C19.3885 18.5439 19.7803 
+18.9357 19.7803 19.4189C19.7801 19.902 19.3884 20.2939 18.9053 
+20.2939H14.4053C13.9222 20.2939 13.5305 19.902 13.5303 19.4189C13.5303 18.9357 
+13.922 18.5439 14.4053 18.5439H18.9053ZM22.7549 14.0439C23.2381 14.0439 23.6299 
+14.4357 23.6299 14.9189C23.6297 15.402 23.238 15.7939 22.7549 
+15.7939H14.4053C13.9222 15.7939 13.5305 15.402 13.5303 14.9189C13.5303 14.4357 
+13.922 14.0439 14.4053 14.0439H22.7549Z" fill="#63666A"></path><circle cx="27" 
+cy="22.5" r="6" fill="#DD1E0D"></circle><path d="M27.0039 19.1084C27.4181 19.1084 
+27.7539 19.4442 27.7539 19.8584V21.7539H29.6377C30.0519 21.7539 30.3877 22.0897 
+30.3877 22.5039C30.3877 22.9181 30.0519 23.2539 29.6377 
+23.2539H27.7539V25.1523C27.7539 25.5666 27.4181 25.9023 27.0039 25.9023C26.5898 
+25.9022 26.2539 25.5665 26.2539 25.1523V23.2539H24.3701C23.9559 23.2539 23.6201 
+22.9181 23.6201 22.5039C23.6201 22.0897 23.9559 21.7539 24.3701 
+21.7539H26.2539V19.8584L26.2578 19.7812C26.2962 19.4032 26.6157 19.1086 27.0039 
+19.1084Z" fill="white"></path></svg></g></svg></div><div 
+class="pdl-product-detail_list-tooltip"><p class="no-wrap">Sign in to add to 
+shopping list</p><em></em></div></button></div></div></div><!----></li><!----><!---
+-><!----><!----><!----><!----><li tabindex="-1" data-product-id="360930" 
+class="tile product-cell product-grid-cell" 
+prod-index="6"><!----><!----><!----><div class="product-tile_content"><!----><a hre
+f="/product/snickers-peanuts-caramel-milk-chocolate-candy-bars-fun-size-5-ct-2.6-oz
+-bag/360930" aria-hidden="true" tabindex="-1"><div><!----><img src="data:image/svg+
+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0ZWQg
+YnkgSWNvTW9vbi5pbyAtLT4KPCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0V
+OIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZX
+JzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0d
+HA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgdmlld0JveD0iMCAw
+IDQ4IDQ4Ij4KPGcgaWQ9Imljb21vb24taWdub3JlIj4KCTxsaW5lIHN0cm9rZS13aWR0aD0iMSIgeDE9IiI
+geTE9IiIgeDI9IiIgeTI9IiIgc3Ryb2tlPSIjNDQ5RkRCIiBvcGFjaXR5PSIiPjwvbGluZT4KPC9nPgoJPH
+BhdGggZD0iTTM4LjQ4IDkuMDcwYzAuMjQ4IDAgMC40NSAwLjIwMiAwLjQ1IDAuNDV2MjguOTU5YzAgMC4yN
+DgtMC4yMDIgMC40NS0wLjQ1IDAuNDVoLTI4Ljk1OWMtMC4yNDggMC0wLjQ1LTAuMjAyLTAuNDUtMC40NXYt
+MjguOTU5YzAtMC4yNDggMC4yMDItMC40NSAwLjQ1LTAuNDVoMjguOTU5ek0zOC40OCA4aC0yOC45NTljLTA
+uODQgMC0xLjUyIDAuNjgxLTEuNTIgMS41MjF2MjguOTU5YzAgMC44NCAwLjY4MSAxLjUyMSAxLjUyIDEuNT
+IxaDI4Ljk1OWMwLjg0IDAgMS41Mi0wLjY4MSAxLjUyLTEuNTIxdi0yOC45NTljMC0wLjg0LTAuNjgxLTEuN
+TIxLTEuNTItMS41MjF2MHoiIG9wYWNpdHk9IjEiIHZpc2liaWxpdHk9ImZhbHNlIiBmaWxsPSIjZDdkN2Q3
+Ij48L3BhdGg+Cgk8cGF0aCBkPSJNMTIuMjI4IDM1LjIyNHYtMy4zMjljMC0wLjE0NSAwLjA1OC0wLjI4NSA
+wLjE2LTAuMzg4bDUuNTg3LTUuNTg3YzAuMjE0LTAuMjE0IDAuNTYxLTAuMjE0IDAuNzc1IDBsMi4xMTkgMi
+4xMTljMC4yMTQgMC4yMTQgMC41NjEgMC4yMTQgMC43NzUgMGw4LjE5MS04LjE5MmMwLjIxNC0wLjIxNCAwL
+jU2MS0wLjIxNCAwLjc3NSAwbDUgNWMwLjEwMyAwLjEwMyAwLjE2IDAuMjQyIDAuMTYgMC4zODh2OS45ODhj
+MCAwLjMwMy0wLjI0NSAwLjU0OC0wLjU0OCAwLjU0OGgtMjIuNDQ3Yy0wLjMwMyAwLTAuNTQ4LTAuMjQ1LTA
+uNTQ4LTAuNTQ4eiIgb3BhY2l0eT0iMSIgdmlzaWJpbGl0eT0iZmFsc2UiIGZpbGw9IiNkN2Q3ZDciPjwvcG
+F0aD4KCTxwYXRoIGQ9Ik0yMS41NDQgMTcuOTY3YzAgMS45ODItMS42MDYgMy41ODgtMy41ODggMy41ODhzL
+TMuNTg4LTEuNjA2LTMuNTg4LTMuNTg4YzAtMS45ODEgMS42MDYtMy41ODggMy41ODgtMy41ODhzMy41ODgg
+MS42MDYgMy41ODggMy41ODh6IiBvcGFjaXR5PSIxIiB2aXNpYmlsaXR5PSJmYWxzZSIgZmlsbD0iI2Q3ZDd
+kNyI+PC9wYXRoPgo8L3N2Zz4K" alt="SNICKERS Peanuts Caramel &amp; Milk Chocolate 
+Candy Bars Fun Size - 5 ct 2.6 OZ BAG" class="product-grid-image object-contain 
+product-grid-cell_main-image" skeleton-box-size="14rem"></div></a><div 
+class="product-grid-cell_price-tag product-grid-cell_price-tag--full-tile"><div 
+class="product-tile_detail"><div class="skeleton-loader_wrapper 
+cursor-pointer"><div class="product-grid-cell_price-container"><span 
+class="sr-only">SNICKERS Peanuts Caramel &amp; Milk Chocolate Candy Bars Fun Size 
+- 5 ct</span><span class="product-grid-cell_main-price"><!----> 
+$1.79</span><!----></div><!----></div><!----></div><button 
+class="product-tile_detail-title"><div class="skeleton-loader_wrapper"><div 
+class="product-grid-cell_name"><a id="product-name-360930-17750992617325993" 
+class="product-grid-cell_name-text product-grid-cell_name-text--small 
+product-grid-cell_name-text--clamp-2" href="/product/snickers-peanuts-caramel-milk-
+chocolate-candy-bars-fun-size-5-ct-2.6-oz-bag/360930" data-opens-modal="true" 
+aria-haspopup="dialog"><!----> SNICKERS Peanuts Caramel &amp; Milk Chocolate Candy 
+Bars Fun Size - 5 ct</a></div><!----><!----></div><div 
+class="skeleton-loader_wrapper"><div class="product-grid-cell_sizes"><span 
+class="product-grid-cell_size">2.6 OZ BAG</span><span aria-hidden="true"> | 
+</span><!----><span class="product-grid-cell_unit">$0.69 
+/OZ</span><!----></div><!----></div><!----></button><div class="product-grid-cell_p
+romo-name"><!----><!----><!----><!----><!----><!----></div><!----><!----><!----><!-
+---><div class="margin-top--one"><!----><!----><div><!----><div 
+class="pdl-add-to-cart" product-index="7"><div 
+class="pdl-add-to-cart_button"><button class="button button--add-to-cart">Add to 
+cart <!----></button></div><!----></div></div><!----></div><!----></div></div><!---
+-><div class="mobile-product-list-cell_bottom m-4 hidden"><div class="mobile-produc
+t-list-cell_bottom_cart-ui-wrapper"><!----><!----><div><!----><div 
+class="pdl-add-to-cart" product-index="7"><div 
+class="pdl-add-to-cart_button"><button class="button button--add-to-cart">Add to 
+cart <!----></button></div><!----></div></div><!----></div><!----></div><div 
+class="product-tile_action-items" is-typeahead="false"><!----><!----><div 
+class="shopping-list-menu_container"><div class="relative-el"><button 
+class="button pdl-product-detail_top-icon button--fourth 
+pdl-product-detail_top-icon--borderless" aria-label="add to shopping list" 
+page-view="omniSearch" title=""><!----><div class="vector-icon-size--large"><svg 
+xmlns="http://www.w3.org/2000/svg" class="" aria-label="Shopping List Icon Add" 
+viewBox="0 0 40 40" role="presentation" aria-hidden="true" 
+focusable="false"><title lang="en">Shopping List Icon Add</title><desc></desc><g 
+fill="" stroke=""><svg width="40" height="40" viewBox="0 0 40 40" fill="none" 
+xmlns="http://www.w3.org/2000/svg"><path d="M25.5254 8.00391C26.8368 8.00412 
+27.9002 9.06751 27.9004 10.3789V29.6279C27.9004 30.9395 26.8369 32.0027 25.5254 
+32.0029H11.375C10.0633 32.0029 9.00002 30.9396 9 29.6279V10.3789C9.00017 9.06738 
+10.0634 8.00391 11.375 8.00391H25.5254ZM11.375 9.75391C11.0299 9.75391 10.7502 
+10.0339 10.75 10.3789V29.6279C10.75 29.9731 11.0298 30.2529 11.375 
+30.2529H25.5254C25.8704 30.2527 26.1504 29.973 26.1504 29.6279V10.3789C26.1502 
+10.034 25.8703 9.75412 25.5254 9.75391H11.375ZM18.4053 23.0439C18.8885 23.0439 
+19.2803 23.4357 19.2803 23.9189C19.2801 24.402 18.8884 24.7939 18.4053 
+24.7939H14.4053C13.9222 24.7939 13.5305 24.402 13.5303 23.9189C13.5303 23.4357 
+13.922 23.0439 14.4053 23.0439H18.4053ZM18.9053 18.5439C19.3885 18.5439 19.7803 
+18.9357 19.7803 19.4189C19.7801 19.902 19.3884 20.2939 18.9053 
+20.2939H14.4053C13.9222 20.2939 13.5305 19.902 13.5303 19.4189C13.5303 18.9357 
+13.922 18.5439 14.4053 18.5439H18.9053ZM22.7549 14.0439C23.2381 14.0439 23.6299 
+14.4357 23.6299 14.9189C23.6297 15.402 23.238 15.7939 22.7549 
+15.7939H14.4053C13.9222 15.7939 13.5305 15.402 13.5303 14.9189C13.5303 14.4357 
+13.922 14.0439 14.4053 14.0439H22.7549Z" fill="#63666A"></path><circle cx="27" 
+cy="22.5" r="6" fill="#DD1E0D"></circle><path d="M27.0039 19.1084C27.4181 19.1084 
+27.7539 19.4442 27.7539 19.8584V21.7539H29.6377C30.0519 21.7539 30.3877 22.0897 
+30.3877 22.5039C30.3877 22.9181 30.0519 23.2539 29.6377 
+23.2539H27.7539V25.1523C27.7539 25.5666 27.4181 25.9023 27.0039 25.9023C26.5898 
+25.9022 26.2539 25.5665 26.2539 25.1523V23.2539H24.3701C23.9559 23.2539 23.6201 
+22.9181 23.6201 22.5039C23.6201 22.0897 23.9559 21.7539 24.3701 
+21.7539H26.2539V19.8584L26.2578 19.7812C26.2962 19.4032 26.6157 19.1086 27.0039 
+19.1084Z" fill="white"></path></svg></g></svg></div><div 
+class="pdl-product-detail_list-tooltip"><p class="no-wrap">Sign in to add to 
+shopping list</p><em></em></div></button></div></div></div><!----></li><!----><!---
+-><!----><!----><!----><!----><li tabindex="-1" data-product-id="150846" 
+class="tile product-cell product-grid-cell" 
+prod-index="7"><!----><!----><!----><div class="product-tile_content"><!----><a 
+href="/product/breyers-light-snickers-ice-cream-1.5-quart/150846" 
+aria-hidden="true" tabindex="-1"><div><!----><img src="data:image/svg+xml;base64,PD
+94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0ZWQgYnkgSWNvTW9vb
+i5pbyAtLT4KPCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDov
+L3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjE
+iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudz
+Mub3JnLzE5OTkveGxpbmsiIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgdmlld0JveD0iMCAwIDQ4IDQ4Ij4KP
+GcgaWQ9Imljb21vb24taWdub3JlIj4KCTxsaW5lIHN0cm9rZS13aWR0aD0iMSIgeDE9IiIgeTE9IiIgeDI9
+IiIgeTI9IiIgc3Ryb2tlPSIjNDQ5RkRCIiBvcGFjaXR5PSIiPjwvbGluZT4KPC9nPgoJPHBhdGggZD0iTTM
+4LjQ4IDkuMDcwYzAuMjQ4IDAgMC40NSAwLjIwMiAwLjQ1IDAuNDV2MjguOTU5YzAgMC4yNDgtMC4yMDIgMC
+40NS0wLjQ1IDAuNDVoLTI4Ljk1OWMtMC4yNDggMC0wLjQ1LTAuMjAyLTAuNDUtMC40NXYtMjguOTU5YzAtM
+C4yNDggMC4yMDItMC40NSAwLjQ1LTAuNDVoMjguOTU5ek0zOC40OCA4aC0yOC45NTljLTAuODQgMC0xLjUy
+IDAuNjgxLTEuNTIgMS41MjF2MjguOTU5YzAgMC44NCAwLjY4MSAxLjUyMSAxLjUyIDEuNTIxaDI4Ljk1OWM
+wLjg0IDAgMS41Mi0wLjY4MSAxLjUyLTEuNTIxdi0yOC45NTljMC0wLjg0LTAuNjgxLTEuNTIxLTEuNTItMS
+41MjF2MHoiIG9wYWNpdHk9IjEiIHZpc2liaWxpdHk9ImZhbHNlIiBmaWxsPSIjZDdkN2Q3Ij48L3BhdGg+C
+gk8cGF0aCBkPSJNMTIuMjI4IDM1LjIyNHYtMy4zMjljMC0wLjE0NSAwLjA1OC0wLjI4NSAwLjE2LTAuMzg4
+bDUuNTg3LTUuNTg3YzAuMjE0LTAuMjE0IDAuNTYxLTAuMjE0IDAuNzc1IDBsMi4xMTkgMi4xMTljMC4yMTQ
+gMC4yMTQgMC41NjEgMC4yMTQgMC43NzUgMGw4LjE5MS04LjE5MmMwLjIxNC0wLjIxNCAwLjU2MS0wLjIxNC
+AwLjc3NSAwbDUgNWMwLjEwMyAwLjEwMyAwLjE2IDAuMjQyIDAuMTYgMC4zODh2OS45ODhjMCAwLjMwMy0wL
+jI0NSAwLjU0OC0wLjU0OCAwLjU0OGgtMjIuNDQ3Yy0wLjMwMyAwLTAuNTQ4LTAuMjQ1LTAuNTQ4LTAuNTQ4
+eiIgb3BhY2l0eT0iMSIgdmlzaWJpbGl0eT0iZmFsc2UiIGZpbGw9IiNkN2Q3ZDciPjwvcGF0aD4KCTxwYXR
+oIGQ9Ik0yMS41NDQgMTcuOTY3YzAgMS45ODItMS42MDYgMy41ODgtMy41ODggMy41ODhzLTMuNTg4LTEuNj
+A2LTMuNTg4LTMuNTg4YzAtMS45ODEgMS42MDYtMy41ODggMy41ODgtMy41ODhzMy41ODggMS42MDYgMy41O
+DggMy41ODh6IiBvcGFjaXR5PSIxIiB2aXNpYmlsaXR5PSJmYWxzZSIgZmlsbD0iI2Q3ZDdkNyI+PC9wYXRo
+Pgo8L3N2Zz4K" alt="Breyers Light Snickers Ice Cream 1.5 QUART" 
+class="product-grid-image object-contain product-grid-cell_main-image" 
+skeleton-box-size="14rem"></div></a><div class="product-grid-cell_price-tag 
+product-grid-cell_price-tag--full-tile"><div class="product-tile_detail"><div 
+class="skeleton-loader_wrapper cursor-pointer"><div 
+class="product-grid-cell_price-container"><span class="sr-only">Breyers Light 
+Snickers Ice Cream</span><span class="product-grid-cell_main-price"><!----> 
+$4.99</span><!----></div><!----></div><!----></div><button 
+class="product-tile_detail-title"><div class="skeleton-loader_wrapper"><div 
+class="product-grid-cell_name"><a id="product-name-150846-17750992617407932" 
+class="product-grid-cell_name-text product-grid-cell_name-text--small 
+product-grid-cell_name-text--clamp-2" 
+href="/product/breyers-light-snickers-ice-cream-1.5-quart/150846" 
+data-opens-modal="true" aria-haspopup="dialog"><!----> Breyers Light Snickers Ice 
+Cream</a></div><!----><!----></div><div class="skeleton-loader_wrapper"><div 
+class="product-grid-cell_sizes"><span class="product-grid-cell_size">1.5 
+QUART</span><span aria-hidden="true"> | </span><!----><span 
+class="product-grid-cell_unit">$0.10 
+/OZ</span><!----></div><!----></div><!----></button><div class="product-grid-cell_p
+romo-name"><!----><!----><!----><!----><!----><!----></div><!----><!----><!----><!-
+---><div class="margin-top--one"><!----><!----><div><!----><div 
+class="pdl-add-to-cart" product-index="8"><div 
+class="pdl-add-to-cart_button"><button class="button button--add-to-cart">Add to 
+cart <!----></button></div><!----></div></div><!----></div><!----></div></div><!---
+-><div class="mobile-product-list-cell_bottom m-4 hidden"><div class="mobile-produc
+t-list-cell_bottom_cart-ui-wrapper"><!----><!----><div><!----><div 
+class="pdl-add-to-cart" product-index="8"><div 
+class="pdl-add-to-cart_button"><button class="button button--add-to-cart">Add to 
+cart <!----></button></div><!----></div></div><!----></div><!----></div><div 
+class="product-tile_action-items" is-typeahead="false"><!----><!----><div 
+class="shopping-list-menu_container"><div class="relative-el"><button 
+class="button pdl-product-detail_top-icon button--fourth 
+pdl-product-detail_top-icon--borderless" aria-label="add to shopping list" 
+page-view="omniSearch" title=""><!----><div class="vector-icon-size--large"><svg 
+xmlns="http://www.w3.org/2000/svg" class="" aria-label="Shopping List Icon Add" 
+viewBox="0 0 40 40" role="presentation" aria-hidden="true" 
+focusable="false"><title lang="en">Shopping List Icon Add</title><desc></desc><g 
+fill="" stroke=""><svg width="40" height="40" viewBox="0 0 40 40" fill="none" 
+xmlns="http://www.w3.org/2000/svg"><path d="M25.5254 8.00391C26.8368 8.00412 
+27.9002 9.06751 27.9004 10.3789V29.6279C27.9004 30.9395 26.8369 32.0027 25.5254 
+32.0029H11.375C10.0633 32.0029 9.00002 30.9396 9 29.6279V10.3789C9.00017 9.06738 
+10.0634 8.00391 11.375 8.00391H25.5254ZM11.375 9.75391C11.0299 9.75391 10.7502 
+10.0339 10.75 10.3789V29.6279C10.75 29.9731 11.0298 30.2529 11.375 
+30.2529H25.5254C25.8704 30.2527 26.1504 29.973 26.1504 29.6279V10.3789C26.1502 
+10.034 25.8703 9.75412 25.5254 9.75391H11.375ZM18.4053 23.0439C18.8885 23.0439 
+19.2803 23.4357 19.2803 23.9189C19.2801 24.402 18.8884 24.7939 18.4053 
+24.7939H14.4053C13.9222 24.7939 13.5305 24.402 13.5303 23.9189C13.5303 23.4357 
+13.922 23.0439 14.4053 23.0439H18.4053ZM18.9053 18.5439C19.3885 18.5439 19.7803 
+18.9357 19.7803 19.4189C19.7801 19.902 19.3884 20.2939 18.9053 
+20.2939H14.4053C13.9222 20.2939 13.5305 19.902 13.5303 19.4189C13.5303 18.9357 
+13.922 18.5439 14.4053 18.5439H18.9053ZM22.7549 14.0439C23.2381 14.0439 23.6299 
+14.4357 23.6299 14.9189C23.6297 15.402 23.238 15.7939 22.7549 
+15.7939H14.4053C13.9222 15.7939 13.5305 15.402 13.5303 14.9189C13.5303 14.4357 
+13.922 14.0439 14.4053 14.0439H22.7549Z" fill="#63666A"></path><circle cx="27" 
+cy="22.5" r="6" fill="#DD1E0D"></circle><path d="M27.0039 19.1084C27.4181 19.1084 
+27.7539 19.4442 27.7539 19.8584V21.7539H29.6377C30.0519 21.7539 30.3877 22.0897 
+30.3877 22.5039C30.3877 22.9181 30.0519 23.2539 29.6377 
+23.2539H27.7539V25.1523C27.7539 25.5666 27.4181 25.9023 27.0039 25.9023C26.5898 
+25.9022 26.2539 25.5665 26.2539 25.1523V23.2539H24.3701C23.9559 23.2539 23.6201 
+22.9181 23.6201 22.5039C23.6201 22.0897 23.9559 21.7539 24.3701 
+21.7539H26.2539V19.8584L26.2578 19.7812C26.2962 19.4032 26.6157 19.1086 27.0039 
+19.1084Z" fill="white"></path></svg></g></svg></div><div 
+class="pdl-product-detail_list-tooltip"><p class="no-wrap">Sign in to add to 
+shopping list</p><em></em></div></button></div></div></div><!----></li><!----><!---
+-><!----><!----><!----><!----><li tabindex="-1" data-product-id="170264" 
+class="tile product-cell product-grid-cell" 
+prod-index="8"><!----><!----><!----><div class="product-tile_content"><!----><a hre
+f="/product/snickers-almonds-caramel-milk-chocolate-candy-bar-1.76-oz-bar/170264" 
+aria-hidden="true" tabindex="-1"><div><!----><img src="data:image/svg+xml;base64,PD
+94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0ZWQgYnkgSWNvTW9vb
+i5pbyAtLT4KPCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDov
+L3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjE
+iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudz
+Mub3JnLzE5OTkveGxpbmsiIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgdmlld0JveD0iMCAwIDQ4IDQ4Ij4KP
+GcgaWQ9Imljb21vb24taWdub3JlIj4KCTxsaW5lIHN0cm9rZS13aWR0aD0iMSIgeDE9IiIgeTE9IiIgeDI9
+IiIgeTI9IiIgc3Ryb2tlPSIjNDQ5RkRCIiBvcGFjaXR5PSIiPjwvbGluZT4KPC9nPgoJPHBhdGggZD0iTTM
+4LjQ4IDkuMDcwYzAuMjQ4IDAgMC40NSAwLjIwMiAwLjQ1IDAuNDV2MjguOTU5YzAgMC4yNDgtMC4yMDIgMC
+40NS0wLjQ1IDAuNDVoLTI4Ljk1OWMtMC4yNDggMC0wLjQ1LTAuMjAyLTAuNDUtMC40NXYtMjguOTU5YzAtM
+C4yNDggMC4yMDItMC40NSAwLjQ1LTAuNDVoMjguOTU5ek0zOC40OCA4aC0yOC45NTljLTAuODQgMC0xLjUy
+IDAuNjgxLTEuNTIgMS41MjF2MjguOTU5YzAgMC44NCAwLjY4MSAxLjUyMSAxLjUyIDEuNTIxaDI4Ljk1OWM
+wLjg0IDAgMS41Mi0wLjY4MSAxLjUyLTEuNTIxdi0yOC45NTljMC0wLjg0LTAuNjgxLTEuNTIxLTEuNTItMS
+41MjF2MHoiIG9wYWNpdHk9IjEiIHZpc2liaWxpdHk9ImZhbHNlIiBmaWxsPSIjZDdkN2Q3Ij48L3BhdGg+C
+gk8cGF0aCBkPSJNMTIuMjI4IDM1LjIyNHYtMy4zMjljMC0wLjE0NSAwLjA1OC0wLjI4NSAwLjE2LTAuMzg4
+bDUuNTg3LTUuNTg3YzAuMjE0LTAuMjE0IDAuNTYxLTAuMjE0IDAuNzc1IDBsMi4xMTkgMi4xMTljMC4yMTQ
+gMC4yMTQgMC41NjEgMC4yMTQgMC43NzUgMGw4LjE5MS04LjE5MmMwLjIxNC0wLjIxNCAwLjU2MS0wLjIxNC
+AwLjc3NSAwbDUgNWMwLjEwMyAwLjEwMyAwLjE2IDAuMjQyIDAuMTYgMC4zODh2OS45ODhjMCAwLjMwMy0wL
+jI0NSAwLjU0OC0wLjU0OCAwLjU0OGgtMjIuNDQ3Yy0wLjMwMyAwLTAuNTQ4LTAuMjQ1LTAuNTQ4LTAuNTQ4
+eiIgb3BhY2l0eT0iMSIgdmlzaWJpbGl0eT0iZmFsc2UiIGZpbGw9IiNkN2Q3ZDciPjwvcGF0aD4KCTxwYXR
+oIGQ9Ik0yMS41NDQgMTcuOTY3YzAgMS45ODItMS42MDYgMy41ODgtMy41ODggMy41ODhzLTMuNTg4LTEuNj
+A2LTMuNTg4LTMuNTg4YzAtMS45ODEgMS42MDYtMy41ODggMy41ODgtMy41ODhzMy41ODggMS42MDYgMy41O
+DggMy41ODh6IiBvcGFjaXR5PSIxIiB2aXNpYmlsaXR5PSJmYWxzZSIgZmlsbD0iI2Q3ZDdkNyI+PC9wYXRo
+Pgo8L3N2Zz4K" alt="SNICKERS Almonds Caramel &amp; Milk Chocolate Candy Bar 1.76 OZ 
+BAR" class="product-grid-image object-contain product-grid-cell_main-image" 
+skeleton-box-size="14rem"></div></a><div class="product-grid-cell_price-tag 
+product-grid-cell_price-tag--full-tile"><div class="product-tile_detail"><div 
+class="skeleton-loader_wrapper cursor-pointer"><div 
+class="product-grid-cell_price-container"><span class="sr-only">SNICKERS Almonds 
+Caramel &amp; Milk Chocolate Candy Bar</span><span 
+class="product-grid-cell_main-price"><!----> 
+$1.99</span><!----></div><!----></div><!----></div><button 
+class="product-tile_detail-title"><div class="skeleton-loader_wrapper"><div 
+class="product-grid-cell_name"><a id="product-name-170264-17750992617723844" 
+class="product-grid-cell_name-text product-grid-cell_name-text--small 
+product-grid-cell_name-text--clamp-2" href="/product/snickers-almonds-caramel-milk-
+chocolate-candy-bar-1.76-oz-bar/170264" data-opens-modal="true" 
+aria-haspopup="dialog"><!----> SNICKERS Almonds Caramel &amp; Milk Chocolate Candy 
+Bar</a></div><!----><!----></div><div class="skeleton-loader_wrapper"><div 
+class="product-grid-cell_sizes"><span class="product-grid-cell_size">1.76 OZ 
+BAR</span><span aria-hidden="true"> | </span><!----><span 
+class="product-grid-cell_unit">$1.13 
+/OZ</span><!----></div><!----></div><!----></button><div class="product-grid-cell_p
+romo-name"><!----><!----><!----><!----><!----><!----></div><!----><!----><!----><!-
+---><div class="margin-top--one"><!----><!----><div><!----><div 
+class="pdl-add-to-cart" product-index="9"><div 
+class="pdl-add-to-cart_button"><button class="button button--add-to-cart">Add to 
+cart <!----></button></div><!----></div></div><!----></div><!----></div></div><!---
+-><div class="mobile-product-list-cell_bottom m-4 hidden"><div class="mobile-produc
+t-list-cell_bottom_cart-ui-wrapper"><!----><!----><div><!----><div 
+class="pdl-add-to-cart" product-index="9"><div 
+class="pdl-add-to-cart_button"><button class="button button--add-to-cart">Add to 
+cart <!----></button></div><!----></div></div><!----></div><!----></div><div 
+class="product-tile_action-items" is-typeahead="false"><!----><!----><div 
+class="shopping-list-menu_container"><div class="relative-el"><button 
+class="button pdl-product-detail_top-icon button--fourth 
+pdl-product-detail_top-icon--borderless" aria-label="add to shopping list" 
+page-view="omniSearch" title=""><!----><div class="vector-icon-size--large"><svg 
+xmlns="http://www.w3.org/2000/svg" class="" aria-label="Shopping List Icon Add" 
+viewBox="0 0 40 40" role="presentation" aria-hidden="true" 
+focusable="false"><title lang="en">Shopping List Icon Add</title><desc></desc><g 
+fill="" stroke=""><svg width="40" height="40" viewBox="0 0 40 40" fill="none" 
+xmlns="http://www.w3.org/2000/svg"><path d="M25.5254 8.00391C26.8368 8.00412 
+27.9002 9.06751 27.9004 10.3789V29.6279C27.9004 30.9395 26.8369 32.0027 25.5254 
+32.0029H11.375C10.0633 32.0029 9.00002 30.9396 9 29.6279V10.3789C9.00017 9.06738 
+10.0634 8.00391 11.375 8.00391H25.5254ZM11.375 9.75391C11.0299 9.75391 10.7502 
+10.0339 10.75 10.3789V29.6279C10.75 29.9731 11.0298 30.2529 11.375 
+30.2529H25.5254C25.8704 30.2527 26.1504 29.973 26.1504 29.6279V10.3789C26.1502 
+10.034 25.8703 9.75412 25.5254 9.75391H11.375ZM18.4053 23.0439C18.8885 23.0439 
+19.2803 23.4357 19.2803 23.9189C19.2801 24.402 18.8884 24.7939 18.4053 
+24.7939H14.4053C13.9222 24.7939 13.5305 24.402 13.5303 23.9189C13.5303 23.4357 
+13.922 23.0439 14.4053 23.0439H18.4053ZM18.9053 18.5439C19.3885 18.5439 19.7803 
+18.9357 19.7803 19.4189C19.7801 19.902 19.3884 20.2939 18.9053 
+20.2939H14.4053C13.9222 20.2939 13.5305 19.902 13.5303 19.4189C13.5303 18.9357 
+13.922 18.5439 14.4053 18.5439H18.9053ZM22.7549 14.0439C23.2381 14.0439 23.6299 
+14.4357 23.6299 14.9189C23.6297 15.402 23.238 15.7939 22.7549 
+15.7939H14.4053C13.9222 15.7939 13.5305 15.402 13.5303 14.9189C13.5303 14.4357 
+13.922 14.0439 14.4053 14.0439H22.7549Z" fill="#63666A"></path><circle cx="27" 
+cy="22.5" r="6" fill="#DD1E0D"></circle><path d="M27.0039 19.1084C27.4181 19.1084 
+27.7539 19.4442 27.7539 19.8584V21.7539H29.6377C30.0519 21.7539 30.3877 22.0897 
+30.3877 22.5039C30.3877 22.9181 30.0519 23.2539 29.6377 
+23.2539H27.7539V25.1523C27.7539 25.5666 27.4181 25.9023 27.0039 25.9023C26.5898 
+25.9022 26.2539 25.5665 26.2539 25.1523V23.2539H24.3701C23.9559 23.2539 23.6201 
+22.9181 23.6201 22.5039C23.6201 22.0897 23.9559 21.7539 24.3701 
+21.7539H26.2539V19.8584L26.2578 19.7812C26.2962 19.4032 26.6157 19.1086 27.0039 
+19.1084Z" fill="white"></path></svg></g></svg></div><div 
+class="pdl-product-detail_list-tooltip"><p class="no-wrap">Sign in to add to 
+shopping list</p><em></em></div></button></div></div></div><!----></li><!----><!---
+-><!----><!----><!----><!----><li tabindex="-1" data-product-id="379106" 
+class="tile product-cell product-grid-cell" 
+prod-index="9"><!----><!----><!----><div class="product-tile_content"><!----><a 
+href="/product/snickers-minis-candy-bars-sharing-size-9.7-oz-bag/379106" 
+aria-hidden="true" tabindex="-1"><div><!----><img src="data:image/svg+xml;base64,PD
+94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0ZWQgYnkgSWNvTW9vb
+i5pbyAtLT4KPCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDov
+L3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjE
+iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudz
+Mub3JnLzE5OTkveGxpbmsiIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgdmlld0JveD0iMCAwIDQ4IDQ4Ij4KP
+GcgaWQ9Imljb21vb24taWdub3JlIj4KCTxsaW5lIHN0cm9rZS13aWR0aD0iMSIgeDE9IiIgeTE9IiIgeDI9
+IiIgeTI9IiIgc3Ryb2tlPSIjNDQ5RkRCIiBvcGFjaXR5PSIiPjwvbGluZT4KPC9nPgoJPHBhdGggZD0iTTM
+4LjQ4IDkuMDcwYzAuMjQ4IDAgMC40NSAwLjIwMiAwLjQ1IDAuNDV2MjguOTU5YzAgMC4yNDgtMC4yMDIgMC
+40NS0wLjQ1IDAuNDVoLTI4Ljk1OWMtMC4yNDggMC0wLjQ1LTAuMjAyLTAuNDUtMC40NXYtMjguOTU5YzAtM
+C4yNDggMC4yMDItMC40NSAwLjQ1LTAuNDVoMjguOTU5ek0zOC40OCA4aC0yOC45NTljLTAuODQgMC0xLjUy
+IDAuNjgxLTEuNTIgMS41MjF2MjguOTU5YzAgMC44NCAwLjY4MSAxLjUyMSAxLjUyIDEuNTIxaDI4Ljk1OWM
+wLjg0IDAgMS41Mi0wLjY4MSAxLjUyLTEuNTIxdi0yOC45NTljMC0wLjg0LTAuNjgxLTEuNTIxLTEuNTItMS
+41MjF2MHoiIG9wYWNpdHk9IjEiIHZpc2liaWxpdHk9ImZhbHNlIiBmaWxsPSIjZDdkN2Q3Ij48L3BhdGg+C
+gk8cGF0aCBkPSJNMTIuMjI4IDM1LjIyNHYtMy4zMjljMC0wLjE0NSAwLjA1OC0wLjI4NSAwLjE2LTAuMzg4
+bDUuNTg3LTUuNTg3YzAuMjE0LTAuMjE0IDAuNTYxLTAuMjE0IDAuNzc1IDBsMi4xMTkgMi4xMTljMC4yMTQ
+gMC4yMTQgMC41NjEgMC4yMTQgMC43NzUgMGw4LjE5MS04LjE5MmMwLjIxNC0wLjIxNCAwLjU2MS0wLjIxNC
+AwLjc3NSAwbDUgNWMwLjEwMyAwLjEwMyAwLjE2IDAuMjQyIDAuMTYgMC4zODh2OS45ODhjMCAwLjMwMy0wL
+jI0NSAwLjU0OC0wLjU0OCAwLjU0OGgtMjIuNDQ3Yy0wLjMwMyAwLTAuNTQ4LTAuMjQ1LTAuNTQ4LTAuNTQ4
+eiIgb3BhY2l0eT0iMSIgdmlzaWJpbGl0eT0iZmFsc2UiIGZpbGw9IiNkN2Q3ZDciPjwvcGF0aD4KCTxwYXR
+oIGQ9Ik0yMS41NDQgMTcuOTY3YzAgMS45ODItMS42MDYgMy41ODgtMy41ODggMy41ODhzLTMuNTg4LTEuNj
+A2LTMuNTg4LTMuNTg4YzAtMS45ODEgMS42MDYtMy41ODggMy41ODgtMy41ODhzMy41ODggMS42MDYgMy41O
+DggMy41ODh6IiBvcGFjaXR5PSIxIiB2aXNpYmlsaXR5PSJmYWxzZSIgZmlsbD0iI2Q3ZDdkNyI+PC9wYXRo
+Pgo8L3N2Zz4K" alt="SNICKERS Minis Candy Bars Sharing Size 9.7 OZ BAG" 
+class="product-grid-image object-contain product-grid-cell_main-image" 
+skeleton-box-size="14rem"></div></a><div class="product-grid-cell_price-tag 
+product-grid-cell_price-tag--full-tile"><div class="product-tile_detail"><div 
+class="skeleton-loader_wrapper cursor-pointer"><div 
+class="product-grid-cell_price-container"><span class="sr-only">SNICKERS Minis 
+Candy Bars Sharing Size</span><span class="product-grid-cell_main-price"><!----> 
+$6.59</span><!----></div><!----></div><!----></div><button 
+class="product-tile_detail-title"><div class="skeleton-loader_wrapper"><div 
+class="product-grid-cell_name"><a id="product-name-379106-17750992617790726" 
+class="product-grid-cell_name-text product-grid-cell_name-text--small 
+product-grid-cell_name-text--clamp-2" 
+href="/product/snickers-minis-candy-bars-sharing-size-9.7-oz-bag/379106" 
+data-opens-modal="true" aria-haspopup="dialog"><!----> SNICKERS Minis Candy Bars 
+Sharing Size</a></div><!----><!----></div><div 
+class="skeleton-loader_wrapper"><div class="product-grid-cell_sizes"><span 
+class="product-grid-cell_size">9.7 OZ BAG</span><span aria-hidden="true"> | 
+</span><!----><span class="product-grid-cell_unit">$0.68 
+/OZ</span><!----></div><!----></div><!----></button><div class="product-grid-cell_p
+romo-name"><!----><!----><!----><!----><!----><!----></div><!----><!----><!----><!-
+---><div class="margin-top--one"><!----><!----><div><!----><div 
+class="pdl-add-to-cart" product-index="10"><div 
+class="pdl-add-to-cart_button"><button class="button button--add-to-cart">Add to 
+cart <!----></button></div><!----></div></div><!----></div><!----></div></div><!---
+-><div class="mobile-product-list-cell_bottom m-4 hidden"><div class="mobile-produc
+t-list-cell_bottom_cart-ui-wrapper"><!----><!----><div><!----><div 
+class="pdl-add-to-cart" product-index="10"><div 
+class="pdl-add-to-cart_button"><button class="button button--add-to-cart">Add to 
+cart <!----></button></div><!----></div></div><!----></div><!----></div><div 
+class="product-tile_action-items" is-typeahead="false"><!----><!----><div 
+class="shopping-list-menu_container"><div class="relative-el"><button 
+class="button pdl-product-detail_top-icon button--fourth 
+pdl-product-detail_top-icon--borderless" aria-label="add to shopping list" 
+page-view="omniSearch" title=""><!----><div class="vector-icon-size--large"><svg 
+xmlns="http://www.w3.org/2000/svg" class="" aria-label="Shopping List Icon Add" 
+viewBox="0 0 40 40" role="presentation" aria-hidden="true" 
+focusable="false"><title lang="en">Shopping List Icon Add</title><desc></desc><g 
+fill="" stroke=""><svg width="40" height="40" viewBox="0 0 40 40" fill="none" 
+xmlns="http://www.w3.org/2000/svg"><path d="M25.5254 8.00391C26.8368 8.00412 
+27.9002 9.06751 27.9004 10.3789V29.6279C27.9004 30.9395 26.8369 32.0027 25.5254 
+32.0029H11.375C10.0633 32.0029 9.00002 30.9396 9 29.6279V10.3789C9.00017 9.06738 
+10.0634 8.00391 11.375 8.00391H25.5254ZM11.375 9.75391C11.0299 9.75391 10.7502 
+10.0339 10.75 10.3789V29.6279C10.75 29.9731 11.0298 30.2529 11.375 
+30.2529H25.5254C25.8704 30.2527 26.1504 29.973 26.1504 29.6279V10.3789C26.1502 
+10.034 25.8703 9.75412 25.5254 9.75391H11.375ZM18.4053 23.0439C18.8885 23.0439 
+19.2803 23.4357 19.2803 23.9189C19.2801 24.402 18.8884 24.7939 18.4053 
+24.7939H14.4053C13.9222 24.7939 13.5305 24.402 13.5303 23.9189C13.5303 23.4357 
+13.922 23.0439 14.4053 23.0439H18.4053ZM18.9053 18.5439C19.3885 18.5439 19.7803 
+18.9357 19.7803 19.4189C19.7801 19.902 19.3884 20.2939 18.9053 
+20.2939H14.4053C13.9222 20.2939 13.5305 19.902 13.5303 19.4189C13.5303 18.9357 
+13.922 18.5439 14.4053 18.5439H18.9053ZM22.7549 14.0439C23.2381 14.0439 23.6299 
+14.4357 23.6299 14.9189C23.6297 15.402 23.238 15.7939 22.7549 
+15.7939H14.4053C13.9222 15.7939 13.5305 15.402 13.5303 14.9189C13.5303 14.4357 
+13.922 14.0439 14.4053 14.0439H22.7549Z" fill="#63666A"></path><circle cx="27" 
+cy="22.5" r="6" fill="#DD1E0D"></circle><path d="M27.0039 19.1084C27.4181 19.1084 
+27.7539 19.4442 27.7539 19.8584V21.7539H29.6377C30.0519 21.7539 30.3877 22.0897 
+30.3877 22.5039C30.3877 22.9181 30.0519 23.2539 29.6377 
+23.2539H27.7539V25.1523C27.7539 25.5666 27.4181 25.9023 27.0039 25.9023C26.5898 
+25.9022 26.2539 25.5665 26.2539 25.1523V23.2539H24.3701C23.9559 23.2539 23.6201 
+22.9181 23.6201 22.5039C23.6201 22.0897 23.9559 21.7539 24.3701 
+21.7539H26.2539V19.8584L26.2578 19.7812C26.2962 19.4032 26.6157 19.1086 27.0039 
+19.1084Z" fill="white"></path></svg></g></svg></div><div 
+class="pdl-product-detail_list-tooltip"><p class="no-wrap">Sign in to add to 
+shopping list</p><em></em></div></button></div></div></div><!----></li><!----><!---
+-><!----><!----><!----><!----><li tabindex="-1" data-product-id="364574" 
+class="tile product-cell product-grid-cell" 
+prod-index="10"><!----><!----><!----><div class="product-tile_content"><!----><a hr
+ef="/product/snickers-chocolate-variety-mix-fun-size-candy-bars-party-size-24.02-oz
+-bag/364574" aria-hidden="true" tabindex="-1"><div><!----><img src="data:image/svg+
+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0ZWQg
+YnkgSWNvTW9vbi5pbyAtLT4KPCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0V
+OIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZX
+JzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0d
+HA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgdmlld0JveD0iMCAw
+IDQ4IDQ4Ij4KPGcgaWQ9Imljb21vb24taWdub3JlIj4KCTxsaW5lIHN0cm9rZS13aWR0aD0iMSIgeDE9IiI
+geTE9IiIgeDI9IiIgeTI9IiIgc3Ryb2tlPSIjNDQ5RkRCIiBvcGFjaXR5PSIiPjwvbGluZT4KPC9nPgoJPH
+BhdGggZD0iTTM4LjQ4IDkuMDcwYzAuMjQ4IDAgMC40NSAwLjIwMiAwLjQ1IDAuNDV2MjguOTU5YzAgMC4yN
+DgtMC4yMDIgMC40NS0wLjQ1IDAuNDVoLTI4Ljk1OWMtMC4yNDggMC0wLjQ1LTAuMjAyLTAuNDUtMC40NXYt
+MjguOTU5YzAtMC4yNDggMC4yMDItMC40NSAwLjQ1LTAuNDVoMjguOTU5ek0zOC40OCA4aC0yOC45NTljLTA
+uODQgMC0xLjUyIDAuNjgxLTEuNTIgMS41MjF2MjguOTU5YzAgMC44NCAwLjY4MSAxLjUyMSAxLjUyIDEuNT
+IxaDI4Ljk1OWMwLjg0IDAgMS41Mi0wLjY4MSAxLjUyLTEuNTIxdi0yOC45NTljMC0wLjg0LTAuNjgxLTEuN
+TIxLTEuNTItMS41MjF2MHoiIG9wYWNpdHk9IjEiIHZpc2liaWxpdHk9ImZhbHNlIiBmaWxsPSIjZDdkN2Q3
+Ij48L3BhdGg+Cgk8cGF0aCBkPSJNMTIuMjI4IDM1LjIyNHYtMy4zMjljMC0wLjE0NSAwLjA1OC0wLjI4NSA
+wLjE2LTAuMzg4bDUuNTg3LTUuNTg3YzAuMjE0LTAuMjE0IDAuNTYxLTAuMjE0IDAuNzc1IDBsMi4xMTkgMi
+4xMTljMC4yMTQgMC4yMTQgMC41NjEgMC4yMTQgMC43NzUgMGw4LjE5MS04LjE5MmMwLjIxNC0wLjIxNCAwL
+jU2MS0wLjIxNCAwLjc3NSAwbDUgNWMwLjEwMyAwLjEwMyAwLjE2IDAuMjQyIDAuMTYgMC4zODh2OS45ODhj
+MCAwLjMwMy0wLjI0NSAwLjU0OC0wLjU0OCAwLjU0OGgtMjIuNDQ3Yy0wLjMwMyAwLTAuNTQ4LTAuMjQ1LTA
+uNTQ4LTAuNTQ4eiIgb3BhY2l0eT0iMSIgdmlzaWJpbGl0eT0iZmFsc2UiIGZpbGw9IiNkN2Q3ZDciPjwvcG
+F0aD4KCTxwYXRoIGQ9Ik0yMS41NDQgMTcuOTY3YzAgMS45ODItMS42MDYgMy41ODgtMy41ODggMy41ODhzL
+TMuNTg4LTEuNjA2LTMuNTg4LTMuNTg4YzAtMS45ODEgMS42MDYtMy41ODggMy41ODgtMy41ODhzMy41ODgg
+MS42MDYgMy41ODggMy41ODh6IiBvcGFjaXR5PSIxIiB2aXNpYmlsaXR5PSJmYWxzZSIgZmlsbD0iI2Q3ZDd
+kNyI+PC9wYXRoPgo8L3N2Zz4K" alt="SNICKERS Chocolate Variety Mix Fun Size Candy Bars 
+Party Size 24.02 OZ BAG" class="product-grid-image object-contain 
+product-grid-cell_main-image" skeleton-box-size="14rem"></div></a><div 
+class="product-grid-cell_price-tag product-grid-cell_price-tag--full-tile"><div 
+class="product-tile_detail"><div class="skeleton-loader_wrapper 
+cursor-pointer"><div class="product-grid-cell_price-container"><span 
+class="sr-only">SNICKERS Chocolate Variety Mix Fun Size Candy Bars Party 
+Size</span><span class="product-grid-cell_main-price"><!----> 
+$10.99</span><!----></div><!----></div><!----></div><button 
+class="product-tile_detail-title"><div class="skeleton-loader_wrapper"><div 
+class="product-grid-cell_name"><a id="product-name-364574-17750992617957679" 
+class="product-grid-cell_name-text product-grid-cell_name-text--small 
+product-grid-cell_name-text--clamp-2" href="/product/snickers-chocolate-variety-mix
+-fun-size-candy-bars-party-size-24.02-oz-bag/364574" data-opens-modal="true" 
+aria-haspopup="dialog"><!----> SNICKERS Chocolate Variety Mix Fun Size Candy Bars 
+Party Size</a></div><!----><!----></div><div class="skeleton-loader_wrapper"><div 
+class="product-grid-cell_sizes"><span class="product-grid-cell_size">24.02 OZ 
+BAG</span><span aria-hidden="true"> | </span><!----><span 
+class="product-grid-cell_unit">$0.46 
+/OZ</span><!----></div><!----></div><!----></button><div class="product-grid-cell_p
+romo-name"><!----><!----><!----><!----><!----><!----></div><!----><!----><!----><!-
+---><div class="margin-top--one"><!----><!----><div><!----><div 
+class="pdl-add-to-cart" product-index="11"><div 
+class="pdl-add-to-cart_button"><button class="button button--add-to-cart">Add to 
+cart <!----></button></div><!----></div></div><!----></div><!----></div></div><!---
+-><div class="mobile-product-list-cell_bottom m-4 hidden"><div class="mobile-produc
+t-list-cell_bottom_cart-ui-wrapper"><!----><!----><div><!----><div 
+class="pdl-add-to-cart" product-index="11"><div 
+class="pdl-add-to-cart_button"><button class="button button--add-to-cart">Add to 
+cart <!----></button></div><!----></div></div><!----></div><!----></div><div 
+class="product-tile_action-items" is-typeahead="false"><!----><!----><div 
+class="shopping-list-menu_container"><div class="relative-el"><button 
+class="button pdl-product-detail_top-icon button--fourth 
+pdl-product-detail_top-icon--borderless" aria-label="add to shopping list" 
+page-view="omniSearch" title=""><!----><div class="vector-icon-size--large"><svg 
+xmlns="http://www.w3.org/2000/svg" class="" aria-label="Shopping List Icon Add" 
+viewBox="0 0 40 40" role="presentation" aria-hidden="true" 
+focusable="false"><title lang="en">Shopping List Icon Add</title><desc></desc><g 
+fill="" stroke=""><svg width="40" height="40" viewBox="0 0 40 40" fill="none" 
+xmlns="http://www.w3.org/2000/svg"><path d="M25.5254 8.00391C26.8368 8.00412 
+27.9002 9.06751 27.9004 10.3789V29.6279C27.9004 30.9395 26.8369 32.0027 25.5254 
+32.0029H11.375C10.0633 32.0029 9.00002 30.9396 9 29.6279V10.3789C9.00017 9.06738 
+10.0634 8.00391 11.375 8.00391H25.5254ZM11.375 9.75391C11.0299 9.75391 10.7502 
+10.0339 10.75 10.3789V29.6279C10.75 29.9731 11.0298 30.2529 11.375 
+30.2529H25.5254C25.8704 30.2527 26.1504 29.973 26.1504 29.6279V10.3789C26.1502 
+10.034 25.8703 9.75412 25.5254 9.75391H11.375ZM18.4053 23.0439C18.8885 23.0439 
+19.2803 23.4357 19.2803 23.9189C19.2801 24.402 18.8884 24.7939 18.4053 
+24.7939H14.4053C13.9222 24.7939 13.5305 24.402 13.5303 23.9189C13.5303 23.4357 
+13.922 23.0439 14.4053 23.0439H18.4053ZM18.9053 18.5439C19.3885 18.5439 19.7803 
+18.9357 19.7803 19.4189C19.7801 19.902 19.3884 20.2939 18.9053 
+20.2939H14.4053C13.9222 20.2939 13.5305 19.902 13.5303 19.4189C13.5303 18.9357 
+13.922 18.5439 14.4053 18.5439H18.9053ZM22.7549 14.0439C23.2381 14.0439 23.6299 
+14.4357 23.6299 14.9189C23.6297 15.402 23.238 15.7939 22.7549 
+15.7939H14.4053C13.9222 15.7939 13.5305 15.402 13.5303 14.9189C13.5303 14.4357 
+13.922 14.0439 14.4053 14.0439H22.7549Z" fill="#63666A"></path><circle cx="27" 
+cy="22.5" r="6" fill="#DD1E0D"></circle><path d="M27.0039 19.1084C27.4181 19.1084 
+27.7539 19.4442 27.7539 19.8584V21.7539H29.6377C30.0519 21.7539 30.3877 22.0897 
+30.3877 22.5039C30.3877 22.9181 30.0519 23.2539 29.6377 
+23.2539H27.7539V25.1523C27.7539 25.5666 27.4181 25.9023 27.0039 25.9023C26.5898 
+25.9022 26.2539 25.5665 26.2539 25.1523V23.2539H24.3701C23.9559 23.2539 23.6201 
+22.9181 23.6201 22.5039C23.6201 22.0897 23.9559 21.7539 24.3701 
+21.7539H26.2539V19.8584L26.2578 19.7812C26.2962 19.4032 26.6157 19.1086 27.0039 
+19.1084Z" fill="white"></path></svg></g></svg></div><div 
+class="pdl-product-detail_list-tooltip"><p class="no-wrap">Sign in to add to 
+shopping list</p><em></em></div></button></div></div></div><!----></li><!----><!---
+-><!----><!----><!----><!----><li tabindex="-1" data-product-id="393542" 
+class="tile product-cell product-grid-cell" 
+prod-index="11"><!----><!----><!----><div class="product-tile_content"><!----><a hr
+ef="/product/snickers-minis-peanut-butter-ice-cream-bars-10-ct-9.5-oz-box/393542" 
+aria-hidden="true" tabindex="-1"><div><!----><img src="data:image/svg+xml;base64,PD
+94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0ZWQgYnkgSWNvTW9vb
+i5pbyAtLT4KPCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDov
+L3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjE
+iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudz
+Mub3JnLzE5OTkveGxpbmsiIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgdmlld0JveD0iMCAwIDQ4IDQ4Ij4KP
+GcgaWQ9Imljb21vb24taWdub3JlIj4KCTxsaW5lIHN0cm9rZS13aWR0aD0iMSIgeDE9IiIgeTE9IiIgeDI9
+IiIgeTI9IiIgc3Ryb2tlPSIjNDQ5RkRCIiBvcGFjaXR5PSIiPjwvbGluZT4KPC9nPgoJPHBhdGggZD0iTTM
+4LjQ4IDkuMDcwYzAuMjQ4IDAgMC40NSAwLjIwMiAwLjQ1IDAuNDV2MjguOTU5YzAgMC4yNDgtMC4yMDIgMC
+40NS0wLjQ1IDAuNDVoLTI4Ljk1OWMtMC4yNDggMC0wLjQ1LTAuMjAyLTAuNDUtMC40NXYtMjguOTU5YzAtM
+C4yNDggMC4yMDItMC40NSAwLjQ1LTAuNDVoMjguOTU5ek0zOC40OCA4aC0yOC45NTljLTAuODQgMC0xLjUy
+IDAuNjgxLTEuNTIgMS41MjF2MjguOTU5YzAgMC44NCAwLjY4MSAxLjUyMSAxLjUyIDEuNTIxaDI4Ljk1OWM
+wLjg0IDAgMS41Mi0wLjY4MSAxLjUyLTEuNTIxdi0yOC45NTljMC0wLjg0LTAuNjgxLTEuNTIxLTEuNTItMS
+41MjF2MHoiIG9wYWNpdHk9IjEiIHZpc2liaWxpdHk9ImZhbHNlIiBmaWxsPSIjZDdkN2Q3Ij48L3BhdGg+C
+gk8cGF0aCBkPSJNMTIuMjI4IDM1LjIyNHYtMy4zMjljMC0wLjE0NSAwLjA1OC0wLjI4NSAwLjE2LTAuMzg4
+bDUuNTg3LTUuNTg3YzAuMjE0LTAuMjE0IDAuNTYxLTAuMjE0IDAuNzc1IDBsMi4xMTkgMi4xMTljMC4yMTQ
+gMC4yMTQgMC41NjEgMC4yMTQgMC43NzUgMGw4LjE5MS04LjE5MmMwLjIxNC0wLjIxNCAwLjU2MS0wLjIxNC
+AwLjc3NSAwbDUgNWMwLjEwMyAwLjEwMyAwLjE2IDAuMjQyIDAuMTYgMC4zODh2OS45ODhjMCAwLjMwMy0wL
+jI0NSAwLjU0OC0wLjU0OCAwLjU0OGgtMjIuNDQ3Yy0wLjMwMyAwLTAuNTQ4LTAuMjQ1LTAuNTQ4LTAuNTQ4
+eiIgb3BhY2l0eT0iMSIgdmlzaWJpbGl0eT0iZmFsc2UiIGZpbGw9IiNkN2Q3ZDciPjwvcGF0aD4KCTxwYXR
+oIGQ9Ik0yMS41NDQgMTcuOTY3YzAgMS45ODItMS42MDYgMy41ODgtMy41ODggMy41ODhzLTMuNTg4LTEuNj
+A2LTMuNTg4LTMuNTg4YzAtMS45ODEgMS42MDYtMy41ODggMy41ODgtMy41ODhzMy41ODggMS42MDYgMy41O
+DggMy41ODh6IiBvcGFjaXR5PSIxIiB2aXNpYmlsaXR5PSJmYWxzZSIgZmlsbD0iI2Q3ZDdkNyI+PC9wYXRo
+Pgo8L3N2Zz4K" alt="SNICKERS Minis Peanut Butter Ice Cream Bars - 10 ct 9.5 OZ BOX" 
+class="product-grid-image object-contain product-grid-cell_main-image" 
+skeleton-box-size="14rem"></div></a><div class="product-grid-cell_price-tag 
+product-grid-cell_price-tag--full-tile"><div class="product-tile_detail"><div 
+class="skeleton-loader_wrapper cursor-pointer"><div 
+class="product-grid-cell_price-container"><span class="sr-only">SNICKERS Minis 
+Peanut Butter Ice Cream Bars - 10 ct</span><span 
+class="product-grid-cell_main-price"><!----> 
+$5.29</span><!----></div><!----></div><!----></div><button 
+class="product-tile_detail-title"><div class="skeleton-loader_wrapper"><div 
+class="product-grid-cell_name"><a id="product-name-393542-17750992618004821" 
+class="product-grid-cell_name-text product-grid-cell_name-text--small 
+product-grid-cell_name-text--clamp-2" href="/product/snickers-minis-peanut-butter-i
+ce-cream-bars-10-ct-9.5-oz-box/393542" data-opens-modal="true" 
+aria-haspopup="dialog"><!----> SNICKERS Minis Peanut Butter Ice Cream Bars - 10 
+ct</a></div><!----><!----></div><div class="skeleton-loader_wrapper"><div 
+class="product-grid-cell_sizes"><span class="product-grid-cell_size">9.5 OZ 
+BOX</span><span aria-hidden="true"> | </span><!----><span 
+class="product-grid-cell_unit">$0.53 
+/EA</span><!----></div><!----></div><!----></button><div class="product-grid-cell_p
+romo-name"><!----><!----><!----><!----><!----><!----></div><!----><!----><!----><!-
+---><div class="margin-top--one"><!----><!----><div><!----><div 
+class="pdl-add-to-cart" product-index="12"><div 
+class="pdl-add-to-cart_button"><button class="button button--add-to-cart">Add to 
+cart <!----></button></div><!----></div></div><!----></div><!----></div></div><!---
+-><div class="mobile-product-list-cell_bottom m-4 hidden"><div class="mobile-produc
+t-list-cell_bottom_cart-ui-wrapper"><!----><!----><div><!----><div 
+class="pdl-add-to-cart" product-index="12"><div 
+class="pdl-add-to-cart_button"><button class="button button--add-to-cart">Add to 
+cart <!----></button></div><!----></div></div><!----></div><!----></div><div 
+class="product-tile_action-items" is-typeahead="false"><!----><!----><div 
+class="shopping-list-menu_container"><div class="relative-el"><button 
+class="button pdl-product-detail_top-icon button--fourth 
+pdl-product-detail_top-icon--borderless" aria-label="add to shopping list" 
+page-view="omniSearch" title=""><!----><div class="vector-icon-size--large"><svg 
+xmlns="http://www.w3.org/2000/svg" class="" aria-label="Shopping List Icon Add" 
+viewBox="0 0 40 40" role="presentation" aria-hidden="true" 
+focusable="false"><title lang="en">Shopping List Icon Add</title><desc></desc><g 
+fill="" stroke=""><svg width="40" height="40" viewBox="0 0 40 40" fill="none" 
+xmlns="http://www.w3.org/2000/svg"><path d="M25.5254 8.00391C26.8368 8.00412 
+27.9002 9.06751 27.9004 10.3789V29.6279C27.9004 30.9395 26.8369 32.0027 25.5254 
+32.0029H11.375C10.0633 32.0029 9.00002 30.9396 9 29.6279V10.3789C9.00017 9.06738 
+10.0634 8.00391 11.375 8.00391H25.5254ZM11.375 9.75391C11.0299 9.75391 10.7502 
+10.0339 10.75 10.3789V29.6279C10.75 29.9731 11.0298 30.2529 11.375 
+30.2529H25.5254C25.8704 30.2527 26.1504 29.973 26.1504 29.6279V10.3789C26.1502 
+10.034 25.8703 9.75412 25.5254 9.75391H11.375ZM18.4053 23.0439C18.8885 23.0439 
+19.2803 23.4357 19.2803 23.9189C19.2801 24.402 18.8884 24.7939 18.4053 
+24.7939H14.4053C13.9222 24.7939 13.5305 24.402 13.5303 23.9189C13.5303 23.4357 
+13.922 23.0439 14.4053 23.0439H18.4053ZM18.9053 18.5439C19.3885 18.5439 19.7803 
+18.9357 19.7803 19.4189C19.7801 19.902 19.3884 20.2939 18.9053 
+20.2939H14.4053C13.9222 20.2939 13.5305 19.902 13.5303 19.4189C13.5303 18.9357 
+13.922 18.5439 14.4053 18.5439H18.9053ZM22.7549 14.0439C23.2381 14.0439 23.6299 
+14.4357 23.6299 14.9189C23.6297 15.402 23.238 15.7939 22.7549 
+15.7939H14.4053C13.9222 15.7939 13.5305 15.402 13.5303 14.9189C13.5303 14.4357 
+13.922 14.0439 14.4053 14.0439H22.7549Z" fill="#63666A"></path><circle cx="27" 
+cy="22.5" r="6" fill="#DD1E0D"></circle><path d="M27.0039 19.1084C27.4181 19.1084 
+27.7539 19.4442 27.7539 19.8584V21.7539H29.6377C30.0519 21.7539 30.3877 22.0897 
+30.3877 22.5039C30.3877 22.9181 30.0519 23.2539 29.6377 
+23.2539H27.7539V25.1523C27.7539 25.5666 27.4181 25.9023 27.0039 25.9023C26.5898 
+25.9022 26.2539 25.5665 26.2539 25.1523V23.2539H24.3701C23.9559 23.2539 23.6201 
+22.9181 23.6201 22.5039C23.6201 22.0897 23.9559 21.7539 24.3701 
+21.7539H26.2539V19.8584L26.2578 19.7812C26.2962 19.4032 26.6157 19.1086 27.0039 
+19.1084Z" fill="white"></path></svg></g></svg></div><div 
+class="pdl-product-detail_list-tooltip"><p class="no-wrap">Sign in to add to 
+shopping list</p><em></em></div></button></div></div></div><!----></li><!----><!---
+-><!----><!----><!----><!----><li tabindex="-1" data-product-id="396039" 
+class="tile product-cell product-grid-cell" 
+prod-index="12"><!----><!----><!----><div class="product-tile_content"><!----><a 
+href="/product/snickers-crunchy-peanut-butter-candy-bar-1.78-oz-bar/396039" 
+aria-hidden="true" tabindex="-1"><div><!----><img src="data:image/svg+xml;base64,PD
+94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0ZWQgYnkgSWNvTW9vb
+i5pbyAtLT4KPCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDov
+L3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjE
+iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudz
+Mub3JnLzE5OTkveGxpbmsiIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgdmlld0JveD0iMCAwIDQ4IDQ4Ij4KP
+GcgaWQ9Imljb21vb24taWdub3JlIj4KCTxsaW5lIHN0cm9rZS13aWR0aD0iMSIgeDE9IiIgeTE9IiIgeDI9
+IiIgeTI9IiIgc3Ryb2tlPSIjNDQ5RkRCIiBvcGFjaXR5PSIiPjwvbGluZT4KPC9nPgoJPHBhdGggZD0iTTM
+4LjQ4IDkuMDcwYzAuMjQ4IDAgMC40NSAwLjIwMiAwLjQ1IDAuNDV2MjguOTU5YzAgMC4yNDgtMC4yMDIgMC
+40NS0wLjQ1IDAuNDVoLTI4Ljk1OWMtMC4yNDggMC0wLjQ1LTAuMjAyLTAuNDUtMC40NXYtMjguOTU5YzAtM
+C4yNDggMC4yMDItMC40NSAwLjQ1LTAuNDVoMjguOTU5ek0zOC40OCA4aC0yOC45NTljLTAuODQgMC0xLjUy
+IDAuNjgxLTEuNTIgMS41MjF2MjguOTU5YzAgMC44NCAwLjY4MSAxLjUyMSAxLjUyIDEuNTIxaDI4Ljk1OWM
+wLjg0IDAgMS41Mi0wLjY4MSAxLjUyLTEuNTIxdi0yOC45NTljMC0wLjg0LTAuNjgxLTEuNTIxLTEuNTItMS
+41MjF2MHoiIG9wYWNpdHk9IjEiIHZpc2liaWxpdHk9ImZhbHNlIiBmaWxsPSIjZDdkN2Q3Ij48L3BhdGg+C
+gk8cGF0aCBkPSJNMTIuMjI4IDM1LjIyNHYtMy4zMjljMC0wLjE0NSAwLjA1OC0wLjI4NSAwLjE2LTAuMzg4
+bDUuNTg3LTUuNTg3YzAuMjE0LTAuMjE0IDAuNTYxLTAuMjE0IDAuNzc1IDBsMi4xMTkgMi4xMTljMC4yMTQ
+gMC4yMTQgMC41NjEgMC4yMTQgMC43NzUgMGw4LjE5MS04LjE5MmMwLjIxNC0wLjIxNCAwLjU2MS0wLjIxNC
+AwLjc3NSAwbDUgNWMwLjEwMyAwLjEwMyAwLjE2IDAuMjQyIDAuMTYgMC4zODh2OS45ODhjMCAwLjMwMy0wL
+jI0NSAwLjU0OC0wLjU0OCAwLjU0OGgtMjIuNDQ3Yy0wLjMwMyAwLTAuNTQ4LTAuMjQ1LTAuNTQ4LTAuNTQ4
+eiIgb3BhY2l0eT0iMSIgdmlzaWJpbGl0eT0iZmFsc2UiIGZpbGw9IiNkN2Q3ZDciPjwvcGF0aD4KCTxwYXR
+oIGQ9Ik0yMS41NDQgMTcuOTY3YzAgMS45ODItMS42MDYgMy41ODgtMy41ODggMy41ODhzLTMuNTg4LTEuNj
+A2LTMuNTg4LTMuNTg4YzAtMS45ODEgMS42MDYtMy41ODggMy41ODgtMy41ODhzMy41ODggMS42MDYgMy41O
+DggMy41ODh6IiBvcGFjaXR5PSIxIiB2aXNpYmlsaXR5PSJmYWxzZSIgZmlsbD0iI2Q3ZDdkNyI+PC9wYXRo
+Pgo8L3N2Zz4K" alt="SNICKERS Crunchy Peanut Butter Candy Bar 1.78 OZ BAR" 
+class="product-grid-image object-contain product-grid-cell_main-image" 
+skeleton-box-size="14rem"></div></a><div class="product-grid-cell_price-tag 
+product-grid-cell_price-tag--full-tile"><div class="product-tile_detail"><div 
+class="skeleton-loader_wrapper cursor-pointer"><div 
+class="product-grid-cell_price-container"><span class="sr-only">SNICKERS Crunchy 
+Peanut Butter Candy Bar</span><span class="product-grid-cell_main-price"><!----> 
+$1.99</span><!----></div><!----></div><!----></div><button 
+class="product-tile_detail-title"><div class="skeleton-loader_wrapper"><div 
+class="product-grid-cell_name"><a id="product-name-396039-17750992618092057" 
+class="product-grid-cell_name-text product-grid-cell_name-text--small 
+product-grid-cell_name-text--clamp-2" 
+href="/product/snickers-crunchy-peanut-butter-candy-bar-1.78-oz-bar/396039" 
+data-opens-modal="true" aria-haspopup="dialog"><!----> SNICKERS Crunchy Peanut 
+Butter Candy Bar</a></div><!----><!----></div><div 
+class="skeleton-loader_wrapper"><div class="product-grid-cell_sizes"><span 
+class="product-grid-cell_size">1.78 OZ BAR</span><span aria-hidden="true"> | 
+</span><!----><span class="product-grid-cell_unit">$1.12 
+/OZ</span><!----></div><!----></div><!----></button><div class="product-grid-cell_p
+romo-name"><!----><!----><!----><!----><!----><!----></div><!----><!----><!----><!-
+---><div class="margin-top--one"><!----><!----><div><!----><div 
+class="pdl-add-to-cart" product-index="13"><div 
+class="pdl-add-to-cart_button"><button class="button button--add-to-cart">Add to 
+cart <!----></button></div><!----></div></div><!----></div><!----></div></div><!---
+-><div class="mobile-product-list-cell_bottom m-4 hidden"><div class="mobile-produc
+t-list-cell_bottom_cart-ui-wrapper"><!----><!----><div><!----><div 
+class="pdl-add-to-cart" product-index="13"><div 
+class="pdl-add-to-cart_button"><button class="button button--add-to-cart">Add to 
+cart <!----></button></div><!----></div></div><!----></div><!----></div><div 
+class="product-tile_action-items" is-typeahead="false"><!----><!----><div 
+class="shopping-list-menu_container"><div class="relative-el"><button 
+class="button pdl-product-detail_top-icon button--fourth 
+pdl-product-detail_top-icon--borderless" aria-label="add to shopping list" 
+page-view="omniSearch" title=""><!----><div class="vector-icon-size--large"><svg 
+xmlns="http://www.w3.org/2000/svg" class="" aria-label="Shopping List Icon Add" 
+viewBox="0 0 40 40" role="presentation" aria-hidden="true" 
+focusable="false"><title lang="en">Shopping List Icon Add</title><desc></desc><g 
+fill="" stroke=""><svg width="40" height="40" viewBox="0 0 40 40" fill="none" 
+xmlns="http://www.w3.org/2000/svg"><path d="M25.5254 8.00391C26.8368 8.00412 
+27.9002 9.06751 27.9004 10.3789V29.6279C27.9004 30.9395 26.8369 32.0027 25.5254 
+32.0029H11.375C10.0633 32.0029 9.00002 30.9396 9 29.6279V10.3789C9.00017 9.06738 
+10.0634 8.00391 11.375 8.00391H25.5254ZM11.375 9.75391C11.0299 9.75391 10.7502 
+10.0339 10.75 10.3789V29.6279C10.75 29.9731 11.0298 30.2529 11.375 
+30.2529H25.5254C25.8704 30.2527 26.1504 29.973 26.1504 29.6279V10.3789C26.1502 
+10.034 25.8703 9.75412 25.5254 9.75391H11.375ZM18.4053 23.0439C18.8885 23.0439 
+19.2803 23.4357 19.2803 23.9189C19.2801 24.402 18.8884 24.7939 18.4053 
+24.7939H14.4053C13.9222 24.7939 13.5305 24.402 13.5303 23.9189C13.5303 23.4357 
+13.922 23.0439 14.4053 23.0439H18.4053ZM18.9053 18.5439C19.3885 18.5439 19.7803 
+18.9357 19.7803 19.4189C19.7801 19.902 19.3884 20.2939 18.9053 
+20.2939H14.4053C13.9222 20.2939 13.5305 19.902 13.5303 19.4189C13.5303 18.9357 
+13.922 18.5439 14.4053 18.5439H18.9053ZM22.7549 14.0439C23.2381 14.0439 23.6299 
+14.4357 23.6299 14.9189C23.6297 15.402 23.238 15.7939 22.7549 
+15.7939H14.4053C13.9222 15.7939 13.5305 15.402 13.5303 14.9189C13.5303 14.4357 
+13.922 14.0439 14.4053 14.0439H22.7549Z" fill="#63666A"></path><circle cx="27" 
+cy="22.5" r="6" fill="#DD1E0D"></circle><path d="M27.0039 19.1084C27.4181 19.1084 
+27.7539 19.4442 27.7539 19.8584V21.7539H29.6377C30.0519 21.7539 30.3877 22.0897 
+30.3877 22.5039C30.3877 22.9181 30.0519 23.2539 29.6377 
+23.2539H27.7539V25.1523C27.7539 25.5666 27.4181 25.9023 27.0039 25.9023C26.5898 
+25.9022 26.2539 25.5665 26.2539 25.1523V23.2539H24.3701C23.9559 23.2539 23.6201 
+22.9181 23.6201 22.5039C23.6201 22.0897 23.9559 21.7539 24.3701 
+21.7539H26.2539V19.8584L26.2578 19.7812C26.2962 19.4032 26.6157 19.1086 27.0039 
+19.1084Z" fill="white"></path></svg></g></svg></div><div 
+class="pdl-product-detail_list-tooltip"><p class="no-wrap">Sign in to add to 
+shopping list</p><em></em></div></button></div></div></div><!----></li><!----><!---
+-><!----><!----><!----><!----><li tabindex="-1" data-product-id="393541" 
+class="tile product-cell product-grid-cell" 
+prod-index="13"><!----><!----><!----><div class="product-tile_content"><!----><a hr
+ef="/product/snickers-minis-crunchy-peanut-butter-ice-cream-bars-10-ct-9.5-oz-box/3
+93541" aria-hidden="true" tabindex="-1"><div><!----><img src="data:image/svg+xml;ba
+se64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0ZWQgYnkgSW
+NvTW9vbi5pbyAtLT4KPCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAia
+HR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9u
+PSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly9
+3d3cudzMub3JnLzE5OTkveGxpbmsiIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgdmlld0JveD0iMCAwIDQ4ID
+Q4Ij4KPGcgaWQ9Imljb21vb24taWdub3JlIj4KCTxsaW5lIHN0cm9rZS13aWR0aD0iMSIgeDE9IiIgeTE9I
+iIgeDI9IiIgeTI9IiIgc3Ryb2tlPSIjNDQ5RkRCIiBvcGFjaXR5PSIiPjwvbGluZT4KPC9nPgoJPHBhdGgg
+ZD0iTTM4LjQ4IDkuMDcwYzAuMjQ4IDAgMC40NSAwLjIwMiAwLjQ1IDAuNDV2MjguOTU5YzAgMC4yNDgtMC4
+yMDIgMC40NS0wLjQ1IDAuNDVoLTI4Ljk1OWMtMC4yNDggMC0wLjQ1LTAuMjAyLTAuNDUtMC40NXYtMjguOT
+U5YzAtMC4yNDggMC4yMDItMC40NSAwLjQ1LTAuNDVoMjguOTU5ek0zOC40OCA4aC0yOC45NTljLTAuODQgM
+C0xLjUyIDAuNjgxLTEuNTIgMS41MjF2MjguOTU5YzAgMC44NCAwLjY4MSAxLjUyMSAxLjUyIDEuNTIxaDI4
+Ljk1OWMwLjg0IDAgMS41Mi0wLjY4MSAxLjUyLTEuNTIxdi0yOC45NTljMC0wLjg0LTAuNjgxLTEuNTIxLTE
+uNTItMS41MjF2MHoiIG9wYWNpdHk9IjEiIHZpc2liaWxpdHk9ImZhbHNlIiBmaWxsPSIjZDdkN2Q3Ij48L3
+BhdGg+Cgk8cGF0aCBkPSJNMTIuMjI4IDM1LjIyNHYtMy4zMjljMC0wLjE0NSAwLjA1OC0wLjI4NSAwLjE2L
+TAuMzg4bDUuNTg3LTUuNTg3YzAuMjE0LTAuMjE0IDAuNTYxLTAuMjE0IDAuNzc1IDBsMi4xMTkgMi4xMTlj
+MC4yMTQgMC4yMTQgMC41NjEgMC4yMTQgMC43NzUgMGw4LjE5MS04LjE5MmMwLjIxNC0wLjIxNCAwLjU2MS0
+wLjIxNCAwLjc3NSAwbDUgNWMwLjEwMyAwLjEwMyAwLjE2IDAuMjQyIDAuMTYgMC4zODh2OS45ODhjMCAwLj
+MwMy0wLjI0NSAwLjU0OC0wLjU0OCAwLjU0OGgtMjIuNDQ3Yy0wLjMwMyAwLTAuNTQ4LTAuMjQ1LTAuNTQ4L
+TAuNTQ4eiIgb3BhY2l0eT0iMSIgdmlzaWJpbGl0eT0iZmFsc2UiIGZpbGw9IiNkN2Q3ZDciPjwvcGF0aD4K
+CTxwYXRoIGQ9Ik0yMS41NDQgMTcuOTY3YzAgMS45ODItMS42MDYgMy41ODgtMy41ODggMy41ODhzLTMuNTg
+4LTEuNjA2LTMuNTg4LTMuNTg4YzAtMS45ODEgMS42MDYtMy41ODggMy41ODgtMy41ODhzMy41ODggMS42MD
+YgMy41ODggMy41ODh6IiBvcGFjaXR5PSIxIiB2aXNpYmlsaXR5PSJmYWxzZSIgZmlsbD0iI2Q3ZDdkNyI+P
+C9wYXRoPgo8L3N2Zz4K" alt="SNICKERS Minis Crunchy Peanut Butter Ice Cream Bars - 10 
+ct 9.5 OZ BOX" class="product-grid-image object-contain 
+product-grid-cell_main-image" skeleton-box-size="14rem"></div></a><div 
+class="product-grid-cell_price-tag product-grid-cell_price-tag--full-tile"><div 
+class="product-tile_detail"><div class="skeleton-loader_wrapper 
+cursor-pointer"><div class="product-grid-cell_price-container"><span 
+class="sr-only">SNICKERS Minis Crunchy Peanut Butter Ice Cream Bars - 10 
+ct</span><span class="product-grid-cell_main-price"><!----> 
+$5.29</span><!----></div><!----></div><!----></div><button 
+class="product-tile_detail-title"><div class="skeleton-loader_wrapper"><div 
+class="product-grid-cell_name"><a id="product-name-393541-17750992618125423" 
+class="product-grid-cell_name-text product-grid-cell_name-text--small 
+product-grid-cell_name-text--clamp-2" href="/product/snickers-minis-crunchy-peanut-
+butter-ice-cream-bars-10-ct-9.5-oz-box/393541" data-opens-modal="true" 
+aria-haspopup="dialog"><!----> SNICKERS Minis Crunchy Peanut Butter Ice Cream Bars 
+- 10 ct</a></div><!----><!----></div><div class="skeleton-loader_wrapper"><div 
+class="product-grid-cell_sizes"><span class="product-grid-cell_size">9.5 OZ 
+BOX</span><span aria-hidden="true"> | </span><!----><span 
+class="product-grid-cell_unit">$0.53 
+/EA</span><!----></div><!----></div><!----></button><div class="product-grid-cell_p
+romo-name"><!----><!----><!----><!----><!----><!----></div><!----><!----><!----><!-
+---><div class="margin-top--one"><!----><!----><div><!----><div 
+class="pdl-add-to-cart" product-index="14"><div 
+class="pdl-add-to-cart_button"><button class="button button--add-to-cart">Add to 
+cart <!----></button></div><!----></div></div><!----></div><!----></div></div><!---
+-><div class="mobile-product-list-cell_bottom m-4 hidden"><div class="mobile-produc
+t-list-cell_bottom_cart-ui-wrapper"><!----><!----><div><!----><div 
+class="pdl-add-to-cart" product-index="14"><div 
+class="pdl-add-to-cart_button"><button class="button button--add-to-cart">Add to 
+cart <!----></button></div><!----></div></div><!----></div><!----></div><div 
+class="product-tile_action-items" is-typeahead="false"><!----><!----><div 
+class="shopping-list-menu_container"><div class="relative-el"><button 
+class="button pdl-product-detail_top-icon button--fourth 
+pdl-product-detail_top-icon--borderless" aria-label="add to shopping list" 
+page-view="omniSearch" title=""><!----><div class="vector-icon-size--large"><svg 
+xmlns="http://www.w3.org/2000/svg" class="" aria-label="Shopping List Icon Add" 
+viewBox="0 0 40 40" role="presentation" aria-hidden="true" 
+focusable="false"><title lang="en">Shopping List Icon Add</title><desc></desc><g 
+fill="" stroke=""><svg width="40" height="40" viewBox="0 0 40 40" fill="none" 
+xmlns="http://www.w3.org/2000/svg"><path d="M25.5254 8.00391C26.8368 8.00412 
+27.9002 9.06751 27.9004 10.3789V29.6279C27.9004 30.9395 26.8369 32.0027 25.5254 
+32.0029H11.375C10.0633 32.0029 9.00002 30.9396 9 29.6279V10.3789C9.00017 9.06738 
+10.0634 8.00391 11.375 8.00391H25.5254ZM11.375 9.75391C11.0299 9.75391 10.7502 
+10.0339 10.75 10.3789V29.6279C10.75 29.9731 11.0298 30.2529 11.375 
+30.2529H25.5254C25.8704 30.2527 26.1504 29.973 26.1504 29.6279V10.3789C26.1502 
+10.034 25.8703 9.75412 25.5254 9.75391H11.375ZM18.4053 23.0439C18.8885 23.0439 
+19.2803 23.4357 19.2803 23.9189C19.2801 24.402 18.8884 24.7939 18.4053 
+24.7939H14.4053C13.9222 24.7939 13.5305 24.402 13.5303 23.9189C13.5303 23.4357 
+13.922 23.0439 14.4053 23.0439H18.4053ZM18.9053 18.5439C19.3885 18.5439 19.7803 
+18.9357 19.7803 19.4189C19.7801 19.902 19.3884 20.2939 18.9053 
+20.2939H14.4053C13.9222 20.2939 13.5305 19.902 13.5303 19.4189C13.5303 18.9357 
+13.922 18.5439 14.4053 18.5439H18.9053ZM22.7549 14.0439C23.2381 14.0439 23.6299 
+14.4357 23.6299 14.9189C23.6297 15.402 23.238 15.7939 22.7549 
+15.7939H14.4053C13.9222 15.7939 13.5305 15.402 13.5303 14.9189C13.5303 14.4357 
+13.922 14.0439 14.4053 14.0439H22.7549Z" fill="#63666A"></path><circle cx="27" 
+cy="22.5" r="6" fill="#DD1E0D"></circle><path d="M27.0039 19.1084C27.4181 19.1084 
+27.7539 19.4442 27.7539 19.8584V21.7539H29.6377C30.0519 21.7539 30.3877 22.0897 
+30.3877 22.5039C30.3877 22.9181 30.0519 23.2539 29.6377 
+23.2539H27.7539V25.1523C27.7539 25.5666 27.4181 25.9023 27.0039 25.9023C26.5898 
+25.9022 26.2539 25.5665 26.2539 25.1523V23.2539H24.3701C23.9559 23.2539 23.6201 
+22.9181 23.6201 22.5039C23.6201 22.0897 23.9559 21.7539 24.3701 
+21.7539H26.2539V19.8584L26.2578 19.7812C26.2962 19.4032 26.6157 19.1086 27.0039 
+19.1084Z" fill="white"></path></svg></g></svg></div><div 
+class="pdl-product-detail_list-tooltip"><p class="no-wrap">Sign in to add to 
+shopping list</p><em></em></div></button></div></div></div><!----></li><!----><!---
+-><!----><!----><!----><!----><li tabindex="-1" data-product-id="393540" 
+class="tile product-cell product-grid-cell" 
+prod-index="14"><!----><!----><!----><div class="product-tile_content"><!----><a hr
+ef="/product/snickers-almond-minis-vanilla-ice-cream-bars-10-ct-9.5-oz-box/393540" 
+aria-hidden="true" tabindex="-1"><div><!----><img src="data:image/svg+xml;base64,PD
+94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0ZWQgYnkgSWNvTW9vb
+i5pbyAtLT4KPCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDov
+L3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjE
+iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudz
+Mub3JnLzE5OTkveGxpbmsiIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgdmlld0JveD0iMCAwIDQ4IDQ4Ij4KP
+GcgaWQ9Imljb21vb24taWdub3JlIj4KCTxsaW5lIHN0cm9rZS13aWR0aD0iMSIgeDE9IiIgeTE9IiIgeDI9
+IiIgeTI9IiIgc3Ryb2tlPSIjNDQ5RkRCIiBvcGFjaXR5PSIiPjwvbGluZT4KPC9nPgoJPHBhdGggZD0iTTM
+4LjQ4IDkuMDcwYzAuMjQ4IDAgMC40NSAwLjIwMiAwLjQ1IDAuNDV2MjguOTU5YzAgMC4yNDgtMC4yMDIgMC
+40NS0wLjQ1IDAuNDVoLTI4Ljk1OWMtMC4yNDggMC0wLjQ1LTAuMjAyLTAuNDUtMC40NXYtMjguOTU5YzAtM
+C4yNDggMC4yMDItMC40NSAwLjQ1LTAuNDVoMjguOTU5ek0zOC40OCA4aC0yOC45NTljLTAuODQgMC0xLjUy
+IDAuNjgxLTEuNTIgMS41MjF2MjguOTU5YzAgMC44NCAwLjY4MSAxLjUyMSAxLjUyIDEuNTIxaDI4Ljk1OWM
+wLjg0IDAgMS41Mi0wLjY4MSAxLjUyLTEuNTIxdi0yOC45NTljMC0wLjg0LTAuNjgxLTEuNTIxLTEuNTItMS
+41MjF2MHoiIG9wYWNpdHk9IjEiIHZpc2liaWxpdHk9ImZhbHNlIiBmaWxsPSIjZDdkN2Q3Ij48L3BhdGg+C
+gk8cGF0aCBkPSJNMTIuMjI4IDM1LjIyNHYtMy4zMjljMC0wLjE0NSAwLjA1OC0wLjI4NSAwLjE2LTAuMzg4
+bDUuNTg3LTUuNTg3YzAuMjE0LTAuMjE0IDAuNTYxLTAuMjE0IDAuNzc1IDBsMi4xMTkgMi4xMTljMC4yMTQ
+gMC4yMTQgMC41NjEgMC4yMTQgMC43NzUgMGw4LjE5MS04LjE5MmMwLjIxNC0wLjIxNCAwLjU2MS0wLjIxNC
+AwLjc3NSAwbDUgNWMwLjEwMyAwLjEwMyAwLjE2IDAuMjQyIDAuMTYgMC4zODh2OS45ODhjMCAwLjMwMy0wL
+jI0NSAwLjU0OC0wLjU0OCAwLjU0OGgtMjIuNDQ3Yy0wLjMwMyAwLTAuNTQ4LTAuMjQ1LTAuNTQ4LTAuNTQ4
+eiIgb3BhY2l0eT0iMSIgdmlzaWJpbGl0eT0iZmFsc2UiIGZpbGw9IiNkN2Q3ZDciPjwvcGF0aD4KCTxwYXR
+oIGQ9Ik0yMS41NDQgMTcuOTY3YzAgMS45ODItMS42MDYgMy41ODgtMy41ODggMy41ODhzLTMuNTg4LTEuNj
+A2LTMuNTg4LTMuNTg4YzAtMS45ODEgMS42MDYtMy41ODggMy41ODgtMy41ODhzMy41ODggMS42MDYgMy41O
+DggMy41ODh6IiBvcGFjaXR5PSIxIiB2aXNpYmlsaXR5PSJmYWxzZSIgZmlsbD0iI2Q3ZDdkNyI+PC9wYXRo
+Pgo8L3N2Zz4K" alt="SNICKERS Almond Minis Vanilla Ice Cream Bars - 10 ct 9.5 OZ 
+BOX" class="product-grid-image object-contain product-grid-cell_main-image" 
+skeleton-box-size="14rem"></div></a><div class="product-grid-cell_price-tag 
+product-grid-cell_price-tag--full-tile"><div class="product-tile_detail"><div 
+class="skeleton-loader_wrapper cursor-pointer"><div 
+class="product-grid-cell_price-container"><span class="sr-only">SNICKERS Almond 
+Minis Vanilla Ice Cream Bars - 10 ct</span><span 
+class="product-grid-cell_main-price"><!----> 
+$5.29</span><!----></div><!----></div><!----></div><button 
+class="product-tile_detail-title"><div class="skeleton-loader_wrapper"><div 
+class="product-grid-cell_name"><a id="product-name-393540-17750992618274054" 
+class="product-grid-cell_name-text product-grid-cell_name-text--small 
+product-grid-cell_name-text--clamp-2" href="/product/snickers-almond-minis-vanilla-
+ice-cream-bars-10-ct-9.5-oz-box/393540" data-opens-modal="true" 
+aria-haspopup="dialog"><!----> SNICKERS Almond Minis Vanilla Ice Cream Bars - 10 
+ct</a></div><!----><!----></div><div class="skeleton-loader_wrapper"><div 
+class="product-grid-cell_sizes"><span class="product-grid-cell_size">9.5 OZ 
+BOX</span><span aria-hidden="true"> | </span><!----><span 
+class="product-grid-cell_unit">$0.53 
+/EA</span><!----></div><!----></div><!----></button><div class="product-grid-cell_p
+romo-name"><!----><!----><!----><!----><!----><!----></div><!----><!----><!----><!-
+---><div class="margin-top--one"><!----><!----><div><!----><div 
+class="pdl-add-to-cart" product-index="15"><div 
+class="pdl-add-to-cart_button"><button class="button button--add-to-cart">Add to 
+cart <!----></button></div><!----></div></div><!----></div><!----></div></div><!---
+-><div class="mobile-product-list-cell_bottom m-4 hidden"><div class="mobile-produc
+t-list-cell_bottom_cart-ui-wrapper"><!----><!----><div><!----><div 
+class="pdl-add-to-cart" product-index="15"><div 
+class="pdl-add-to-cart_button"><button class="button button--add-to-cart">Add to 
+cart <!----></button></div><!----></div></div><!----></div><!----></div><div 
+class="product-tile_action-items" is-typeahead="false"><!----><!----><div 
+class="shopping-list-menu_container"><div class="relative-el"><button 
+class="button pdl-product-detail_top-icon button--fourth 
+pdl-product-detail_top-icon--borderless" aria-label="add to shopping list" 
+page-view="omniSearch" title=""><!----><div class="vector-icon-size--large"><svg 
+xmlns="http://www.w3.org/2000/svg" class="" aria-label="Shopping List Icon Add" 
+viewBox="0 0 40 40" role="presentation" aria-hidden="true" 
+focusable="false"><title lang="en">Shopping List Icon Add</title><desc></desc><g 
+fill="" stroke=""><svg width="40" height="40" viewBox="0 0 40 40" fill="none" 
+xmlns="http://www.w3.org/2000/svg"><path d="M25.5254 8.00391C26.8368 8.00412 
+27.9002 9.06751 27.9004 10.3789V29.6279C27.9004 30.9395 26.8369 32.0027 25.5254 
+32.0029H11.375C10.0633 32.0029 9.00002 30.9396 9 29.6279V10.3789C9.00017 9.06738 
+10.0634 8.00391 11.375 8.00391H25.5254ZM11.375 9.75391C11.0299 9.75391 10.7502 
+10.0339 10.75 10.3789V29.6279C10.75 29.9731 11.0298 30.2529 11.375 
+30.2529H25.5254C25.8704 30.2527 26.1504 29.973 26.1504 29.6279V10.3789C26.1502 
+10.034 25.8703 9.75412 25.5254 9.75391H11.375ZM18.4053 23.0439C18.8885 23.0439 
+19.2803 23.4357 19.2803 23.9189C19.2801 24.402 18.8884 24.7939 18.4053 
+24.7939H14.4053C13.9222 24.7939 13.5305 24.402 13.5303 23.9189C13.5303 23.4357 
+13.922 23.0439 14.4053 23.0439H18.4053ZM18.9053 18.5439C19.3885 18.5439 19.7803 
+18.9357 19.7803 19.4189C19.7801 19.902 19.3884 20.2939 18.9053 
+20.2939H14.4053C13.9222 20.2939 13.5305 19.902 13.5303 19.4189C13.5303 18.9357 
+13.922 18.5439 14.4053 18.5439H18.9053ZM22.7549 14.0439C23.2381 14.0439 23.6299 
+14.4357 23.6299 14.9189C23.6297 15.402 23.238 15.7939 22.7549 
+15.7939H14.4053C13.9222 15.7939 13.5305 15.402 13.5303 14.9189C13.5303 14.4357 
+13.922 14.0439 14.4053 14.0439H22.7549Z" fill="#63666A"></path><circle cx="27" 
+cy="22.5" r="6" fill="#DD1E0D"></circle><path d="M27.0039 19.1084C27.4181 19.1084 
+27.7539 19.4442 27.7539 19.8584V21.7539H29.6377C30.0519 21.7539 30.3877 22.0897 
+30.3877 22.5039C30.3877 22.9181 30.0519 23.2539 29.6377 
+23.2539H27.7539V25.1523C27.7539 25.5666 27.4181 25.9023 27.0039 25.9023C26.5898 
+25.9022 26.2539 25.5665 26.2539 25.1523V23.2539H24.3701C23.9559 23.2539 23.6201 
+22.9181 23.6201 22.5039C23.6201 22.0897 23.9559 21.7539 24.3701 
+21.7539H26.2539V19.8584L26.2578 19.7812C26.2962 19.4032 26.6157 19.1086 27.0039 
+19.1084Z" fill="white"></path></svg></g></svg></div><div 
+class="pdl-product-detail_list-tooltip"><p class="no-wrap">Sign in to add to 
+shopping list</p><em></em></div></button></div></div></div><!----></li><li 
+class="mx-auto max-w-[124rem] 
+mb-6"><!----></li><!----></ul></div><!----><!----></div><!----><div 
+class="relative pb-20 top-12 flex justify-center"><a class="relative 
+cursor-pointer text-black font-bold text-[16px] leading-[1.6rem]"> Back to Top </a>
+<!----></div></div><!----><!----><!----></div></div><!----><!----></div></div></div
+></div></div><!----><!----><div class="chat fixed" aria-hidden="false"><div 
+class="launchchat flex items-center justify-center rounded"><button 
+class="launchchat-button border border-solid" aria-label="Launch chat"><div 
+class="vector-icon-size--large flex justify-center align-center"><svg 
+xmlns="http://www.w3.org/2000/svg" class="" aria-label="CarrotLeft" viewBox="0 0 
+32 32" role="presentation" aria-hidden="true" focusable="false"><title 
+lang="en">CarrotLeft</title><desc></desc><g fill="white" stroke=""><g><path 
+d="M11.3413293,5.64 L11.3413293,5.77086565 L11.2950114,5.77846976 
+C7.58642302,6.45502076 4.8,9.69702643 4.8,13.5695795 L4.804508,13.8384085 
+C4.90944073,16.9638182 6.83736605,19.6957162 9.65517453,20.8798148 
+L9.70843852,20.9004975 L9.70892682,26.3739974 L15.2282345,21.499159 
+L19.2704205,21.499159 C23.6498149,21.499159 27.2,17.9489738 27.2,13.5695795 
+C27.2,9.19018515 23.6498149,5.64 19.2704205,5.64 L11.3413293,5.64 Z 
+M12.3751035,7.61254129 L12.69198,7.59321867 L19.2704205,7.59321867 
+C22.571082,7.59321867 25.2467813,10.268918 25.2467813,13.5695795 
+C25.2467813,16.870241 22.571082,19.5459403 19.2704205,19.5459403 
+L14.4905808,19.5459403 L11.6616572,22.0431304 L11.6621455,19.4942309 
+L10.9722923,19.282333 C8.48441154,18.5181463 6.75321867,16.2122725 
+6.75321867,13.5695795 C6.75321867,10.4041473 9.22541569,7.79722178 
+12.3751035,7.61254129 Z" 
+fill-rule="nonzero"></path></g></g></svg></div></button></div><div 
+class="chatwindow" style="display: none;"><header class="chatwindow-header flex 
+items-center justify-between"><div class="chatwindow-header_title flex flex-row 
+items-center justify-start font-semibold"><div class="chatwindow-header_text">Live 
+Chat</div></div><div class="flex justify-end items-center"><div 
+class="chatwindow-close"><button class="chatwindow-header_button h-12 w-12 p-0 
+leading-none flex-shrink-0 btn" aria-label="close chat"><div 
+class="vector-icon-size--xsmall"><svg xmlns="http://www.w3.org/2000/svg" 
+class="vector-icon-color--white" aria-label="Minus" viewBox="0 0 32 32" 
+role="presentation" aria-hidden="true" focusable="false"><title 
+lang="en">Minus</title><desc></desc><g fill="" stroke="black"><path d="M0 
+12.574h32v6.859h-32v-6.859z"></path></g></svg></div></button><button 
+class="chatwindow-header_button h-12 w-12 p-0 leading-none flex-shrink-0 btn" 
+aria-label="close chat"><div class="vector-icon-size--xsmall"><svg 
+xmlns="http://www.w3.org/2000/svg" class="vector-icon-color--white" 
+aria-label="Close" viewBox="0 0 32 32" role="presentation" aria-hidden="true" 
+focusable="false"><title lang="en">Close</title><desc></desc><g fill="" 
+stroke="black"><path d="M0.646 31.354c0.861 0.861 2.262 0.861 3.123 0l12.23-12.23 
+12.23 12.23c0.861 0.861 2.262 0.861 3.123 0s0.861-2.262 0-3.123l-12.23-12.23 
+12.23-12.23c0.861-0.861 0.861-2.262 0-3.123s-2.262-0.861-3.123 0l-12.23 
+12.23-12.23-12.23c-0.861-0.861-2.262-0.861-3.123 0s-0.861 2.262 0 3.123l12.23 
+12.23-12.23 12.23c-0.862 0.861-0.862 2.262 0 
+3.123z"></path></g></svg></div></button></div></div></header><div 
+class="chatwindow-content overflow-x-hidden"><div 
+class="h-full"><!----><!----><!----></div></div></div><!----></div></div></div>
+  martins_body.html:22:
+  martins_body.html:23: 
+  martins_body.html:24:<iframe name="__launchpadLocator" style="display: 
+none;"></iframe><script src="https://cdn.optimizely.com/js/8545500175.js" 
+type="text/javascript" async="" id="undefined"></script><div 
+id="onetrust-consent-sdk" data-nosnippet="true"><div 
+class="onetrust-pc-dark-filter ot-hide ot-fade-in"></div><div id="onetrust-pc-sdk" 
+class="otPcCenter ot-hide ot-fade-in ot-tgl-with-label" lang="en" 
+aria-label="Preference center" role="region"><div role="dialog" aria-modal="true" 
+style="height: 100%;"><!-- Close Button --><div class="ot-pc-header"><!-- Logo Tag 
+--><div class="ot-pc-logo" role="img" aria-label="Company Logo"><img alt="Company 
+Logo" src="https://cdn.cookielaw.org/logos/fa812e0e-a461-4a65-ba51-4e453e4d25ad/fce
+ca335-0f68-4e99-9c0a-3b7c45e0d5eb/55972357-698e-47e4-b823-f3ad0fc7448c/Brand=MRTN,_
+Logo_Type=MARTINS.png"></div><button id="close-pc-btn-handler" 
+class="ot-close-icon" aria-label="Close preference center" 
+style="background-image: url(&quot;https://cdn.cookielaw.org/logos/static/ot_close.
+svg&quot;);"></button></div><!-- Close Button --><div id="ot-pc-content" 
+class="ot-pc-scrollbar"><div class="ot-optout-signal ot-hide"><div 
+class="ot-optout-icon"><svg xmlns="http://www.w3.org/2000/svg" 
+aria-hidden="true"><path class="ot-floating-button__svg-fill" d="M14.588 
+0l.445.328c1.807 1.303 3.961 2.533 6.461 3.688 2.015.93 4.576 1.746 7.682 2.446 0 
+14.178-4.73 24.133-14.19 29.864l-.398.236C4.863 30.87 0 20.837 0 6.462c3.107-.7 
+5.668-1.516 7.682-2.446 2.709-1.251 5.01-2.59 6.906-4.016zm5.87 13.88a.75.75 0 
+00-.974.159l-5.475 6.625-3.005-2.997-.077-.067a.75.75 0 00-.983 1.13l4.172 4.16 
+6.525-7.895.06-.083a.75.75 0 00-.16-.973z" fill="#FFF" 
+fill-rule="evenodd"></path></svg></div><span></span></div><h2 
+id="ot-pc-title"></h2><div id="ot-pc-desc">Your privacy is important to us. As a 
+MARTIN'S customer, you can opt out of targeted advertising and the sale of 
+personal information. To opt out of targeted advertising and the sale of personal 
+information that involve automated technologies, like web browser cookies and 
+trackers, please follow the instructions below.  For more information about our 
+privacy and cookie practices, visit our <a 
+href="https://martinsfoods.com/pages/privacy-policy">Privacy Statement</a>. 
+  martins_body.html:25:<br><br>
+  martins_body.html:26:Your opt-out request will be specific to the browser and 
+device you are using to access this site right now, and will apply only to the 
+site on which you submit this request. If you clear your web browser cookies, or 
+use a new browser or device to access the site, you will need to request a new 
+opt-out.
+  martins_body.html:27:<br><br>
+  martins_body.html:28:To opt out of other disclosures that do not involve 
+automated technologies on this site, complete the <a href="https://privacyportal.on
+etrust.com/hosted-webform/consent/fa812e0e-a461-4a65-ba51-4e453e4d25ad/01c039bc-0eb
+7-472e-84b8-98c2ba5782bf">Non-Automated Opt-Out form</a>.
+  martins_body.html:29:<br><br>
+  martins_body.html:30:To Opt-out of Targeted Advertising and Sale of Personal 
+Information, move the toggle below to the left so that it is no longer red and 
+click on the “Confirm My Choices” button to save your opt-out 
+choice.</div><section class="ot-sdk-row ot-cat-grp"><h3 id="ot-category-title"> 
+Manage Consent Preferences</h3><div class="ot-accordion-layout ot-cat-item 
+ot-vs-config" data-optanongroupid="BG51"><button aria-expanded="false" 
+ot-accordion="true" aria-controls="ot-desc-id-BG51" 
+aria-labelledby="ot-header-id-BG51"></button><!-- Accordion header --><div 
+class="ot-acc-hdr"><div class="ot-plus-minus"><span></span><span></span></div><h4 
+class="ot-cat-header" id="ot-header-id-BG51">To Opt-out of Targeted Advertising 
+and Sale of Personal Information, toggle left  and click “Confirm My 
+Choices"</h4><div class="ot-tgl"><input type="checkbox" name="ot-group-id-BG51" 
+id="ot-group-id-BG51" role="switch" class="category-switch-handler" 
+data-optanongroupid="BG51" checked="" aria-labelledby="ot-header-id-BG51"> <label 
+class="ot-switch" for="ot-group-id-BG51"><span class="ot-switch-nob"></span> <span 
+class="ot-label-txt">To Opt-out of Targeted Advertising and Sale of Personal 
+Information, toggle left  and click “Confirm My Choices"</span></label> <span 
+class="ot-label-status">Opted-In</span></div></div><!-- accordion detail --><div 
+class="ot-acc-grpcntr ot-acc-txt"><p class="ot-acc-grpdesc ot-category-desc" 
+id="ot-desc-id-BG51">To opt out, move the toggle above to the left and click on 
+the “Confirm My Choice” button to save your opt-out choice.</p></div></div><!-- 
+Groups sections starts --><!-- Group section ends --><!-- Accordion Group section 
+starts --><!-- Accordion Group section ends --></section></div><section 
+id="ot-pc-lst" class="ot-hide ot-hosts-ui ot-pc-scrollbar"><div 
+id="ot-pc-hdr"><div id="ot-lst-title"><button class="ot-link-btn back-btn-handler" 
+aria-label="Back"><svg id="ot-back-arw" xmlns="http://www.w3.org/2000/svg" 
+xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 444.531 
+444.531" xml:space="preserve"><title>Back Button</title><g><path fill="#656565" d="
+M213.13,222.409L351.88,83.653c7.05-7.043,10.567-15.657,10.567-25.841c0-10.183-3.518
+-18.793-10.567-25.835
+  martins_body.html:31:                    l-21.409-21.416C323.432,3.521,314.817,0,
+304.637,0s-18.791,3.521-25.841,10.561L92.649,196.425
+  martins_body.html:32:                    c-7.044,7.043-10.566,15.656-10.566,25.84
+1s3.521,18.791,10.566,25.837l186.146,185.864c7.05,7.043,15.66,10.564,25.841,10.564
+  martins_body.html:33:                    s18.795-3.521,25.834-10.564l21.409-21.41
+2c7.05-7.039,10.567-15.604,10.567-25.697c0-10.085-3.518-18.746-10.567-25.978
+  martins_body.html:34:                    
+L213.13,222.409z"></path></g></svg></button><h3>Cookie List</h3></div><div 
+class="ot-lst-subhdr"><div class="ot-search-cntr"><p role="status" 
+class="ot-scrn-rdr"></p><input id="vendor-search-handler" type="text" 
+name="vendor-search-handler" placeholder="Search…" aria-label="Cookie list 
+search"> <svg xmlns="http://www.w3.org/2000/svg" 
+xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 -30 110 110" 
+aria-hidden="true"><title>Search Icon</title><path fill="#2e3644" d="M55.146,51.887
+L41.588,37.786c3.486-4.144,5.396-9.358,5.396-14.786c0-12.682-10.318-23-23-23s-23,10
+.318-23,23
+  martins_body.html:35:            s10.318,23,23,23c4.761,0,9.298-1.436,13.177-4.16
+2l13.661,14.208c0.571,0.593,1.339,0.92,2.162,0.92
+  martins_body.html:36:            
+c0.779,0,1.518-0.297,2.079-0.837C56.255,54.982,56.293,53.08,55.146,51.887z 
+M23.984,6c9.374,0,17,7.626,17,17s-7.626,17-17,17
+  martins_body.html:37:            
+s-17-7.626-17-17S14.61,6,23.984,6z"></path></svg></div><div 
+class="ot-fltr-cntr"><button id="filter-btn-handler" aria-label="Filter" 
+aria-haspopup="true"><svg role="presentation" aria-hidden="true" 
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+x="0px" y="0px" viewBox="0 0 402.577 402.577" xml:space="preserve"><title>Filter 
+Icon</title><g><path fill="#fff" d="M400.858,11.427c-3.241-7.421-8.85-11.132-16.854
+-11.136H18.564c-7.993,0-13.61,3.715-16.846,11.136
+  martins_body.html:38:      c-3.234,7.801-1.903,14.467,3.999,19.985l140.757,140.75
+3v138.755c0,4.955,1.809,9.232,5.424,12.854l73.085,73.083
+  martins_body.html:39:      c3.429,3.614,7.71,5.428,12.851,5.428c2.282,0,4.66-0.47
+9,7.135-1.43c7.426-3.238,11.14-8.851,11.14-16.845V172.166L396.861,31.413
+  martins_body.html:40:      C402.765,25.895,404.093,19.231,400.858,11.427z"></path
+></g></svg></button></div><div id="ot-anchor"></div><section 
+id="ot-fltr-modal"><div id="ot-fltr-cnt"><div 
+id="ot-filter-list-header"></div><button 
+id="clear-filters-handler">Clear</button><div class="ot-fltr-scrlcnt 
+ot-pc-scrollbar"><div class="ot-fltr-opts" role="list"><div class="ot-fltr-opt" 
+role="listitem"><div class="ot-chkbox"><input id="chkbox-id" type="checkbox" 
+class="category-filter-handler"> <label for="chkbox-id"><span 
+class="ot-label-txt">checkbox label</span></label> <span 
+class="ot-label-status">label</span></div></div></div><div 
+class="ot-fltr-btns"><button id="filter-apply-handler">Apply</button> <button id="f
+ilter-cancel-handler">Cancel</button></div></div></div></section></div></div><secti
+on id="ot-lst-cnt" class="ot-host-cnt ot-pc-scrollbar"><div id="ot-sel-blk"><div 
+class="ot-sel-all"><div class="ot-sel-all-hdr"><span 
+class="ot-consent-hdr">Consent</span> <span 
+class="ot-li-hdr">Leg.Interest</span></div><div class="ot-sel-all-chkbox"><div 
+class="ot-chkbox" id="ot-selall-hostcntr"><input 
+id="select-all-hosts-groups-handler" type="checkbox"> <label 
+for="select-all-hosts-groups-handler"><span class="ot-label-txt">checkbox 
+label</span></label> <span class="ot-label-status">label</span></div><div 
+class="ot-chkbox" id="ot-selall-vencntr"><input 
+id="select-all-vendor-groups-handler" type="checkbox"> <label 
+for="select-all-vendor-groups-handler"><span class="ot-label-txt">checkbox 
+label</span></label> <span class="ot-label-status">label</span></div><div 
+class="ot-chkbox" id="ot-selall-licntr"><input id="select-all-vendor-leg-handler" 
+type="checkbox"> <label for="select-all-vendor-leg-handler"><span 
+class="ot-label-txt">checkbox label</span></label> <span 
+class="ot-label-status">label</span></div></div></div></div><div 
+class="ot-sdk-row"><div class="ot-sdk-column"></div></div></section></section><div 
+class="ot-pc-footer ot-pc-scrollbar"><div class="ot-btn-container"> <button 
+class="save-preference-btn-handler onetrust-close-btn-handler" 
+ot-button-order="2">Confirm My Choices</button></div><!-- Footer logo --><div 
+class="ot-pc-footer-logo"><a 
+href="https://www.onetrust.com/products/cookie-consent/" target="_blank" 
+rel="noopener noreferrer" aria-label="Powered by OneTrust Opens in a new Tab"><img 
+alt="Powered by Onetrust" 
+src="https://cdn.cookielaw.org/logos/static/powered_by_logo.svg" title="Powered by 
+OneTrust Opens in a new Tab"></a></div></div><!-- Cookie subgroup container 
+--><!-- Vendor list link --><!-- Cookie lost link --><!-- Toggle HTML element 
+--><!-- Checkbox HTML --><!-- plus minus--><!-- Arrow SVG element --><!-- 
+Accordion basic element --><span class="ot-scrn-rdr" aria-atomic="true" 
+aria-live="polite"></span><!-- Vendor Service container and item template 
+--></div><iframe class="ot-text-resize" sandbox="allow-same-origin" 
+title="onetrust-text-resize" style="position: absolute; top: -50000px; width: 
+100em;" aria-hidden="true"></iframe></div></div><iframe 
+src="https://a8474790541.cdn.optimizely.com/client_storage/a8474790541.html" 
+hidden="" tabindex="-1" title="Optimizely Internal Frame" height="0" width="0" 
+style="display: none;"></iframe><img src="https://ads-adusa.adhese.com/track/225345
+//sl182/dtdesktop/ogcontrol/IIcf8bd63a-fdf1-4dcd-9bc6-87f225ee99ca/tlall/ptsearch/k
+wsnickers/pz817/mdinstore/A20.0.0.0/?t=1775099260985" style="height: 1px; width: 
+1px; margin: -1px; border: 0px; position: absolute; top: 0px;"><img src="https://di
+gitalcontent1.martinsfoods.com/rtb_gateway/handlers/client/track?id=33b8e7ac-3b5f-4
+433-8c32-e59ae01636eb" style="height: 1px; width: 1px; margin: -1px; border: 0px; 
+position: absolute; top: 0px;"><iframe class="embeddedMessagingSiteContextFrame" 
+id="embeddedMessagingSiteContextFrame" name="embeddedMessagingSiteContextFrame" src
+="https://adusa.my.site.com/ESWCC360BrandWebsiteWebDeployments/assets/htdocs/siteco
+ntext.min.html?parent_domain=https%3A%2F%2Fmartinsfoods.com"></iframe></body></html
+>
+
+
