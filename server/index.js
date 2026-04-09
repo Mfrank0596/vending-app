@@ -14,7 +14,10 @@ app.use(express.json());
 
 // Import and Init Database Service
 const databaseService = require('./databaseService');
-databaseService.initDb();
+databaseService.initDb().catch(err => {
+  console.error("❌ CRITICAL: Could not connect to Turso Cloud DB. Check your .env keys!");
+  console.error(err);
+});
 
 const PORT = process.env.PORT || 3001;
 
@@ -498,17 +501,31 @@ app.get('/api/history/:machineName', async (req, res) => {
   }
 });
 
-// SERVE FRONTEND (Production Only)
-// In development, we use the Vite dev server. In production (Render), we serve from /client/dist
-const buildPath = path.join(__dirname, '../client/dist');
-app.use(express.static(buildPath));
+// --- DIAGNOSTICS ---
+app.get('/health', (req, res) => res.send('🚀 Vending Backend is Alive and Talking to Turso!'));
 
-app.get('*', (req, res) => {
-  if (!req.url.startsWith('/api/')) {
-    res.sendFile(path.join(buildPath, 'index.html'));
+// SERVE FRONTEND (Production Only)
+const buildPath = path.resolve(__dirname, '..', 'client', 'dist');
+console.log(`[Static Host] Searching for Dashboard in: ${buildPath}`);
+
+if (fs.existsSync(buildPath)) {
+  console.log(`[Static Host] Found files: ${fs.readdirSync(buildPath).join(', ')}`);
+  app.use(express.static(buildPath));
+} else {
+  console.error(`[Static Host] CRITICAL ERROR: Dashboard folder NOT FOUND at ${buildPath}. Did you run 'npm run build'?`);
+}
+
+// CATCH-ALL: Serve the Dashboard for any other link (SPA Routing)
+app.use((req, res) => {
+  const indexPath = path.join(buildPath, 'index.html');
+  if (fs.existsSync(indexPath)) {
+    res.sendFile(indexPath);
+  } else {
+    res.status(404).send(`<h1>Frontend Build Missing</h1><p>The server is looking here: <code>${indexPath}</code></p><p>Please run <code>npm run build</code> in the root folder.</p>`);
   }
 });
 
 app.listen(PORT, '0.0.0.0', () => {
   console.log(`\n🚀 Vending Backend Server running on port ${PORT}`);
+  console.log(`🔗 Local Test: http://localhost:${PORT}/health`);
 });
