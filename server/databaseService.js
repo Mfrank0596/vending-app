@@ -1,9 +1,19 @@
 const { createClient } = require('@libsql/client');
 
-const client = createClient({
-  url: process.env.TURSO_DATABASE_URL,
-  authToken: process.env.TURSO_AUTH_TOKEN,
-});
+let client;
+
+try {
+  if (!process.env.TURSO_DATABASE_URL) {
+    console.warn("⚠️ WARNING: TURSO_DATABASE_URL is not set. Database operations will fail.");
+  } else {
+    client = createClient({
+      url: process.env.TURSO_DATABASE_URL,
+      authToken: process.env.TURSO_AUTH_TOKEN,
+    });
+  }
+} catch (e) {
+  console.error("Failed to construct Turso client:", e.message);
+}
 
 // Scaffold the initial historic database tables in the cloud
 async function initDb() {
